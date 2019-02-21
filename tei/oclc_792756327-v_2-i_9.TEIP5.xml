@@ -4,350 +4,350 @@
 <?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
-   <tei:teiHeader xml:lang="en">
-      <tei:fileDesc>
-         <tei:titleStmt>
-            <tei:title>
-               <tei:bibl>Ḥasnāʾ 2(9), 20 Mar 1911 (EAP copy)</tei:bibl>
-            </tei:title>
-         </tei:titleStmt>
-         <tei:editionStmt>
-            <tei:edition>
-               <tei:date when="2019-02-21">21 Feb. 2019</tei:date>
-            </tei:edition>
-            <tei:respStmt>
-               <tei:resp>Created the original TEI P5 XML file</tei:resp>
-               <tei:persName xml:id="pers_TG">Till Grallert</tei:persName>
-            </tei:respStmt>
-         </tei:editionStmt>
-         <tei:publicationStmt>
-            <tei:p>This should be replaced with some description</tei:p>
-         </tei:publicationStmt>
-         <tei:sourceDesc>
-            <tei:biblStruct xml:lang="ar-Latn-x-ijmes">
-               <tei:monogr>
-                  <tei:title level="j">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</tei:title>
-                  <tei:title level="a">9</tei:title>
-                  <tei:idno type="Signatur"/>
-                  <tei:idno type="callNumber">EAP119/1/8/2</tei:idno>
-                  <tei:idno type="CitationID">hasna 9</tei:idno>
-                  <tei:idno type="SenteUUID">4CE1B859-5A77-4760-9A7A-0B3595C347E7</tei:idno>
-                  <tei:idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=891;r=18007</tei:idno>
-                  <tei:imprint>
-                     <tei:publisher>
-                        <tei:orgName>Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</tei:orgName>
-                     </tei:publisher>
-                     <tei:pubPlace>
-                        <tei:placeName>Bayrūt</tei:placeName>
-                     </tei:pubPlace>
-                     <tei:date when="1911-03-20">20 Mar 1911</tei:date>
-                     <tei:date xml:lang="ar-Latn-x-ijmes"
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <bibl>Ḥasnāʾ 2(9), 20 Mar 1911 (EAP copy)</bibl>
+            </title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date when="2019-02-21">21 Feb. 2019</date>
+            </edition>
+            <respStmt>
+               <resp>Created the original TEI P5 XML file</resp>
+               <persName xml:id="pers_TG">Till Grallert</persName>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <p>This should be replaced with some description</p>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct xml:lang="ar-Latn-x-ijmes">
+               <monogr>
+                  <title level="j">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
+                  <title level="a">9</title>
+                  <idno type="Signatur"/>
+                  <idno type="callNumber">EAP119/1/8/2</idno>
+                  <idno type="CitationID">hasna 9</idno>
+                  <idno type="SenteUUID">4CE1B859-5A77-4760-9A7A-0B3595C347E7</idno>
+                  <idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=891;r=18007</idno>
+                  <imprint>
+                     <publisher>
+                        <orgName>Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+                     </publisher>
+                     <pubPlace>
+                        <placeName>Bayrūt</placeName>
+                     </pubPlace>
+                     <date when="1911-03-20">20 Mar 1911</date>
+                     <date xml:lang="ar-Latn-x-ijmes"
                                when="1911-03-20"
                                when-custom="1911-03-07"
                                calendar="#cal_julian"
-                               datingMethod="#cal_julian">7 Ādhār 1911, Monday</tei:date>
-                     <tei:biblScope unit="issue" from="2" to="2">2</tei:biblScope>
-                     <tei:biblScope unit="volume" from="9" to="9">9</tei:biblScope>
-                     <tei:biblScope unit="page" from="1" to="42">1-42</tei:biblScope>
-                  </tei:imprint>
-               </tei:monogr>
-            </tei:biblStruct>
-         </tei:sourceDesc>
-      </tei:fileDesc>
-      <tei:revisionDesc>
+                               datingMethod="#cal_julian">7 Ādhār 1911, Monday</date>
+                     <biblScope unit="issue" from="2" to="2">2</biblScope>
+                     <biblScope unit="volume" from="9" to="9">9</biblScope>
+                     <biblScope unit="page" from="1" to="42">1-42</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
          <change
                  when="2019-02-21"
                  who="#pers_TG"
                  xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
-      </tei:revisionDesc>
-   </tei:teiHeader>
-   <tei:facsimile>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_1">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_001_L.jpg"
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_1">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_001_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_1_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_2">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_002_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_2">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_002_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_2_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_3">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_003_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_3">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_003_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_3_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_4">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_004_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_4">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_004_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_4_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_5">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_005_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_5">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_005_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_5_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_6">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_006_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_6">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_006_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_6_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_7">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_007_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_7">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_007_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_7_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_8">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_008_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_8">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_008_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_8_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_9">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_009_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_9">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_009_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_9_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_10">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_010_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_10">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_010_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_10_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_11">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_011_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_11">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_011_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_11_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_12">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_012_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_12">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_012_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_12_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_13">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_013_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_13">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_013_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_13_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_14">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_014_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_14">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_014_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_14_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_15">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_015_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_15">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_015_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_15_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_16">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_016_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_16">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_016_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_16_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_17">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_017_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_17">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_017_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_17_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_18">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_018_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_18">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_018_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_18_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_19">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_019_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_19">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_019_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_19_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_20">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_020_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_20">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_020_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_20_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_21">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_021_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_21">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_021_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_21_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_22">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_022_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_22">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_022_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_22_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_23">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_023_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_23">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_023_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_23_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_24">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_024_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_24">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_024_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_24_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_25">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_025_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_25">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_025_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_25_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_26">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_026_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_26">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_026_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_26_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_27">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_027_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_27">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_027_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_27_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_28">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_028_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_28">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_028_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_28_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_29">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_029_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_29">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_029_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_29_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_30">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_030_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_30">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_030_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_30_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_31">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_031_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_31">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_031_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_31_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_32">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_032_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_32">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_032_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_32_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_33">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_033_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_33">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_033_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_33_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_34">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_034_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_34">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_034_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_34_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_35">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_035_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_35">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_035_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_35_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_36">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_036_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_36">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_036_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_36_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_37">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_037_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_37">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_037_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_37_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_38">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_038_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_38">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_038_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_38_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_39">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_039_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_39">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_039_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_39_source"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_40">
-         <tei:graphic mimeType="image/jpeg" url="../images/1911/191103_040_L.jpg"
+      </surface>
+      <surface xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_40">
+         <graphic mimeType="image/jpeg" url="../images/1911/191103_040_L.jpg"
                       xml:id="facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_40_source"/>
-      </tei:surface>
-   </tei:facsimile>
-   <tei:text xml:lang="ar">
-      <tei:body>
-         <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_1"
+      </surface>
+   </facsimile>
+   <text xml:lang="ar">
+      <body>
+         <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_1"
                  facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_1"
                  n="1"/>
-         <tei:div type="item">
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_2"
+         <div type="item">
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_2"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_2"
                     n="2"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_3"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_3"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_3"
                     n="3"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_4"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_4"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_4"
                     n="4"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_5"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_5"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_5"
                     n="5"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_6"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_6"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_6"
                     n="6"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_7"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_7"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_7"
                     n="7"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_8"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_8"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_8"
                     n="8"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_9"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_9"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_9"
                     n="9"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_10"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_10"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_10"
                     n="10"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_11"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_11"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_11"
                     n="11"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_12"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_12"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_12"
                     n="12"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_13"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_13"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_13"
                     n="13"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_14"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_14"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_14"
                     n="14"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_15"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_15"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_15"
                     n="15"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_16"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_16"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_16"
                     n="16"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_17"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_17"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_17"
                     n="17"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_18"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_18"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_18"
                     n="18"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_19"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_19"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_19"
                     n="19"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_20"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_20"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_20"
                     n="20"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_21"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_21"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_21"
                     n="21"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_22"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_22"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_22"
                     n="22"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_23"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_23"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_23"
                     n="23"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_24"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_24"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_24"
                     n="24"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_25"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_25"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_25"
                     n="25"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_26"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_26"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_26"
                     n="26"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_27"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_27"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_27"
                     n="27"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_28"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_28"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_28"
                     n="28"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_29"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_29"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_29"
                     n="29"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_30"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_30"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_30"
                     n="30"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_31"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_31"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_31"
                     n="31"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_32"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_32"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_32"
                     n="32"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_33"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_33"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_33"
                     n="33"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_34"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_34"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_34"
                     n="34"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_35"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_35"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_35"
                     n="35"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_36"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_36"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_36"
                     n="36"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_37"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_37"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_37"
                     n="37"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_38"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_38"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_38"
                     n="38"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_39"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_39"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_39"
                     n="39"/>
-            <tei:pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_40"
+            <pb ed="print" xml:id="pb_4CE1B859-5A77-4760-9A7A-0B3595C347E7_40"
                     facs="#facs_4CE1B859-5A77-4760-9A7A-0B3595C347E7_40"
                     n="40"/>
-         </tei:div>
-      </tei:body>
-   </tei:text>
-</tei:TEI>
+         </div>
+      </body>
+   </text>
+</TEI>
