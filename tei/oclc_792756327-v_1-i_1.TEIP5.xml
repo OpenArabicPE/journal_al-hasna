@@ -53,7 +53,7 @@
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e108" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+        <revisionDesc><tei:change when="2019-02-21" who="#pers_TG" xml:id="d2e149">Added automated page numbers as <att>n</att>s in addition to <att>ed</att>="print" and <att>edRef</att>="#edition_1" for every<gi>pb</gi> that was not of <att>ed</att>="shamela".</tei:change><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e108" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
             <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
         </revisionDesc>
     </teiHeader>
@@ -175,34 +175,34 @@
     </facsimile>
     <text xml:lang="ar">
         <body change="#d2e108" xml:lang="ar">
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_6" n="6" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_6"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_6" n="1" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_6" edRef="#edition_1"/>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">حمد ودعاء وبيان</head>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_7" n="7" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_7"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_7" n="2" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_7" edRef="#edition_1"/>
             </div>
-            <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_8" n="8" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_8"/>
+            <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_8" n="3" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_8" edRef="#edition_1"/>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">
                     <persName change="#d2e108" xml:lang="ar">مدام دي ستال</persName>
                 </head>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_9" n="9" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_9"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_10" n="10" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_10"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_11" n="11" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_11"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_12" n="12" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_12"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_13" n="13" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_13"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_14" n="14" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_14"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_15" n="15" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_15"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_16" n="16" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_16"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_9" n="4" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_9" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_10" n="5" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_10" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_11" n="6" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_11" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_12" n="7" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_12" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_13" n="8" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_13" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_14" n="9" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_14" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_15" n="10" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_15" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_16" n="11" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_16" edRef="#edition_1"/>
             </div>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">لمحة في المرأة</head>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_17" n="17" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_17"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_17" n="12" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_17" edRef="#edition_1"/>
             </div>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">المجلات النسائية العربية</head>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_18" n="18" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_18"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_19" n="19" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_19"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_20" n="20" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_20"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_18" n="13" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_18" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_19" n="14" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_19" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_20" n="15" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_20" edRef="#edition_1"/>
             </div>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">الى الامام الى العلى</head>
@@ -216,13 +216,13 @@
                         الكاتب المجيد 
                         <persName change="#d2e108" xml:lang="ar">انطون افندي جميل</persName></bibl>
                 </note>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_21" n="21" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_21"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_22" n="22" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_22"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_23" n="23" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_23"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_21" n="16" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_21" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_22" n="17" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_22" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_23" n="18" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_23" edRef="#edition_1"/>
             </div>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">الى الطبيعة</head>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_24" n="24" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_24"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_24" n="19" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_24" edRef="#edition_1"/>
             </div>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">تذكار 
@@ -234,39 +234,39 @@
                         <forename change="#d2e108" xml:lang="ar">وردة</forename>
                         <surname change="#d2e108" xml:lang="ar">اليازجي</surname></persName>
                 </byline>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_25" n="25" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_25"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_25" n="20" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_25" edRef="#edition_1"/>
             </div>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">تمهيد في التربية</head>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_26" n="26" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_26"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_27" n="27" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_27"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_26" n="21" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_26" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_27" n="22" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_27" edRef="#edition_1"/>
             </div>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">التربية والامهات</head>
                 <byline change="#d2e108" xml:lang="ar">لشاعر العرقي الشهير 
                     <persName change="#d2e108" xml:lang="ar">معروف افندي الرصافي</persName></byline>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_28" n="28" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_28"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_29" n="29" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_29"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_28" n="23" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_28" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_29" n="24" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_29" edRef="#edition_1"/>
             </div>
-            <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_30" n="30" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_30"/>
+            <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_30" n="25" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_30" edRef="#edition_1"/>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">حفظ الصحة</head>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_31" n="31" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_31"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_31" n="26" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_31" edRef="#edition_1"/>
             </div>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">تدبير المنزل</head>
             </div>
-            <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_32" n="32" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_32"/>
+            <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_32" n="27" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_32" edRef="#edition_1"/>
             <div type="item" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">روايات الحسناء</head>
                 <byline change="#d2e108" xml:lang="ar">
                     <persName change="#d2e108" xml:lang="ar">فزع سلمى</persName>
                 </byline>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_33" n="33" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_33"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_34" n="34" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_34"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_35" n="35" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_35"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_33" n="28" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_33" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_34" n="29" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_34" edRef="#edition_1"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_35" n="30" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_35" edRef="#edition_1"/>
             </div>
-            <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_36" n="36" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_36"/>
+            <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_36" n="31" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_36" edRef="#edition_1"/>
             <div type="section" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">اقوال وحكم ومأثورات</head>
                 <div type="item" change="#d2e108" xml:lang="ar">
@@ -279,10 +279,10 @@
                     <head change="#d2e108" xml:lang="ar">مأثورات</head>
                 </div>
             </div>
-            <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_37" n="37" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_37"/>
+            <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_37" n="32" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_37" edRef="#edition_1"/>
             <div type="section" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">من كل فن خبر</head>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_38" n="38" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_38"/>
+                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_38" n="33" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_38" edRef="#edition_1"/>
             </div>
         </body>
     </text>
