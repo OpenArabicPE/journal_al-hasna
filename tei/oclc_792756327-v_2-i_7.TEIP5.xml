@@ -40,15 +40,15 @@
                      </pubPlace>
                      <date when="1911-01-20" change="#d2e104" xml:lang="ar-Latn-x-ijmes">20 Jan 1911</date>
                      <date xml:lang="ar-Latn-x-ijmes" when="1911-01-20" when-custom="1911-01-07" calendar="#cal_julian" datingMethod="#cal_julian">7 Kānūn al-thānī 1911, Friday</date>
-                     <biblScope unit="issue" from="2" to="2" change="#d2e104" xml:lang="ar-Latn-x-ijmes">2</biblScope>
-                     <biblScope unit="volume" from="7" to="7" change="#d2e104" xml:lang="ar-Latn-x-ijmes">7</biblScope>
-                     <biblScope unit="page" from="1" to="42" change="#d2e104" xml:lang="ar-Latn-x-ijmes">1-42</biblScope>
+                     
+                     
+                     
                   </imprint>
-               </monogr>
+               <biblScope unit="issue" from="2" to="2" change="#d2e104" xml:lang="ar-Latn-x-ijmes">2</biblScope><biblScope unit="volume" from="7" to="7" change="#d2e104" xml:lang="ar-Latn-x-ijmes">7</biblScope><biblScope unit="page" from="1" to="42" change="#d2e104" xml:lang="ar-Latn-x-ijmes">1-42</biblScope></monogr>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+      <revisionDesc><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
          <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
    </teiHeader>
