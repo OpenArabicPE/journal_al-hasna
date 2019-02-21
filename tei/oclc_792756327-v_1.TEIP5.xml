@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <bibl>Ḥasnāʾ 1, 1909–10 (EAP copy)</bibl>
+                </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-02-21">21 Feb. 2019</date>
+                </edition>
+                <respStmt>
+                    <resp>Created the original TEI P5 XML file</resp>
+                    <persName xml:id="pers_TG">Till Grallert</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <p>This should be replaced with some description</p>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct xml:lang="ar-Latn-x-ijmes">
+                    <monogr>
+                        <title level="j">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
+                        <idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
+                        <imprint>
+                            <publisher>
+                                <orgName>Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+                            </publisher>
+                            <pubPlace>
+                                <placeName>Bayrūt</placeName>
+                            </pubPlace>
+                            <date when="1909-06-20">20 Jun 1909</date>
+                            <date calendar="#cal_julian" datingMethod="#cal_julian" when="1909-06-20" when-custom="1909-06-07" xml:lang="ar-Latn-x-ijmes">7 Ḥazīrān 1909, Sunday</date>
+                            <biblScope from="1" to="12" unit="issue">1-12</biblScope>
+                            <biblScope from="1" to="1" unit="volume">1</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_1">
+            <graphic mimeType="image/jpeg" url="../images/1909/190906_001_L.jpg" xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_1_source"/>
+        </surface>
+        <surface xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_2">
+            <graphic mimeType="image/jpeg" url="../images/1909/190906_002_L.jpg" xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_2_source"/>
+        </surface>
+        <surface xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_3">
+            <graphic mimeType="image/jpeg" url="../images/1909/190906_003_L.jpg" xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_3_source"/>
+        </surface>
+        <surface xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_4">
+            <graphic mimeType="image/jpeg" url="../images/1909/190906_004_L.jpg" xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_4_source"/>
+        </surface>
+        <surface xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_5">
+            <graphic mimeType="image/jpeg" url="../images/1909/190906_005_L.jpg" xml:id="facs_234B3B53-0134-4E61-9B92-167F553FBB12_5_source"/>
+        </surface>
+    </facsimile>
+    <text xml:lang="ar">
+        <body>
+            <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_1" n="1" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_1"/>
+            <div type="item">
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_2" n="2" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_2"/>
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_3" n="3" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_3"/>
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_4" n="4" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_4"/>
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_5" n="5" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_5"/>
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_6" n="6" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_6"/>
+            </div>
+        </body>
+    </text>
+</TEI>
