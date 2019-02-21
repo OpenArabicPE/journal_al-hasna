@@ -1,50 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" change="#d2e90" xml:lang="">
     <teiHeader xml:lang="en">
-        <fileDesc>
-            <titleStmt>
-                <title>
-                    <bibl>Ḥasnāʾ 1, 1909–10 (EAP copy)</bibl>
+        <fileDesc change="#d2e90" xml:lang="en">
+            <titleStmt change="#d2e90" xml:lang="en">
+                <title change="#d2e90" xml:lang="en">
+                    <bibl change="#d2e90" xml:lang="en">Ḥasnāʾ 1, 1909–10 (EAP copy)</bibl>
                 </title>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2019-02-21">21 Feb. 2019</date>
+            <editionStmt change="#d2e90" xml:lang="en">
+                <edition change="#d2e90" xml:lang="en">
+                    <date when="2019-02-21" change="#d2e90" xml:lang="en">21 Feb. 2019</date>
                 </edition>
-                <respStmt>
-                    <resp>Created the original TEI P5 XML file</resp>
-                    <persName xml:id="pers_TG">Till Grallert</persName>
+                <respStmt change="#d2e90" xml:lang="en">
+                    <resp change="#d2e90" xml:lang="en">Created the original TEI P5 XML file</resp>
+                    <persName xml:id="pers_TG" change="#d2e90" xml:lang="en">Till Grallert</persName>
                 </respStmt>
             </editionStmt>
-            <publicationStmt>
-                <p>This should be replaced with some description</p>
+            <publicationStmt change="#d2e90" xml:lang="en">
+                <p change="#d2e90" xml:lang="en">This should be replaced with some description</p>
             </publicationStmt>
-            <sourceDesc>
+            <sourceDesc change="#d2e90" xml:lang="en">
                 <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr>
-                        <title level="j">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
-                        <idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
-                        <imprint>
-                            <publisher>
-                                <orgName>Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+                    <monogr change="#d2e90" xml:lang="ar-Latn-x-ijmes">
+                        <title level="j" change="#d2e104" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
+
+<title level="j" xml:lang="ar">الحسناء</title>
+
+<title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title>
+                        <idno type="url" change="#d2e90" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
+                        <imprint change="#d2e90" xml:lang="ar-Latn-x-ijmes">
+                            <publisher change="#d2e90" xml:lang="ar-Latn-x-ijmes">
+                                <orgName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+<orgName xml:lang="ar">مطبعة جريدة حديقة الاخبار</orgName>
                             </publisher>
-                            <pubPlace>
-                                <placeName>Bayrūt</placeName>
+                            <pubPlace change="#d2e90" xml:lang="ar-Latn-x-ijmes">
+                                <placeName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Bayrūt</placeName>
+<placeName xml:lang="ar">بيروت</placeName>
                             </pubPlace>
-                            <date when="1909-06-20">20 Jun 1909</date>
+                            <date when="1909-06-20" change="#d2e90" xml:lang="ar-Latn-x-ijmes">20 Jun 1909</date>
                             <date calendar="#cal_julian" datingMethod="#cal_julian" when="1909-06-20" when-custom="1909-06-07" xml:lang="ar-Latn-x-ijmes">7 Ḥazīrān 1909, Sunday</date>
-                            <biblScope from="1" to="12" unit="issue">1-12</biblScope>
-                            <biblScope from="1" to="1" unit="volume">1</biblScope>
+                            <biblScope from="1" to="12" unit="issue" change="#d2e90" xml:lang="ar-Latn-x-ijmes">1-12</biblScope>
+                            <biblScope from="1" to="1" unit="volume" change="#d2e90" xml:lang="ar-Latn-x-ijmes">1</biblScope>
                         </imprint>
                     </monogr>
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc>
+        <revisionDesc><tei:change when="2019-02-21" who="#pers_TG" change="d2e90" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
             <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
         </revisionDesc>
     </teiHeader>
@@ -66,9 +67,9 @@
         </surface>
     </facsimile>
     <text xml:lang="ar">
-        <body>
+        <body change="#d2e90" xml:lang="ar">
             <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_1" n="1" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_1"/>
-            <div type="item">
+            <div type="item" change="#d2e90" xml:lang="ar">
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_2" n="2" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_2"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_3" n="3" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_3"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_4" n="4" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_4"/>

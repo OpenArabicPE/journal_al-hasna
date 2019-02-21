@@ -1,413 +1,258 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="https://rawgit.com/OpenArabicPE/OpenArabicPE_ODD/v0.1/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
-<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" change="#d2e104" xml:lang="">
    <teiHeader xml:lang="en">
-      <fileDesc>
-         <titleStmt>
-            <title>
-               <bibl>Ḥasnāʾ 3(2), 20 Nov 1911 (EAP copy)</bibl>
+      <fileDesc change="#d2e104" xml:lang="en">
+         <titleStmt change="#d2e104" xml:lang="en">
+            <title change="#d2e104" xml:lang="en">
+               <bibl change="#d2e104" xml:lang="en">Ḥasnāʾ 3(2), 20 Nov 1911 (EAP copy)</bibl>
             </title>
          </titleStmt>
-         <editionStmt>
-            <edition>
-               <date when="2019-02-21">21 Feb. 2019</date>
+         <editionStmt change="#d2e104" xml:lang="en">
+            <edition change="#d2e104" xml:lang="en">
+               <date when="2019-02-21" change="#d2e104" xml:lang="en">21 Feb. 2019</date>
             </edition>
-            <respStmt>
-               <resp>Created the original TEI P5 XML file</resp>
-               <persName xml:id="pers_TG">Till Grallert</persName>
+            <respStmt change="#d2e104" xml:lang="en">
+               <resp change="#d2e104" xml:lang="en">Created the original TEI P5 XML file</resp>
+               <persName xml:id="pers_TG" change="#d2e104" xml:lang="en">Till Grallert</persName>
             </respStmt>
          </editionStmt>
-         <publicationStmt>
-            <p>This should be replaced with some description</p>
+         <publicationStmt change="#d2e104" xml:lang="en">
+            <p change="#d2e104" xml:lang="en">This should be replaced with some description</p>
          </publicationStmt>
-         <sourceDesc>
+         <sourceDesc change="#d2e104" xml:lang="en">
             <biblStruct xml:lang="ar-Latn-x-ijmes">
-               <monogr>
-                  <title level="j">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
-                  <idno type="callNumber">EAP119/1/8/3</idno>
-                  <idno type="CitationID">hasna 2</idno>
-                  <idno type="SenteUUID">34E7E5A3-5287-4367-B1F7-389876B19D2F</idno>
-                  <idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=892;r=11337</idno>
-                  <imprint>
-                     <publisher>
-                        <orgName>Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+               <monogr change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                  <title level="j" change="#d2e104" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
+
+<title level="j" xml:lang="ar">الحسناء</title>
+
+<title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title>
+                  <idno type="callNumber" change="#d2e104" xml:lang="ar-Latn-x-ijmes">EAP119/1/8/3</idno>
+                  <idno type="CitationID" change="#d2e104" xml:lang="ar-Latn-x-ijmes">hasna 2</idno>
+                  <idno type="url" change="#d2e104" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=892;r=11337</idno>
+                  <imprint change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                     <publisher change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                        <orgName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+<orgName xml:lang="ar">مطبعة جريدة حديقة الاخبار</orgName>
                      </publisher>
-                     <pubPlace>
-                        <placeName>Bayrūt</placeName>
+                     <pubPlace change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                        <placeName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Bayrūt</placeName>
+<placeName xml:lang="ar">بيروت</placeName>
                      </pubPlace>
-                     <date when="1911-11-20">20 Nov 1911</date>
-                     <date xml:lang="ar-Latn-x-ijmes"
-                               when="1911-11-20"
-                               when-custom="1911-11-07"
-                               calendar="#cal_julian"
-                               datingMethod="#cal_julian">7 Tishrīn al-thānī 1911, Monday</date>
-                     <biblScope unit="issue" from="3" to="3">3</biblScope>
-                     <biblScope unit="volume" from="2" to="2">2</biblScope>
-                     <biblScope unit="page" from="1" to="60">1-60</biblScope>
+                     <date when="1911-11-20" change="#d2e104" xml:lang="ar-Latn-x-ijmes">20 Nov 1911</date>
+                     <date xml:lang="ar-Latn-x-ijmes" when="1911-11-20" when-custom="1911-11-07" calendar="#cal_julian" datingMethod="#cal_julian">7 Tishrīn al-thānī 1911, Monday</date>
+                     <biblScope unit="issue" from="3" to="3" change="#d2e104" xml:lang="ar-Latn-x-ijmes">3</biblScope>
+                     <biblScope unit="volume" from="2" to="2" change="#d2e104" xml:lang="ar-Latn-x-ijmes">2</biblScope>
+                     <biblScope unit="page" from="1" to="60" change="#d2e104" xml:lang="ar-Latn-x-ijmes">1-60</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
-         <change
-                 when="2019-02-21"
-                 who="#pers_TG"
-                 xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
+      <revisionDesc><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+         <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_1">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_001_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_1_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_001_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_1_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_2">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_002_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_2_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_002_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_2_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_3">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_003_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_3_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_003_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_3_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_4">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_004_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_4_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_004_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_4_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_5">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_005_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_5_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_005_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_5_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_6">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_006_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_6_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_006_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_6_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_7">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_007_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_7_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_007_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_7_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_8">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_008_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_8_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_008_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_8_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_9">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_009_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_9_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_009_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_9_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_10">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_010_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_10_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_010_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_10_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_11">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_011_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_11_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_011_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_11_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_12">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_012_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_12_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_012_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_12_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_13">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_013_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_13_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_013_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_13_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_14">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_014_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_14_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_014_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_14_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_15">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_015_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_15_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_015_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_15_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_16">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_016_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_16_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_016_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_16_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_17">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_017_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_17_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_017_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_17_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_18">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_018_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_18_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_018_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_18_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_19">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_019_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_19_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_019_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_19_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_20">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_020_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_20_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_020_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_20_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_21">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_021_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_21_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_021_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_21_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_22">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_022_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_22_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_022_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_22_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_23">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_023_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_23_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_023_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_23_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_24">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_024_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_24_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_024_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_24_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_25">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_025_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_25_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_025_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_25_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_26">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_026_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_26_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_026_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_26_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_27">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_027_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_27_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_027_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_27_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_28">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_028_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_28_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_028_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_28_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_29">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_029_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_29_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_029_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_29_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_30">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_030_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_30_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_030_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_30_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_31">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_031_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_31_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_031_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_31_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_32">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_032_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_32_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_032_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_32_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_33">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_033_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_33_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_033_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_33_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_34">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_034_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_34_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_034_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_34_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_35">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_035_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_35_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_035_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_35_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_36">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_036_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_36_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_036_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_36_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_37">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_037_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_37_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_037_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_37_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_38">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_038_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_38_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_038_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_38_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_39">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_039_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_39_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_039_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_39_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_40">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_040_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_40_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_040_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_40_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_41">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_041_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_41_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_041_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_41_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_42">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_042_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_42_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_042_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_42_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_43">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_043_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_43_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_043_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_43_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_44">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_044_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_44_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_044_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_44_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_45">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_045_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_45_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_045_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_45_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_46">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_046_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_46_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_046_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_46_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_47">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_047_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_47_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_047_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_47_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_48">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_048_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_48_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_048_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_48_source"/>
       </surface>
       <surface xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_49">
-         <graphic mimeType="image/jpeg" url="../images/1911/191111_049_L.jpg"
-                      xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_49_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1911/191111_049_L.jpg" xml:id="facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_49_source"/>
       </surface>
    </facsimile>
    <text xml:lang="ar">
-      <body>
-         <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_1"
-                 facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_1"
-                 n="1"/>
-         <div type="item">
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_2"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_2"
-                    n="2"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_3"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_3"
-                    n="3"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_4"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_4"
-                    n="4"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_5"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_5"
-                    n="5"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_6"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_6"
-                    n="6"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_7"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_7"
-                    n="7"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_8"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_8"
-                    n="8"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_9"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_9"
-                    n="9"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_10"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_10"
-                    n="10"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_11"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_11"
-                    n="11"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_12"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_12"
-                    n="12"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_13"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_13"
-                    n="13"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_14"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_14"
-                    n="14"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_15"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_15"
-                    n="15"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_16"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_16"
-                    n="16"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_17"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_17"
-                    n="17"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_18"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_18"
-                    n="18"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_19"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_19"
-                    n="19"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_20"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_20"
-                    n="20"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_21"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_21"
-                    n="21"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_22"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_22"
-                    n="22"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_23"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_23"
-                    n="23"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_24"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_24"
-                    n="24"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_25"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_25"
-                    n="25"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_26"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_26"
-                    n="26"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_27"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_27"
-                    n="27"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_28"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_28"
-                    n="28"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_29"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_29"
-                    n="29"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_30"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_30"
-                    n="30"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_31"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_31"
-                    n="31"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_32"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_32"
-                    n="32"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_33"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_33"
-                    n="33"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_34"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_34"
-                    n="34"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_35"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_35"
-                    n="35"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_36"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_36"
-                    n="36"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_37"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_37"
-                    n="37"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_38"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_38"
-                    n="38"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_39"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_39"
-                    n="39"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_40"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_40"
-                    n="40"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_41"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_41"
-                    n="41"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_42"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_42"
-                    n="42"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_43"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_43"
-                    n="43"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_44"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_44"
-                    n="44"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_45"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_45"
-                    n="45"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_46"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_46"
-                    n="46"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_47"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_47"
-                    n="47"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_48"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_48"
-                    n="48"/>
-            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_49"
-                    facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_49"
-                    n="49"/>
+      <body change="#d2e104" xml:lang="ar">
+         <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_1" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_1" n="1"/>
+         <div type="item" change="#d2e104" xml:lang="ar">
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_2" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_2" n="2"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_3" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_3" n="3"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_4" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_4" n="4"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_5" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_5" n="5"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_6" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_6" n="6"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_7" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_7" n="7"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_8" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_8" n="8"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_9" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_9" n="9"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_10" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_10" n="10"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_11" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_11" n="11"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_12" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_12" n="12"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_13" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_13" n="13"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_14" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_14" n="14"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_15" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_15" n="15"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_16" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_16" n="16"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_17" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_17" n="17"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_18" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_18" n="18"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_19" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_19" n="19"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_20" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_20" n="20"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_21" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_21" n="21"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_22" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_22" n="22"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_23" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_23" n="23"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_24" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_24" n="24"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_25" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_25" n="25"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_26" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_26" n="26"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_27" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_27" n="27"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_28" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_28" n="28"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_29" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_29" n="29"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_30" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_30" n="30"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_31" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_31" n="31"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_32" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_32" n="32"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_33" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_33" n="33"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_34" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_34" n="34"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_35" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_35" n="35"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_36" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_36" n="36"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_37" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_37" n="37"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_38" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_38" n="38"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_39" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_39" n="39"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_40" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_40" n="40"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_41" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_41" n="41"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_42" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_42" n="42"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_43" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_43" n="43"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_44" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_44" n="44"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_45" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_45" n="45"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_46" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_46" n="46"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_47" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_47" n="47"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_48" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_48" n="48"/>
+            <pb ed="print" xml:id="pb_34E7E5A3-5287-4367-B1F7-389876B19D2F_49" facs="#facs_34E7E5A3-5287-4367-B1F7-389876B19D2F_49" n="49"/>
          </div>
       </body>
    </text>

@@ -1,294 +1,190 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="https://rawgit.com/OpenArabicPE/OpenArabicPE_ODD/v0.1/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
-<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" change="#d2e104" xml:lang="">
    <teiHeader xml:lang="en">
-      <fileDesc>
-         <titleStmt>
-            <title>
-               <bibl>Ḥasnāʾ 1(7), 20 Dec 1909 (EAP copy)</bibl>
+      <fileDesc change="#d2e104" xml:lang="en">
+         <titleStmt change="#d2e104" xml:lang="en">
+            <title change="#d2e104" xml:lang="en">
+               <bibl change="#d2e104" xml:lang="en">Ḥasnāʾ 1(7), 20 Dec 1909 (EAP copy)</bibl>
             </title>
          </titleStmt>
-         <editionStmt>
-            <edition>
-               <date when="2019-02-21">21 Feb. 2019</date>
+         <editionStmt change="#d2e104" xml:lang="en">
+            <edition change="#d2e104" xml:lang="en">
+               <date when="2019-02-21" change="#d2e104" xml:lang="en">21 Feb. 2019</date>
             </edition>
-            <respStmt>
-               <resp>Created the original TEI P5 XML file</resp>
-               <persName xml:id="pers_TG">Till Grallert</persName>
+            <respStmt change="#d2e104" xml:lang="en">
+               <resp change="#d2e104" xml:lang="en">Created the original TEI P5 XML file</resp>
+               <persName xml:id="pers_TG" change="#d2e104" xml:lang="en">Till Grallert</persName>
             </respStmt>
          </editionStmt>
-         <publicationStmt>
-            <p>This should be replaced with some description</p>
+         <publicationStmt change="#d2e104" xml:lang="en">
+            <p change="#d2e104" xml:lang="en">This should be replaced with some description</p>
          </publicationStmt>
-         <sourceDesc>
+         <sourceDesc change="#d2e104" xml:lang="en">
             <biblStruct xml:lang="ar-Latn-x-ijmes">
-               <monogr>
-                  <title level="j">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
-                  <idno type="callNumber">EAP119/1/8/1</idno>
-                  <idno type="CitationID">hasna 7</idno>
-                  <idno type="SenteUUID">2FE5875C-459B-4F08-AF66-D34D8F8624F7</idno>
-                  <idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
-                  <imprint>
-                     <publisher>
-                        <orgName>Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+               <monogr change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                  <title level="j" change="#d2e104" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
+
+<title level="j" xml:lang="ar">الحسناء</title>
+
+<title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title>
+                  <idno type="callNumber" change="#d2e104" xml:lang="ar-Latn-x-ijmes">EAP119/1/8/1</idno>
+                  <idno type="CitationID" change="#d2e104" xml:lang="ar-Latn-x-ijmes">hasna 7</idno>
+                  <idno type="url" change="#d2e104" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
+                  <imprint change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                     <publisher change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                        <orgName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+<orgName xml:lang="ar">مطبعة جريدة حديقة الاخبار</orgName>
                      </publisher>
-                     <pubPlace>
-                        <placeName>Bayrūt</placeName>
+                     <pubPlace change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                        <placeName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Bayrūt</placeName>
+<placeName xml:lang="ar">بيروت</placeName>
                      </pubPlace>
-                     <date when="1909-12-20">20 Dec 1909</date>
-                     <date xml:lang="ar-Latn-x-ijmes"
-                               when="1909-12-20"
-                               when-custom="1909-12-07"
-                               calendar="#cal_julian"
-                               datingMethod="#cal_julian">7 Kānūn al-awwal 1909, Monday</date>
-                     <biblScope unit="issue" from="1" to="1">1</biblScope>
-                     <biblScope unit="volume" from="7" to="7">7</biblScope>
-                     <biblScope unit="page" from="1" to="42">1-42</biblScope>
+                     <date when="1909-12-20" change="#d2e104" xml:lang="ar-Latn-x-ijmes">20 Dec 1909</date>
+                     <date xml:lang="ar-Latn-x-ijmes" when="1909-12-20" when-custom="1909-12-07" calendar="#cal_julian" datingMethod="#cal_julian">7 Kānūn al-awwal 1909, Monday</date>
+                     <biblScope unit="issue" from="1" to="1" change="#d2e104" xml:lang="ar-Latn-x-ijmes">1</biblScope>
+                     <biblScope unit="volume" from="7" to="7" change="#d2e104" xml:lang="ar-Latn-x-ijmes">7</biblScope>
+                     <biblScope unit="page" from="1" to="42" change="#d2e104" xml:lang="ar-Latn-x-ijmes">1-42</biblScope>
                   </imprint>
                </monogr>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
-         <change
-                 when="2019-02-21"
-                 who="#pers_TG"
-                 xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
+      <revisionDesc><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+         <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_1">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_001_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_1_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_001_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_1_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_2">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_002_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_2_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_002_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_2_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_3">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_003_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_3_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_003_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_3_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_4">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_004_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_4_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_004_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_4_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_5">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_005_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_5_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_005_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_5_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_6">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_006_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_6_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_006_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_6_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_7">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_007_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_7_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_007_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_7_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_8">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_008_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_8_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_008_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_8_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_9">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_009_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_9_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_009_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_9_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_10">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_010_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_10_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_010_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_10_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_11">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_011_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_11_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_011_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_11_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_12">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_012_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_12_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_012_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_12_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_13">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_013_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_13_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_013_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_13_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_14">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_014_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_14_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_014_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_14_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_15">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_015_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_15_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_015_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_15_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_16">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_016_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_16_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_016_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_16_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_17">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_017_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_17_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_017_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_17_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_18">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_018_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_18_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_018_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_18_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_19">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_019_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_19_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_019_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_19_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_20">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_020_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_20_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_020_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_20_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_21">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_021_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_21_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_021_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_21_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_22">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_022_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_22_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_022_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_22_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_23">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_023_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_23_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_023_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_23_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_24">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_024_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_24_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_024_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_24_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_25">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_025_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_25_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_025_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_25_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_26">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_026_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_26_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_026_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_26_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_27">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_027_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_27_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_027_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_27_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_28">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_028_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_28_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_028_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_28_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_29">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_029_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_29_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_029_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_29_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_30">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_030_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_30_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_030_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_30_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_31">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_031_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_31_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_031_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_31_source"/>
       </surface>
       <surface xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_32">
-         <graphic mimeType="image/jpeg" url="../images/1909/190912_032_L.jpg"
-                      xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_32_source"/>
+         <graphic mimeType="image/jpeg" url="../images/1909/190912_032_L.jpg" xml:id="facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_32_source"/>
       </surface>
    </facsimile>
    <text xml:lang="ar">
-      <body>
-         <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_1"
-                 facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_1"
-                 n="1"/>
-         <div type="item">
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_2"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_2"
-                    n="2"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_3"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_3"
-                    n="3"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_4"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_4"
-                    n="4"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_5"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_5"
-                    n="5"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_6"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_6"
-                    n="6"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_7"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_7"
-                    n="7"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_8"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_8"
-                    n="8"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_9"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_9"
-                    n="9"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_10"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_10"
-                    n="10"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_11"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_11"
-                    n="11"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_12"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_12"
-                    n="12"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_13"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_13"
-                    n="13"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_14"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_14"
-                    n="14"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_15"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_15"
-                    n="15"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_16"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_16"
-                    n="16"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_17"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_17"
-                    n="17"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_18"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_18"
-                    n="18"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_19"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_19"
-                    n="19"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_20"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_20"
-                    n="20"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_21"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_21"
-                    n="21"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_22"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_22"
-                    n="22"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_23"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_23"
-                    n="23"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_24"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_24"
-                    n="24"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_25"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_25"
-                    n="25"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_26"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_26"
-                    n="26"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_27"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_27"
-                    n="27"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_28"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_28"
-                    n="28"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_29"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_29"
-                    n="29"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_30"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_30"
-                    n="30"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_31"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_31"
-                    n="31"/>
-            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_32"
-                    facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_32"
-                    n="32"/>
+      <body change="#d2e104" xml:lang="ar">
+         <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_1" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_1" n="1"/>
+         <div type="item" change="#d2e104" xml:lang="ar">
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_2" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_2" n="2"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_3" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_3" n="3"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_4" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_4" n="4"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_5" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_5" n="5"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_6" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_6" n="6"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_7" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_7" n="7"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_8" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_8" n="8"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_9" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_9" n="9"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_10" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_10" n="10"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_11" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_11" n="11"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_12" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_12" n="12"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_13" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_13" n="13"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_14" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_14" n="14"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_15" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_15" n="15"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_16" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_16" n="16"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_17" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_17" n="17"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_18" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_18" n="18"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_19" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_19" n="19"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_20" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_20" n="20"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_21" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_21" n="21"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_22" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_22" n="22"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_23" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_23" n="23"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_24" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_24" n="24"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_25" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_25" n="25"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_26" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_26" n="26"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_27" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_27" n="27"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_28" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_28" n="28"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_29" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_29" n="29"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_30" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_30" n="30"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_31" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_31" n="31"/>
+            <pb ed="print" xml:id="pb_2FE5875C-459B-4F08-AF66-D34D8F8624F7_32" facs="#facs_2FE5875C-459B-4F08-AF66-D34D8F8624F7_32" n="32"/>
          </div>
       </body>
    </text>

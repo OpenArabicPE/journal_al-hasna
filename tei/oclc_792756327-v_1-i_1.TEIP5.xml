@@ -1,54 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" change="#d2e108" xml:lang="">
     <teiHeader xml:lang="en">
-        <fileDesc>
-            <titleStmt>
-                <title>
-                    <bibl>Ḥasnāʾ 1(1), 20 Jun 1909 (EAP copy)</bibl>
+        <fileDesc change="#d2e108" xml:lang="en">
+            <titleStmt change="#d2e108" xml:lang="en">
+                <title change="#d2e108" xml:lang="en">
+                    <bibl change="#d2e108" xml:lang="en">Ḥasnāʾ 1(1), 20 Jun 1909 (EAP copy)</bibl>
                 </title>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2019-02-21">21 Feb. 2019</date>
+            <editionStmt change="#d2e108" xml:lang="en">
+                <edition change="#d2e108" xml:lang="en">
+                    <date when="2019-02-21" change="#d2e108" xml:lang="en">21 Feb. 2019</date>
                 </edition>
-                <respStmt>
-                    <resp>Created the original TEI P5 XML file</resp>
-                    <persName xml:id="pers_TG">Till Grallert</persName>
+                <respStmt change="#d2e108" xml:lang="en">
+                    <resp change="#d2e108" xml:lang="en">Created the original TEI P5 XML file</resp>
+                    <persName xml:id="pers_TG" change="#d2e108" xml:lang="en">Till Grallert</persName>
                 </respStmt>
             </editionStmt>
-            <publicationStmt>
-                <p>This should be replaced with some description</p>
+            <publicationStmt change="#d2e108" xml:lang="en">
+                <p change="#d2e108" xml:lang="en">This should be replaced with some description</p>
             </publicationStmt>
-            <sourceDesc>
+            <sourceDesc change="#d2e108" xml:lang="en">
                 <biblStruct xml:lang="ar-Latn-x-ijmes">
-                    <monogr>
-                        <title level="j">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
-                        <idno type="callNumber">EAP119/1/8/1</idno>
-                        <idno type="CitationID">hasna 1</idno>
-                        <idno type="SenteUUID">234B3B53-0134-4E61-9B92-167F553FBB12</idno>
-                        <idno type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
-                        <imprint>
-                            <publisher>
-                                <orgName>Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+                    <monogr change="#d2e108" xml:lang="ar-Latn-x-ijmes">
+                        <title level="j" change="#d2e104" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
+
+<title level="j" xml:lang="ar">الحسناء</title>
+
+<title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title>
+                        <title level="a" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1</title>
+                        <idno type="Signatur"/>
+                        <idno type="callNumber" change="#d2e108" xml:lang="ar-Latn-x-ijmes">EAP119/1/8/1</idno>
+                        <idno type="CitationID" change="#d2e108" xml:lang="ar-Latn-x-ijmes">hasna 1</idno>
+                        <idno type="url" change="#d2e108" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
+                        <imprint change="#d2e108" xml:lang="ar-Latn-x-ijmes">
+                            <publisher change="#d2e108" xml:lang="ar-Latn-x-ijmes">
+                                <orgName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+<orgName xml:lang="ar">مطبعة جريدة حديقة الاخبار</orgName>
                             </publisher>
-                            <pubPlace>
-                                <placeName>Bayrūt</placeName>
+                            <pubPlace change="#d2e108" xml:lang="ar-Latn-x-ijmes">
+                                <placeName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Bayrūt</placeName>
+<placeName xml:lang="ar">بيروت</placeName>
                             </pubPlace>
-                            <date when="1909-06-20">20 Jun 1909</date>
+                            <date when="1909-06-20" change="#d2e108" xml:lang="ar-Latn-x-ijmes">20 Jun 1909</date>
                             <date calendar="#cal_julian" datingMethod="#cal_julian" when="1909-06-20" when-custom="1909-06-07" xml:lang="ar-Latn-x-ijmes">7 Ḥazīrān 1909, Sunday</date>
-                            <biblScope from="1" to="1" unit="issue">1</biblScope>
-                            <biblScope from="1" to="1" unit="volume">1</biblScope>
-                            <biblScope from="1" to="42" unit="page">1-42</biblScope>
+                            <biblScope from="1" to="1" unit="issue" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1</biblScope>
+                            <biblScope from="1" to="1" unit="volume" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1</biblScope>
+                            <biblScope from="1" to="42" unit="page" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1-42</biblScope>
                         </imprint>
                     </monogr>
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc>
+        <revisionDesc><tei:change when="2019-02-21" who="#pers_TG" change="d2e108" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
             <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
         </revisionDesc>
     </teiHeader>
@@ -169,23 +171,23 @@
         </surface>
     </facsimile>
     <text xml:lang="ar">
-        <body>
+        <body change="#d2e108" xml:lang="ar">
             <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_1" n="1" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_1"/>
-            <div type="item">
+            <div type="item" change="#d2e108" xml:lang="ar">
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_2" n="2" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_2"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_3" n="3" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_3"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_4" n="4" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_4"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_5" n="5" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_5"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_6" n="6" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_6"/>
             </div>
-            <div type="item">
-                <head>حمد ودعاء وبيان</head>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">حمد ودعاء وبيان</head>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_7" n="7" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_7"/>
             </div>
             <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_8" n="8" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_8"/>
-            <div type="item">
-                <head>
-                    <persName>مدام دي ستال</persName>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">
+                    <persName change="#d2e108" xml:lang="ar">مدام دي ستال</persName>
                 </head>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_9" n="9" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_9"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_10" n="10" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_10"/>
@@ -196,94 +198,94 @@
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_15" n="15" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_15"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_16" n="16" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_16"/>
             </div>
-            <div type="item">
-                <head>لمحة في المرأة</head>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">لمحة في المرأة</head>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_17" n="17" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_17"/>
             </div>
-            <div type="item">
-                <head>المجلات النسائية العربية</head>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">المجلات النسائية العربية</head>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_18" n="18" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_18"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_19" n="19" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_19"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_20" n="20" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_20"/>
             </div>
-            <div type="item">
-                <head>الى الامام الى العلى</head>
-                <byline>للكاتبة التركية الشهيرة 
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">الى الامام الى العلى</head>
+                <byline change="#d2e108" xml:lang="ar">للكاتبة التركية الشهيرة 
                     <persName xml:lang="ota">
-                        <forename>فريدة</forename>
-                        <roleName type="honorific">هانم</roleName></persName>
+                        <forename change="#d2e108" xml:lang="ota">فريدة</forename>
+                        <roleName type="honorific" change="#d2e108" xml:lang="ota">هانم</roleName></persName>
                 </byline>
-                <note>
-                    <bibl>ترجمها عن اللغة الفرنسوية
+                <note change="#d2e108" xml:lang="ar">
+                    <bibl change="#d2e108" xml:lang="ar">ترجمها عن اللغة الفرنسوية
                         الكاتب المجيد 
-                        <persName>انطون افندي جميل</persName></bibl>
+                        <persName change="#d2e108" xml:lang="ar">انطون افندي جميل</persName></bibl>
                 </note>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_21" n="21" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_21"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_22" n="22" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_22"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_23" n="23" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_23"/>
             </div>
-            <div type="item">
-                <head>الى الطبيعة</head>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">الى الطبيعة</head>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_24" n="24" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_24"/>
             </div>
-            <div type="item">
-                <head>تذكار 
-                    <placeName>لبنان</placeName></head>
-                <byline>للشاعرة
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">تذكار 
+                    <placeName change="#d2e108" xml:lang="ar">لبنان</placeName></head>
+                <byline change="#d2e108" xml:lang="ar">للشاعرة
                     الشهيرة 
-                    <persName>
-                        <roleName type="nobility">السيدة</roleName>
-                        <forename>وردة</forename>
-                        <surname>اليازجي</surname></persName>
+                    <persName change="#d2e108" xml:lang="ar">
+                        <roleName type="nobility" change="#d2e108" xml:lang="ar">السيدة</roleName>
+                        <forename change="#d2e108" xml:lang="ar">وردة</forename>
+                        <surname change="#d2e108" xml:lang="ar">اليازجي</surname></persName>
                 </byline>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_25" n="25" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_25"/>
             </div>
-            <div type="item">
-                <head>تمهيد في التربية</head>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">تمهيد في التربية</head>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_26" n="26" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_26"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_27" n="27" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_27"/>
             </div>
-            <div type="item">
-                <head>التربية والامهات</head>
-                <byline>لشاعر العرقي الشهير 
-                    <persName>معروف افندي الرصافي</persName></byline>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">التربية والامهات</head>
+                <byline change="#d2e108" xml:lang="ar">لشاعر العرقي الشهير 
+                    <persName change="#d2e108" xml:lang="ar">معروف افندي الرصافي</persName></byline>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_28" n="28" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_28"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_29" n="29" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_29"/>
             </div>
             <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_30" n="30" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_30"/>
-            <div type="item">
-                <head>حفظ الصحة</head>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">حفظ الصحة</head>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_31" n="31" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_31"/>
             </div>
-            <div type="item">
-                <head>تدبير المنزل</head>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">تدبير المنزل</head>
             </div>
             <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_32" n="32" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_32"/>
-            <div type="item">
-                <head>روايات الحسناء</head>
-                <byline>
-                    <persName>فزع سلمى</persName>
+            <div type="item" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">روايات الحسناء</head>
+                <byline change="#d2e108" xml:lang="ar">
+                    <persName change="#d2e108" xml:lang="ar">فزع سلمى</persName>
                 </byline>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_33" n="33" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_33"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_34" n="34" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_34"/>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_35" n="35" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_35"/>
             </div>
             <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_36" n="36" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_36"/>
-            <div type="section">
-                <head>اقوال وحكم ومأثورات</head>
-                <div type="item">
-                    <head>اقوال النساء</head>
+            <div type="section" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">اقوال وحكم ومأثورات</head>
+                <div type="item" change="#d2e108" xml:lang="ar">
+                    <head change="#d2e108" xml:lang="ar">اقوال النساء</head>
                 </div>
-                <div type="item">
-                    <head>حكم واراء</head>
+                <div type="item" change="#d2e108" xml:lang="ar">
+                    <head change="#d2e108" xml:lang="ar">حكم واراء</head>
                 </div>
-                <div type="item">
-                    <head>مأثورات</head>
+                <div type="item" change="#d2e108" xml:lang="ar">
+                    <head change="#d2e108" xml:lang="ar">مأثورات</head>
                 </div>
             </div>
             <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_37" n="37" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_37"/>
-            <div type="section">
-                <head>من كل فن خبر</head>
+            <div type="section" change="#d2e108" xml:lang="ar">
+                <head change="#d2e108" xml:lang="ar">من كل فن خبر</head>
                 <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_38" n="38" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_38"/>
             </div>
         </body>
