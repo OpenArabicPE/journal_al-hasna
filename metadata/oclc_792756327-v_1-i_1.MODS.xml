@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
+   <mods ID="oclc_792756327-v_1-i_1-div_1.d2e379-mods">
+      <titleInfo>
+         <title xml:lang="ar">حمد ودعاء وبيان</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>1</start>
+               <end>2</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_1.d2e379</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_2.d2e389-mods">
+      <titleInfo>
+         <title xml:lang="ar">مدام دي ستال</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>3</start>
+               <end>11</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_2.d2e389</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_3.d2e415-mods">
+      <titleInfo>
+         <title xml:lang="ar">لمحة في المرأة</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>11</start>
+               <end>12</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_3.d2e415</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_4.d2e424-mods">
+      <titleInfo>
+         <title xml:lang="ar">المجلات النسائية العربية</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>12</start>
+               <end>15</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_4.d2e424</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_5.d2e436-mods">
+      <titleInfo>
+         <title xml:lang="ar">الى الامام الى العلى</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal" xml:lang="ar">
+         <namePart type="family" xml:lang="ota">فريدة هانم</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>15</start>
+               <end>18</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_5.d2e436</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_6.d2e468-mods">
+      <titleInfo>
+         <title xml:lang="ar">الى الطبيعة</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>18</start>
+               <end>19</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_6.d2e468</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_7.d2e476-mods">
+      <titleInfo>
+         <title xml:lang="ar">تذكار لبنان</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal"
+            xml:lang="ar"
+            authority="viaf"
+            valueURI="https://viaf.org/viaf/233275351">
+         <namePart type="family" xml:lang="ar">اليازجي</namePart>
+         <namePart type="given" xml:lang="ar">وردة</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>19</start>
+               <end>20</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_7.d2e476</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_8.d2e500-mods">
+      <titleInfo>
+         <title xml:lang="ar">تمهيد في التربية</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>20</start>
+               <end>22</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_8.d2e500</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_9.d2e510-mods">
+      <titleInfo>
+         <title xml:lang="ar">التربية والامهات</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal" xml:lang="ar">
+         <namePart type="family" xml:lang="ar">معروف افندي الرصافي</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>22</start>
+               <end>24</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_9.d2e510</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_10.d2e528-mods">
+      <titleInfo>
+         <title xml:lang="ar">حفظ الصحة</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>25</start>
+               <end>26</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_10.d2e528</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_11.d2e536-mods">
+      <titleInfo>
+         <title xml:lang="ar">تدبير المنزل</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>26</start>
+               <end>26</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_11.d2e536</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_12.d2e544-mods">
+      <titleInfo>
+         <title xml:lang="ar">روايات الحسناء</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <name type="personal" xml:lang="ar">
+         <namePart type="family" xml:lang="ar">فزع سلمى</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>27</start>
+               <end>30</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_12.d2e544</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_13.d2e565-mods">
+      <titleInfo>
+         <title xml:lang="ar">اقوال وحكم ومأثورات</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>31</start>
+               <end>31</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_13.d2e565</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_13.d2e570-mods">
+      <titleInfo>
+         <title xml:lang="ar">اقوال النساء</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>31</start>
+               <end>31</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_13.d2e570</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_14.d2e576-mods">
+      <titleInfo>
+         <title xml:lang="ar">حكم واراء</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>31</start>
+               <end>31</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_14.d2e576</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_15.d2e582-mods">
+      <titleInfo>
+         <title xml:lang="ar">مأثورات</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>31</start>
+               <end>31</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_15.d2e582</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+   <mods ID="oclc_792756327-v_1-i_1-div_17.d2e591-mods">
+      <titleInfo>
+         <title xml:lang="ar">من كل فن خبر</title>
+      </titleInfo>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="local" xml:lang="en">journalArticle</genre>
+      <genre authority="marcgt" xml:lang="en">article</genre>
+      <relatedItem type="host">
+         <titleInfo>
+            <title xml:lang="ar">الحسناء</title>
+         </titleInfo>
+         <genre authority="marcgt">journal</genre>
+         <name type="personal" xml:lang="ar">
+            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <role>
+               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
+            </role>
+         </name>
+         <originInfo>
+            <edition xml:lang="en">digital TEI edition, 2019</edition>
+            <place>
+               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
+            </place>
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+            <dateIssued encoding="w3cdtf">1909-06-20</dateIssued>
+            <issuance>continuing</issuance>
+         </originInfo>
+         <part>
+            <detail type="volume">
+               <number>1</number>
+            </detail>
+            <detail type="issue">
+               <number>1</number>
+            </detail>
+            <extent unit="pages">
+               <start>32</start>
+               <end>32</end>
+            </extent>
+         </part>
+      </relatedItem>
+      <accessCondition/>
+      <location>
+         <url dateLastAccessed="2019-02-22" usage="primary display">#div_17.d2e591</url>
+      </location>
+      <language>
+         <languageTerm type="code"
+                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
+      </language>
+   </mods>
+</modsCollection>
