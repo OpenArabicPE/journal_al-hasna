@@ -42,7 +42,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc><tei:change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <tei:gi>biblStruct</tei:gi> by sorting child elements in the correct order.  Converted all <tei:att>n</tei:att> on <tei:gi>biblScope</tei:gi> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+      <revisionDesc><tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e176">Added automated page numbers as <att>n</att>s in addition to <att>ed</att>="print" and <att>edRef</att>="#edition_1" for every<gi>pb</gi> that was not of <att>ed</att>="shamela".</tei:change><tei:change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <tei:gi>biblStruct</tei:gi> by sorting child elements in the correct order.  Converted all <tei:att>n</tei:att> on <tei:gi>biblScope</tei:gi> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
          <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
    </teiHeader>
@@ -149,41 +149,41 @@
    </facsimile>
    <text xml:lang="ar">
       <body change="#d2e104" xml:lang="ar">
-         <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_1" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_1" n="1"/>
+         <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_1" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_1" n="33" edRef="#edition_1"/>
          <div type="item" change="#d2e104" xml:lang="ar">
 <head><persName>مدام رولان</persName></head>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_2" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_2" n="2"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_3" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_3" n="3"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_4" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_4" n="4"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_5" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_5" n="5"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_6" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_6" n="6"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_7" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_7" n="7"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_8" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_8" n="8"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_9" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_9" n="9"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_10" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_10" n="10"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_11" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_11" n="11"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_12" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_12" n="12"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_13" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_13" n="13"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_14" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_14" n="14"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_15" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_15" n="15"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_16" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_16" n="16"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_17" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_17" n="17"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_18" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_18" n="18"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_19" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_19" n="19"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_20" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_20" n="20"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_21" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_21" n="21"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_22" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_22" n="22"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_23" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_23" n="23"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_24" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_24" n="24"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_25" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_25" n="25"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_26" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_26" n="26"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_27" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_27" n="27"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_28" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_28" n="28"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_29" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_29" n="29"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_30" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_30" n="30"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_31" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_31" n="31"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_32" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_32" n="32"/>
-            <pb ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_33" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_33" n="33"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_2" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_2" n="34" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_3" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_3" n="35" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_4" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_4" n="36" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_5" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_5" n="37" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_6" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_6" n="38" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_7" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_7" n="39" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_8" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_8" n="40" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_9" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_9" n="41" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_10" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_10" n="42" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_11" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_11" n="43" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_12" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_12" n="44" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_13" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_13" n="45" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_14" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_14" n="46" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_15" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_15" n="47" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_16" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_16" n="48" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_17" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_17" n="49" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_18" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_18" n="50" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_19" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_19" n="51" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_20" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_20" n="52" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_21" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_21" n="53" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_22" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_22" n="54" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_23" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_23" n="55" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_24" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_24" n="56" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_25" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_25" n="57" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_26" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_26" n="58" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_27" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_27" n="59" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_28" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_28" n="60" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_29" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_29" n="61" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_30" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_30" n="62" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_31" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_31" n="63" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_32" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_32" n="64" edRef="#edition_1"/>
+            <pb change="#d2e176" ed="print" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_33" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_33" n="65" edRef="#edition_1"/>
          </div>
       </body>
    </text>
