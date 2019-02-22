@@ -129,17 +129,25 @@
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_021_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21_source"/>
       </surface>-->
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22">
+       <!-- move two down -->
+      <!--<surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_022_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22_source"/>
       </surface>
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_023_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23_source"/>
-      </surface>
+      </surface>-->
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_024_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24_source"/>
       </surface>
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_025_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25_source"/>
+      </surface>
+       <!-- the following two pages were moved two positions down -->
+       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22">
+         <graphic mimeType="image/jpeg" url="../images/1909/190910_022_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22_source"/>
+      </surface>
+      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23">
+         <graphic mimeType="image/jpeg" url="../images/1909/190910_023_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23_source"/>
       </surface>
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_026_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26_source"/>
