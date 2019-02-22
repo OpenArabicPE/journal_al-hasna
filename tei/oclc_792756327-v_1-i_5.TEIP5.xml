@@ -27,12 +27,12 @@
                         <idno change="#d2e104 #d2e228" type="callNumber" xml:lang="ar-Latn-x-ijmes" xml:id="idno_1.d2e59">EAP119/1/8/1</idno>
                         <idno change="#d2e104 #d2e228" type="CitationID" xml:lang="ar-Latn-x-ijmes" xml:id="idno_2.d2e62">hasna 5</idno>
                         <idno change="#d2e104 #d2e228" type="url" xml:lang="ar-Latn-x-ijmes" xml:id="idno_3.d2e66">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
-                        <idno type="OCLC" change="#d2e228" xml:id="idno_4.d2e69">792756327</idno>
-                        <idno type="OCLC" change="#d2e228" xml:id="idno_5.d2e72">792755433</idno>
-                        <idno type="OCLC" change="#d2e228" xml:id="idno_6.d2e75">1034555587</idno>
-                        <idno type="OCLC" change="#d2e228" xml:id="idno_7.d2e78">1034550210</idno>
-                        <idno type="OCLC" change="#d2e228" xml:id="idno_8.d2e81">672047031</idno>
-                        <editor change="#d2e228" xml:id="editor_1.d2e85">
+                        <idno type="OCLC" change="#d2e228 #d2e239" xml:id="idno_4.d2e69" xml:lang="ar-Latn-x-ijmes">792756327</idno>
+                        <idno type="OCLC" change="#d2e228 #d2e239" xml:id="idno_5.d2e72" xml:lang="ar-Latn-x-ijmes">792755433</idno>
+                        <idno type="OCLC" change="#d2e228 #d2e239" xml:id="idno_6.d2e75" xml:lang="ar-Latn-x-ijmes">1034555587</idno>
+                        <idno type="OCLC" change="#d2e228 #d2e239" xml:id="idno_7.d2e78" xml:lang="ar-Latn-x-ijmes">1034550210</idno>
+                        <idno type="OCLC" change="#d2e228 #d2e239" xml:id="idno_8.d2e81" xml:lang="ar-Latn-x-ijmes">672047031</idno>
+                        <editor change="#d2e228 #d2e239" xml:id="editor_1.d2e85" xml:lang="ar-Latn-x-ijmes">
                             <persName xml:lang="ar-Lang-x-ijmes" change="#d2e228" xml:id="persName_2.d2e87">Jirjī Niqūlā Bāz</persName>
                             <persName xml:lang="ar" change="#d2e228" xml:id="persName_3.d2e90">جرجي نقولا باز</persName>
                         </editor>
@@ -55,57 +55,57 @@
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change when="2019-02-22" who="#pers_TG" xml:id="d2e228" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change>
-            <tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e208">Linked all 
-                <tei:tag change="#d2e228" xml:id="tag_1.d2e138">pb ed="print"</tei:tag>
+        <revisionDesc><tei:change when="2019-02-22" who="#pers_TG" change="d2e239" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change><change when="2019-02-22" who="#pers_TG" xml:id="d2e228" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change>
+            <tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e208" change="#d2e239" xml:lang="en">Linked all 
+                <tei:tag change="#d2e228 #d2e239" xml:id="tag_1.d2e138" xml:lang="en">pb ed="print"</tei:tag>
                 to the corresponding facsimile</tei:change>
-            <tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e191">Added automated page numbers as 
-                <att change="#d2e228" xml:id="att_1.d2e144">n</att>
+            <tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e191" change="#d2e239" xml:lang="en">Added automated page numbers as 
+                <att change="#d2e228 #d2e239" xml:id="att_1.d2e144" xml:lang="en">n</att>
                 s in addition to 
-                <att change="#d2e228" xml:id="att_2.d2e147">ed</att>
+                <att change="#d2e228 #d2e239" xml:id="att_2.d2e147" xml:lang="en">ed</att>
                 ="print" and 
-                <att change="#d2e228" xml:id="att_3.d2e150">edRef</att>
+                <att change="#d2e228 #d2e239" xml:id="att_3.d2e150" xml:lang="en">edRef</att>
                 ="#edition_1" for every
-                <gi change="#d2e228" xml:id="gi_1.d2e153">pb</gi>
+                <gi change="#d2e228 #d2e239" xml:id="gi_1.d2e153" xml:lang="en">pb</gi>
                 that was not of 
-                <att change="#d2e228" xml:id="att_4.d2e156">ed</att>
+                <att change="#d2e228 #d2e239" xml:id="att_4.d2e156" xml:lang="en">ed</att>
                 ="shamela".</tei:change>
-            <tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e174">Added automated page numbers as 
-                <att change="#d2e228" xml:id="att_5.d2e162">n</att>
+            <tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e174" change="#d2e239" xml:lang="en">Added automated page numbers as 
+                <att change="#d2e228 #d2e239" xml:id="att_5.d2e162" xml:lang="en">n</att>
                 s in addition to 
-                <att change="#d2e228" xml:id="att_6.d2e165">ed</att>
+                <att change="#d2e228 #d2e239" xml:id="att_6.d2e165" xml:lang="en">ed</att>
                 ="print" and 
-                <att change="#d2e228" xml:id="att_7.d2e168">edRef</att>
+                <att change="#d2e228 #d2e239" xml:id="att_7.d2e168" xml:lang="en">edRef</att>
                 ="#edition_1" for every
-                <gi change="#d2e228" xml:id="gi_2.d2e171">pb</gi>
+                <gi change="#d2e228 #d2e239" xml:id="gi_2.d2e171" xml:lang="en">pb</gi>
                 that was not of 
-                <att change="#d2e228" xml:id="att_8.d2e174">ed</att>
+                <att change="#d2e228 #d2e239" xml:id="att_8.d2e174" xml:lang="en">ed</att>
                 ="shamela".</tei:change>
             <tei:change when="2019-02-22" who="#pers_TG" xml:lang="en" change="#d2e228" xml:id="change_1.d2e178">Corrected 
-                <tei:gi change="#d2e228" xml:id="gi_3.d2e180">biblStruct</tei:gi>
+                <tei:gi change="#d2e228 #d2e239" xml:id="gi_3.d2e180" xml:lang="en">biblStruct</tei:gi>
                 by sorting child elements in the correct order.  Converted all 
-                <tei:att change="#d2e228" xml:id="att_9.d2e183">n</tei:att>
+                <tei:att change="#d2e228 #d2e239" xml:id="att_9.d2e183" xml:lang="en">n</tei:att>
                 on 
-                <tei:gi change="#d2e228" xml:id="gi_3.d2e186">biblScope</tei:gi>
+                <tei:gi change="#d2e228 #d2e239" xml:id="gi_3.d2e186" xml:lang="en">biblScope</tei:gi>
                 to 
-                <tei:att change="#d2e228" xml:id="att_9.d2e189">from</tei:att>
+                <tei:att change="#d2e228 #d2e239" xml:id="att_9.d2e189" xml:lang="en">from</tei:att>
                 and 
-                <tei:att change="#d2e228" xml:id="att_9.d2e192">to</tei:att>
+                <tei:att change="#d2e228 #d2e239" xml:id="att_9.d2e192" xml:lang="en">to</tei:att>
                 with identical values.</tei:change>
-            <tei:change when="2019-02-21" who="#pers_TG" change="#d2e228" xml:id="change_1.d2e196">Corrected 
-                <tei:gi change="#d2e228" xml:id="gi_3.d2e198">biblStruct</tei:gi>
+            <tei:change when="2019-02-21" who="#pers_TG" change="#d2e228 #d2e239" xml:id="change_1.d2e196" xml:lang="en">Corrected 
+                <tei:gi change="#d2e228 #d2e239" xml:id="gi_3.d2e198" xml:lang="en">biblStruct</tei:gi>
                 by moving all 
-                <tei:gi change="#d2e228" xml:id="gi_3.d2e201">biblScope</tei:gi>
+                <tei:gi change="#d2e228 #d2e239" xml:id="gi_3.d2e201" xml:lang="en">biblScope</tei:gi>
                 from 
-                <tei:gi change="#d2e228" xml:id="gi_3.d2e204">imprint</tei:gi>
+                <tei:gi change="#d2e228 #d2e239" xml:id="gi_3.d2e204" xml:lang="en">imprint</tei:gi>
                 to 
-                <tei:gi change="#d2e228" xml:id="gi_3.d2e207">monogr</tei:gi>
+                <tei:gi change="#d2e228 #d2e239" xml:id="gi_3.d2e207" xml:lang="en">monogr</tei:gi>
                 and by converting all 
-                <tei:att change="#d2e228" xml:id="att_9.d2e210">n</tei:att>
+                <tei:att change="#d2e228 #d2e239" xml:id="att_9.d2e210" xml:lang="en">n</tei:att>
                 to 
-                <tei:att change="#d2e228" xml:id="att_9.d2e214">from</tei:att>
+                <tei:att change="#d2e228 #d2e239" xml:id="att_9.d2e214" xml:lang="en">from</tei:att>
                 and 
-                <tei:att change="#d2e228" xml:id="att_9.d2e217">to</tei:att>
+                <tei:att change="#d2e228 #d2e239" xml:id="att_9.d2e217" xml:lang="en">to</tei:att>
                 with identical values.</tei:change>
             <tei:change change="d2e104 #d2e228" when="2019-02-21" who="#pers_TG" xml:lang="en" xml:id="change_1.d2e222">Added the 
                 <tei:att xml:lang="en" change="#d2e228" xml:id="att_9.d2e224">xml:lang</tei:att>
@@ -227,14 +227,14 @@
         <body change="#d2e104 #d2e228" xml:lang="ar" xml:id="body_1.d2e426">
             <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1" n="129" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1"/>
             <div change="#d2e104 #d2e228" type="item" xml:lang="ar" xml:id="div_1.d2e430">
-                <head change="#d2e228" xml:id="head_1.d2e432">
+                <head change="#d2e228 #d2e239" xml:id="head_1.d2e432" xml:lang="ar">
                     <persName xml:lang="fr-Arab-AR" change="#d2e228" xml:id="persName_4.d2e434">مدام دي سفينية</persName>
                     <lb change="#d2e228" xml:id="lb_1.d2e437"/>
                     <persName xml:lang="fr" change="#d2e228" xml:id="persName_5.d2e439">M.me de Sévigné</persName>
                 </head>
                 <pb change="#d2e174 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2" n="130a" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2"/>
-                <figure change="#d2e228" xml:id="figure_1.d2e445">
-                    <label change="#d2e228" xml:id="label_1.d2e447">
+                <figure change="#d2e228 #d2e239" xml:id="figure_1.d2e445" xml:lang="ar">
+                    <label change="#d2e228 #d2e239" xml:id="label_1.d2e447" xml:lang="ar">
                         <persName xml:lang="fr-Arab-AR" change="#d2e228" xml:id="persName_6.d2e449">مدام دي سفينية</persName>
                         <lb change="#d2e228" xml:id="lb_2.d2e452"/>
                         <persName xml:lang="fr" change="#d2e228" xml:id="persName_7.d2e454">M.me de Sévigné</persName>
@@ -251,79 +251,79 @@
                 <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11" n="138" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11"/>
             </div>
             <div change="#d2e104 #d2e228" type="item" xml:lang="ar" xml:id="div_2.d2e480">
-                <head change="#d2e228" xml:id="head_2.d2e482">حب المرأة</head>
-                <byline change="#d2e228" xml:id="byline_1.d2e485">خطاب للكاتبة المجيدة الآنسة 
-                    <persName change="#d2e228" xml:id="persName_8.d2e487">ماري عجمي</persName>
+                <head change="#d2e228 #d2e239" xml:id="head_2.d2e482" xml:lang="ar">حب المرأة</head>
+                <byline change="#d2e228 #d2e239" xml:id="byline_1.d2e485" xml:lang="ar">خطاب للكاتبة المجيدة الآنسة 
+                    <persName change="#d2e228 #d2e239" xml:id="persName_8.d2e487" xml:lang="ar">ماري عجمي</persName>
                     تلته 
                     <lb change="#d2e228" xml:id="lb_3.d2e490"/>
                     في حفلة 
-                    <orgName change="#d2e228" xml:id="orgName_3.d2e492">جمعية بنات الشفقة الارثوذكسية</orgName>
+                    <orgName change="#d2e228 #d2e239" xml:id="orgName_3.d2e492" xml:lang="ar">جمعية بنات الشفقة الارثوذكسية</orgName>
                     في 
-                    <placeName change="#d2e228" xml:id="placeName_3.d2e495">زحله</placeName></byline>
+                    <placeName change="#d2e228 #d2e239" xml:id="placeName_3.d2e495" xml:lang="ar">زحله</placeName></byline>
                 <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12" n="139" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12"/>
                 <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13" n="140" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13"/>
                 <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14" n="141" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14"/>
             </div>
             <div change="#d2e104 #d2e228" type="item" xml:lang="ar" xml:id="div_3.d2e505">
-                <head change="#d2e228" xml:id="head_3.d2e507">شرف العذراء</head>
-                <byline change="#d2e228" xml:id="byline_2.d2e510">خطاب للكاتبة المجيدة 
-                    <persName change="#d2e228" xml:id="persName_9.d2e512">سلوى سلامه</persName>
+                <head change="#d2e228 #d2e239" xml:id="head_3.d2e507" xml:lang="ar">شرف العذراء</head>
+                <byline change="#d2e228 #d2e239" xml:id="byline_2.d2e510" xml:lang="ar">خطاب للكاتبة المجيدة 
+                    <persName change="#d2e228 #d2e239" xml:id="persName_9.d2e512" xml:lang="ar">سلوى سلامه</persName>
                     تلته 
                     <lb change="#d2e228" xml:id="lb_4.d2e515"/>
                     في الحفلة الادبية لمساعدة اليتامي في 
-                    <placeName change="#d2e228" xml:id="placeName_4.d2e517">زحله</placeName></byline>
-                <div subtype="verse" type="section" change="#d2e228" xml:id="div_3.d2e520">
+                    <placeName change="#d2e228 #d2e239" xml:id="placeName_4.d2e517" xml:lang="ar">زحله</placeName></byline>
+                <div subtype="verse" type="section" change="#d2e228 #d2e239" xml:id="div_3.d2e520" xml:lang="ar">
                     <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15" n="142" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15"/>
                 </div>
                 <div subtype="verse" type="section" change="#d2e228" xml:id="div_4.d2e525"/>
-                <div type="section" change="#d2e228" xml:id="div_5.d2e527">
+                <div type="section" change="#d2e228 #d2e239" xml:id="div_5.d2e527" xml:lang="ar">
                     <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16" n="143" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16"/>
                     <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17" n="144" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17"/>
                     <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20" n="145" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18"/>
                 </div>
             </div>
             <div change="#d2e104 #d2e228" subtype="verse" type="item" xml:lang="ar" xml:id="div_7.d2e537">
-                <head change="#d2e228" xml:id="head_4.d2e539">الى 
-                    <persName change="#d2e228" xml:id="persName_10.d2e541">معروف افندي الرصافي</persName>
+                <head change="#d2e228 #d2e239" xml:id="head_4.d2e539" xml:lang="ar">الى 
+                    <persName change="#d2e228 #d2e239" xml:id="persName_10.d2e541" xml:lang="ar">معروف افندي الرصافي</persName>
                     و
-                    <persName change="#d2e228" xml:id="persName_11.d2e544">ولي الدين بك يكن</persName></head>
-                <byline change="#d2e228" xml:id="byline_3.d2e547">
-                    <placeName change="#d2e228" xml:id="placeName_5.d2e549">حلب</placeName>في 
-                    <date when="1909-10-10" change="#d2e228" xml:id="date_4.d2e552">١٠ ت ١</date>
-                    <persName change="#d2e228" xml:id="persName_12.d2e555">قسطاكي حمصي</persName></byline>
+                    <persName change="#d2e228 #d2e239" xml:id="persName_11.d2e544" xml:lang="ar">ولي الدين بك يكن</persName></head>
+                <byline change="#d2e228 #d2e239" xml:id="byline_3.d2e547" xml:lang="ar">
+                    <placeName change="#d2e228 #d2e239" xml:id="placeName_5.d2e549" xml:lang="ar">حلب</placeName>في 
+                    <date when="1909-10-10" change="#d2e228 #d2e239" xml:id="date_4.d2e552" xml:lang="ar">١٠ ت ١</date>
+                    <persName change="#d2e228 #d2e239" xml:id="persName_12.d2e555" xml:lang="ar">قسطاكي حمصي</persName></byline>
             </div>
             <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21" n="146" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19"/>
             <div change="#d2e104 #d2e228" type="item" xml:lang="ar" xml:id="div_8.d2e562">
-                <head change="#d2e228" xml:id="head_5.d2e564">شكوى لطيفة</head>
+                <head change="#d2e228 #d2e239" xml:id="head_5.d2e564" xml:lang="ar">شكوى لطيفة</head>
                 <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18" n="147" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20"/>
                 <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19" n="148" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21"/>
                 <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24" n="149" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22"/>
-                <byline change="#d2e228" xml:id="byline_4.d2e573">
-                    <placeName change="#d2e228" xml:id="placeName_6.d2e575">صيدا</placeName>
-                    <persName change="#d2e228" xml:id="persName_13.d2e578">مريم زكا</persName>
+                <byline change="#d2e228 #d2e239" xml:id="byline_4.d2e573" xml:lang="ar">
+                    <placeName change="#d2e228 #d2e239" xml:id="placeName_6.d2e575" xml:lang="ar">صيدا</placeName>
+                    <persName change="#d2e228 #d2e239" xml:id="persName_13.d2e578" xml:lang="ar">مريم زكا</persName>
                 </byline>
             </div>
             <div change="#d2e104 #d2e228" type="item" xml:lang="ar" xml:id="div_9.d2e583">
-                <head change="#d2e228" xml:id="head_6.d2e585">تقدمي 
+                <head change="#d2e228 #d2e239" xml:id="head_6.d2e585" xml:lang="ar">تقدمي 
                     <lb change="#d2e228" xml:id="lb_5.d2e587"/>
                     ولا تخافي ايتها الحسناء</head>
                 <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25" n="150" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23"/>
                 <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22" n="151" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24"/>
                 <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23" n="152" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25"/>
-                <byline change="#d2e228" xml:id="byline_5.d2e596">
-                    <placeName change="#d2e228" xml:id="placeName_7.d2e598">بيت شباب</placeName>
-                    <placeName rend="brackets" change="#d2e228" xml:id="placeName_8.d2e601">لبنان</placeName>
-                    <persName change="#d2e228" xml:id="persName_14.d2e604">مخايل حايك</persName>
+                <byline change="#d2e228 #d2e239" xml:id="byline_5.d2e596" xml:lang="ar">
+                    <placeName change="#d2e228 #d2e239" xml:id="placeName_7.d2e598" xml:lang="ar">بيت شباب</placeName>
+                    <placeName rend="brackets" change="#d2e228 #d2e239" xml:id="placeName_8.d2e601" xml:lang="ar">لبنان</placeName>
+                    <persName change="#d2e228 #d2e239" xml:id="persName_14.d2e604" xml:lang="ar">مخايل حايك</persName>
                 </byline>
             </div>
             <div change="#d2e104 #d2e228" type="item" xml:lang="ar" xml:id="div_10.d2e609">
-                <head change="#d2e228" xml:id="head_7.d2e611">عن مدارس البنات ولها</head>
+                <head change="#d2e228 #d2e239" xml:id="head_7.d2e611" xml:lang="ar">عن مدارس البنات ولها</head>
             </div>
             <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26" n="153" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26"/>
             <div change="#d2e104 #d2e228" type="section" xml:lang="ar" xml:id="div_11.d2e617">
-                <head change="#d2e228" xml:id="head_8.d2e619">روايات الحسناء</head>
-                <div type="item" change="#d2e228" xml:id="div_11.d2e622">
-                    <head change="#d2e228" xml:id="head_9.d2e624">ندامة ادما</head>
+                <head change="#d2e228 #d2e239" xml:id="head_8.d2e619" xml:lang="ar">روايات الحسناء</head>
+                <div type="item" change="#d2e228 #d2e239" xml:id="div_11.d2e622" xml:lang="ar">
+                    <head change="#d2e228 #d2e239" xml:id="head_9.d2e624" xml:lang="ar">ندامة ادما</head>
                     <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27" n="154" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27"/>
                     <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28" n="155" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28"/>
                     <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29" n="156" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29"/>
@@ -331,28 +331,28 @@
                     <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31" n="158" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31"/>
                 </div>
             </div>
-            <div type="item" change="#d2e228" xml:id="div_13.d2e641">
-                <head change="#d2e228" xml:id="head_10.d2e643">من كل فن خبر</head>
+            <div type="item" change="#d2e228 #d2e239" xml:id="div_13.d2e641" xml:lang="ar">
+                <head change="#d2e228 #d2e239" xml:id="head_10.d2e643" xml:lang="ar">من كل فن خبر</head>
                 <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32" n="159" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32"/>
             </div>
-            <div type="item" change="#d2e228" xml:id="div_14.d2e649">
-                <head change="#d2e228" xml:id="head_11.d2e651">زفاف رصيفة الـى صديق</head>
+            <div type="item" change="#d2e228 #d2e239" xml:id="div_14.d2e649" xml:lang="ar">
+                <head change="#d2e228 #d2e239" xml:id="head_11.d2e651" xml:lang="ar">زفاف رصيفة الـى صديق</head>
             </div>
-            <div type="section" change="#d2e228" xml:id="div_15.d2e655">
-                <head change="#d2e228" xml:id="head_12.d2e657">آثار ادبية</head>
+            <div type="section" change="#d2e228 #d2e239" xml:id="div_15.d2e655" xml:lang="ar">
+                <head change="#d2e228 #d2e239" xml:id="head_12.d2e657" xml:lang="ar">آثار ادبية</head>
             </div>
-            <div type="item" change="#d2e228" xml:id="div_16.d2e661">
-                <head change="#d2e228" xml:id="head_13.d2e663">الدكتور يوسف</head>
+            <div type="item" change="#d2e228 #d2e239" xml:id="div_16.d2e661" xml:lang="ar">
+                <head change="#d2e228 #d2e239" xml:id="head_13.d2e663" xml:lang="ar">الدكتور يوسف</head>
             </div>
             <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33" n="160" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33"/>
-            <div type="item" change="#d2e228" xml:id="div_17.d2e669">
-                <head change="#d2e228" xml:id="head_14.d2e671">اقوال في النساء</head>
+            <div type="item" change="#d2e228 #d2e239" xml:id="div_17.d2e669" xml:lang="ar">
+                <head change="#d2e228 #d2e239" xml:id="head_14.d2e671" xml:lang="ar">اقوال في النساء</head>
             </div>
-            <div type="item" change="#d2e228" xml:id="div_18.d2e676">
-                <head change="#d2e228" xml:id="head_15.d2e678">حكم واراء</head>
+            <div type="item" change="#d2e228 #d2e239" xml:id="div_18.d2e676" xml:lang="ar">
+                <head change="#d2e228 #d2e239" xml:id="head_15.d2e678" xml:lang="ar">حكم واراء</head>
             </div>
-            <div type="item" change="#d2e228" xml:id="div_19.d2e682">
-                <head change="#d2e228" xml:id="head_16.d2e684">مأثورات</head>
+            <div type="item" change="#d2e228 #d2e239" xml:id="div_19.d2e682" xml:lang="ar">
+                <head change="#d2e228 #d2e239" xml:id="head_16.d2e684" xml:lang="ar">مأثورات</head>
             </div>
         </body>
     </text>
