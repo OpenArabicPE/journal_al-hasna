@@ -292,8 +292,6 @@
                     <persName>معروف افندي الرصافي</persName>
                     و
                     <persName>ولي الدين بك يكن</persName></head>
-            </div>
-            <div type="type_zzm_fwk_wgb">
                 <byline>
                     <placeName>حلب</placeName>في 
                     <date when="1909-10-10">١٠ ت ١</date>
@@ -302,22 +300,65 @@
             <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21" n="146" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19"/>
             <div change="#d2e104" type="item" xml:lang="ar">
                 <head>شكوى لطيفة</head>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18" n="147" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19" n="148" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22" n="149" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23" n="150" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24" n="151" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25" n="152" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26" n="153" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27" n="154" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28" n="155" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29" n="156" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30" n="157" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31" n="158" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32" n="159" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33" n="160" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33"/>
-                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34" n="161" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34"/>
+                <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18" n="147" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20"/>
+                <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19" n="148" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21"/>
+                <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24" n="149" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22"/>
+                <byline>
+                    <placeName>صيدا</placeName>
+                    <persName>مريم زكا</persName>
+                </byline>
+            </div>
+            <div change="#d2e104" type="item" xml:lang="ar">
+                <head>تقدمي 
+                    <lb/>
+                    ولا تخافي ايتها الحسناء</head>
+                <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25" n="150" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23"/>
+                <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22" n="151" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24"/>
+                <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23" n="152" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25"/>
+                <byline>
+                    <placeName>بيت شباب</placeName>
+                    <placeName rend="brackets">لبنان</placeName>
+                    <persName>مخايل حايك</persName>
+                </byline>
+            </div>
+            <div change="#d2e104" type="item" xml:lang="ar">
+                <head>عن مدارس البنات ولها</head>
+            </div>
+            <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26" n="153" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26"/>
+            <div change="#d2e104" type="section" xml:lang="ar">
+                <head>روايات الحسناء</head>
+                <div type="item">
+                    <head>ندامة ادما</head>
+                    <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27" n="154" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27"/>
+                    <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28" n="155" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28"/>
+                    <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29" n="156" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29"/>
+                    <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30" n="157" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30"/>
+                    <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31" n="158" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31"/>
+                </div>
+            </div>
+            <div type="item">
+                <head>من كل فن خبر</head>
+                <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32" n="159" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32"/>
+            </div>
+            <div type="item">
+                <head>زفاف رصيفة الـى صديق</head>
+            </div>
+            <div type="section">
+                <head>آثار ادبية</head>
+            </div>
+            <div type="item">
+                <head>الدكتور يوسف</head>
+            </div>
+            <pb change="#d2e174 #d2e191 #d2e208 #d2e213" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33" n="160" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33"/>
+            <div type="item">
+                <head>اقوال في النساء</head>
+            </div>
+            <div type="item">
+                <head>حكم واراء</head>
+            </div>
+            <div type="item">
+                <head>مأثورات</head>
             </div>
         </body>
     </text>
-</TEI>
+</TEI>        
