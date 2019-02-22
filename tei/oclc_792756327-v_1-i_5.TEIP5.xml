@@ -1,213 +1,323 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" change="#d2e104" xml:lang="" next="oclc_792756327-v_1-i_6.TEIP5.xml" prev="oclc_792756327-v_1-i_4.TEIP5.xml">
-   <teiHeader xml:lang="en">
-      <fileDesc change="#d2e104" xml:lang="en">
-         <titleStmt change="#d2e104" xml:lang="en">
-            <title change="#d2e104" xml:lang="en">
-               <bibl change="#d2e104" xml:lang="en">Ḥasnāʾ 1(5), 20 Oct 1909 (EAP copy)</bibl>
-            </title>
-         </titleStmt>
-         <editionStmt change="#d2e104" xml:lang="en">
-            <edition change="#d2e104" xml:lang="en">
-               <date when="2019-02-21" change="#d2e104" xml:lang="en">21 Feb. 2019</date>
-            </edition>
-            <respStmt change="#d2e104" xml:lang="en">
-               <resp change="#d2e104" xml:lang="en">Transcription and digital edition</resp>
-               <persName xml:id="pers_TG" change="#d2e104" xml:lang="en">Till Grallert</persName>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt change="#d2e104" xml:lang="en">
-            <p change="#d2e104" xml:lang="en">This should be replaced with some description</p>
-         </publicationStmt>
-         <sourceDesc change="#d2e104" xml:lang="en">
-            <biblStruct xml:lang="ar-Latn-x-ijmes">
-               <monogr change="#d2e104" xml:lang="ar-Latn-x-ijmes"><title level="j" change="#d2e104" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title><title level="j" xml:lang="ar">الحسناء</title><title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title><idno type="callNumber" change="#d2e104" xml:lang="ar-Latn-x-ijmes">EAP119/1/8/1</idno><idno type="CitationID" change="#d2e104" xml:lang="ar-Latn-x-ijmes">hasna 5</idno><idno type="url" change="#d2e104" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
-	<idno type="OCLC">792756327</idno>
-	<idno type="OCLC">792755433</idno>
-	<idno type="OCLC">1034555587</idno>
-	<idno type="OCLC">1034550210</idno>
-	<idno type="OCLC">672047031</idno>
-<editor>
-	<persName xml:lang="ar-Lang-x-ijmes">Jirjī Niqūlā Bāz</persName>
-	<persName xml:lang="ar">جرجي نقولا باز</persName>
-	</editor><imprint change="#d2e104" xml:lang="ar-Latn-x-ijmes">
-                     <publisher change="#d2e104" xml:lang="ar-Latn-x-ijmes">
-                        <orgName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
-<orgName xml:lang="ar">مطبعة جريدة حديقة الاخبار</orgName>
-                     </publisher>
-                     <pubPlace change="#d2e104" xml:lang="ar-Latn-x-ijmes">
-                        <placeName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Bayrūt</placeName>
-<placeName xml:lang="ar">بيروت</placeName>
-                     </pubPlace>
-                     <date when="1909-10-20" change="#d2e104" xml:lang="ar-Latn-x-ijmes">20 Oct 1909</date>
-                     <date xml:lang="ar-Latn-x-ijmes" when="1909-10-20" when-custom="1909-10-07" calendar="#cal_julian" datingMethod="#cal_julian">7 Tishrīn al-awwal 1909, Wednesday</date>
-                     
-                     
-                     
-                  </imprint>
-
-<biblScope unit="volume" from="1" to="1" change="#d2e104" xml:lang="ar-Latn-x-ijmes">1</biblScope>
-
-<biblScope unit="issue" from="5" to="5" change="#d2e104" xml:lang="ar-Latn-x-ijmes">5</biblScope>
-
-<biblScope unit="page" from="129" to="160" change="#d2e104" xml:lang="ar-Latn-x-ijmes">1-42</biblScope></monogr>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-      <revisionDesc><tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e208">Linked all <tei:tag>pb ed="print"</tei:tag> to the corresponding facsimile</tei:change><tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e191">Added automated page numbers as <att>n</att>s in addition to <att>ed</att>="print" and <att>edRef</att>="#edition_1" for every<gi>pb</gi> that was not of <att>ed</att>="shamela".</tei:change><tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e174">Added automated page numbers as <att>n</att>s in addition to <att>ed</att>="print" and <att>edRef</att>="#edition_1" for every<gi>pb</gi> that was not of <att>ed</att>="shamela".</tei:change><tei:change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <tei:gi>biblStruct</tei:gi> by sorting child elements in the correct order.  Converted all <tei:att>n</tei:att> on <tei:gi>biblScope</tei:gi> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
-         <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
-      </revisionDesc>
-   </teiHeader>
-   <facsimile>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_001_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_002_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_3">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_003_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_3_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_4">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_004_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_4_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_5">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_005_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_5_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_6">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_006_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_6_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_7">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_007_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_7_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_8">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_008_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_8_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_9">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_009_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_9_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_10">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_010_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_10_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_011_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_012_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_013_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_014_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_015_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_016_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_017_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17_source"/>
-      </surface>
-       <!-- moved the following two -->
-       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_020_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_021_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_018_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_019_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19_source"/>
-      </surface>
-       <!-- move two up -->
-      <!--<surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_020_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_021_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21_source"/>
-      </surface>-->
-       <!-- move two down -->
-      <!--<surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_022_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_023_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23_source"/>
-      </surface>-->
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_024_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_025_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25_source"/>
-      </surface>
-       <!-- the following two pages were moved two positions down -->
-       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_022_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_023_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_026_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_027_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_028_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_029_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_030_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_031_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_032_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_033_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33_source"/>
-      </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34">
-         <graphic mimeType="image/jpeg" url="../images/1909/190910_034_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34_source"/>
-      </surface>
-   </facsimile>
-   <text xml:lang="ar">
-      <body change="#d2e104" xml:lang="ar">
-         <pb change="#d2e174 #d2e191 #d2e208" ed="print" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1" n="129" edRef="#edition_1"/>
-         <div change="#d2e104" type="item" xml:lang="ar">
-<head><persName xml:lang="fr-Arab-AR">مدام دي سفينية</persName> <lb/><persName xml:lang="fr">M.me de Sévigné</persName></head><pb change="#d2e174 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2" n="130a" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2"/>
-<figure>
-<label><persName xml:lang="fr-Arab-AR">مدام دي سفينية</persName><lb/><persName xml:lang="fr">M.me de Sévigné</persName></label>
-</figure><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_3" n="130" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_3"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_4" n="131" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_4"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_5" n="132" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_5"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_6" n="133" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_6"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_7" n="134" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_7"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_8" n="135" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_8"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_9" n="136" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_9"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_10" n="137" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_10"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11" n="138" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11"/>
-</div>
-<div change="#d2e104" type="item" xml:lang="ar">
-<head>حب المرأة</head>
-<byline>خطاب للكاتبة المجيدة الآنسة <persName>ماري عجمي</persName> تلته <lb/>في حفلة <orgName>جمعية بنات الشفقة الارثوذكسية</orgName> في <placeName>زحله</placeName></byline><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12" n="139" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13" n="140" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14" n="141" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14"/>
-</div>
-<div change="#d2e104" type="item" xml:lang="ar">
-<head>شرف العذراء</head>
-<byline>خطاب للكاتبة المجيدة <persName>سلوى سلامه</persName> تلته <lb/>في الحفلة الادبية لمساعدة اليتامي في <placeName>زحله</placeName></byline>
-<div subtype="verse" type="section"><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15" n="142" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15"/>
-</div>
-<div subtype="verse" type="section"/>
-<div type="section"><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16" n="143" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17" n="144" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20" n="145" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18"/>
-</div>
-</div>
-<div change="#d2e104" subtype="verse" type="item" xml:lang="ar">
-<head>الى <persName>معروف افندي الرصافي</persName> و<persName>ولي الدين بك يكن</persName></head>
-</div>
-<div type="type_zzm_fwk_wgb">
-<byline><placeName>حلب</placeName> في <date when="1909-10-10">١٠ ت ١</date> <persName>قسطاكي حمصي</persName></byline>
-</div><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21" n="146" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19"/>
-<div change="#d2e104" type="item" xml:lang="ar">
-<head>شكوى لطيفة</head><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18" n="147" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19" n="148" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22" n="149" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23" n="150" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24" n="151" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25" n="152" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26" n="153" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27" n="154" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28" n="155" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29" n="156" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30" n="157" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31" n="158" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32" n="159" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33" n="160" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33"/><pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34" n="161" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34"/>
-</div>
-      </body>
-   </text>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
+<TEI change="#d2e104" next="oclc_792756327-v_1-i_6.TEIP5.xml" prev="oclc_792756327-v_1-i_4.TEIP5.xml" xml:lang="" xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="en">
+        <fileDesc change="#d2e104" xml:lang="en">
+            <titleStmt change="#d2e104" xml:lang="en">
+                <title change="#d2e104" xml:lang="en">
+                    <bibl change="#d2e104" xml:lang="en">Ḥasnāʾ 1(5), 20 Oct 1909 (EAP copy)</bibl>
+                </title>
+            </titleStmt>
+            <editionStmt change="#d2e104" xml:lang="en">
+                <edition change="#d2e104" xml:lang="en">
+                    <date change="#d2e104" when="2019-02-21" xml:lang="en">21 Feb. 2019</date>
+                </edition>
+                <respStmt change="#d2e104" xml:lang="en">
+                    <resp change="#d2e104" xml:lang="en">Transcription and digital edition</resp>
+                    <persName change="#d2e104" xml:id="pers_TG" xml:lang="en">Till Grallert</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt change="#d2e104" xml:lang="en">
+                <p change="#d2e104" xml:lang="en">This should be replaced with some description</p>
+            </publicationStmt>
+            <sourceDesc change="#d2e104" xml:lang="en">
+                <biblStruct xml:lang="ar-Latn-x-ijmes">
+                    <monogr change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                        <title change="#d2e104" level="j" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
+                        <title level="j" xml:lang="ar">الحسناء</title>
+                        <title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title>
+                        <idno change="#d2e104" type="callNumber" xml:lang="ar-Latn-x-ijmes">EAP119/1/8/1</idno>
+                        <idno change="#d2e104" type="CitationID" xml:lang="ar-Latn-x-ijmes">hasna 5</idno>
+                        <idno change="#d2e104" type="url" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
+                        <idno type="OCLC">792756327</idno>
+                        <idno type="OCLC">792755433</idno>
+                        <idno type="OCLC">1034555587</idno>
+                        <idno type="OCLC">1034550210</idno>
+                        <idno type="OCLC">672047031</idno>
+                        <editor>
+                            <persName xml:lang="ar-Lang-x-ijmes">Jirjī Niqūlā Bāz</persName>
+                            <persName xml:lang="ar">جرجي نقولا باز</persName>
+                        </editor>
+                        <imprint change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                            <publisher change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                                <orgName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
+                                <orgName xml:lang="ar">مطبعة جريدة حديقة الاخبار</orgName>
+                            </publisher>
+                            <pubPlace change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+                                <placeName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Bayrūt</placeName>
+                                <placeName xml:lang="ar">بيروت</placeName>
+                            </pubPlace>
+                            <date change="#d2e104" when="1909-10-20" xml:lang="ar-Latn-x-ijmes">20 Oct 1909</date>
+                            <date calendar="#cal_julian" datingMethod="#cal_julian" when="1909-10-20" when-custom="1909-10-07" xml:lang="ar-Latn-x-ijmes">7 Tishrīn al-awwal 1909, Wednesday</date>
+                        </imprint>
+                        <biblScope change="#d2e104" from="1" to="1" unit="volume" xml:lang="ar-Latn-x-ijmes">1</biblScope>
+                        <biblScope change="#d2e104" from="5" to="5" unit="issue" xml:lang="ar-Latn-x-ijmes">5</biblScope>
+                        <biblScope change="#d2e104" from="129" to="160" unit="page" xml:lang="ar-Latn-x-ijmes">1-42</biblScope>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e208">Linked all 
+                <tei:tag>pb ed=&quot;print&quot;</tei:tag>
+                to the corresponding facsimile</tei:change>
+            <tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e191">Added automated page numbers as 
+                <att>n</att>
+                s in addition to 
+                <att>ed</att>
+                =&quot;print&quot; and 
+                <att>edRef</att>
+                =&quot;#edition_1&quot; for every
+                <gi>pb</gi>
+                that was not of 
+                <att>ed</att>
+                =&quot;shamela&quot;.</tei:change>
+            <tei:change when="2019-02-22" who="#pers_TG" xml:id="d2e174">Added automated page numbers as 
+                <att>n</att>
+                s in addition to 
+                <att>ed</att>
+                =&quot;print&quot; and 
+                <att>edRef</att>
+                =&quot;#edition_1&quot; for every
+                <gi>pb</gi>
+                that was not of 
+                <att>ed</att>
+                =&quot;shamela&quot;.</tei:change>
+            <tei:change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected 
+                <tei:gi>biblStruct</tei:gi>
+                by sorting child elements in the correct order.  Converted all 
+                <tei:att>n</tei:att>
+                on 
+                <tei:gi>biblScope</tei:gi>
+                to 
+                <tei:att>from</tei:att>
+                and 
+                <tei:att>to</tei:att>
+                with identical values.</tei:change>
+            <tei:change when="2019-02-21" who="#pers_TG">Corrected 
+                <tei:gi>biblStruct</tei:gi>
+                by moving all 
+                <tei:gi>biblScope</tei:gi>
+                from 
+                <tei:gi>imprint</tei:gi>
+                to 
+                <tei:gi>monogr</tei:gi>
+                and by converting all 
+                <tei:att>n</tei:att>
+                to 
+                <tei:att>from</tei:att>
+                and 
+                <tei:att>to</tei:att>
+                with identical values.</tei:change>
+            <tei:change change="d2e104" when="2019-02-21" who="#pers_TG" xml:lang="en">Added the 
+                <tei:att xml:lang="en">xml:lang</tei:att>
+                attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+            <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_001_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_002_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_3">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_003_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_3_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_4">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_004_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_4_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_5">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_005_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_5_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_6">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_006_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_6_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_7">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_007_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_7_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_8">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_008_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_8_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_9">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_009_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_9_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_10">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_010_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_10_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_011_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_012_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_013_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_014_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_015_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_016_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_017_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17_source"/>
+        </surface>
+        <!-- moved the following two -->
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_020_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_021_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_018_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_019_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19_source"/>
+        </surface>
+        <!-- move two up -->
+        <!--<surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20"><graphic mimeType="image/jpeg" url="../images/1909/190910_020_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20_source"/></surface><surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21"><graphic mimeType="image/jpeg" url="../images/1909/190910_021_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21_source"/></surface>-->
+        <!-- move two down -->
+        <!--<surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22"><graphic mimeType="image/jpeg" url="../images/1909/190910_022_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22_source"/></surface><surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23"><graphic mimeType="image/jpeg" url="../images/1909/190910_023_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23_source"/></surface>-->
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_024_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_025_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25_source"/>
+        </surface>
+        <!-- the following two pages were moved two positions down -->
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_022_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_023_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_026_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_027_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_028_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_029_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_030_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_031_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_032_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_033_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33_source"/>
+        </surface>
+        <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34">
+            <graphic mimeType="image/jpeg" url="../images/1909/190910_034_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34_source"/>
+        </surface>
+    </facsimile>
+    <text xml:lang="ar">
+        <body change="#d2e104" xml:lang="ar">
+            <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1" n="129" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_1"/>
+            <div change="#d2e104" type="item" xml:lang="ar">
+                <head>
+                    <persName xml:lang="fr-Arab-AR">مدام دي سفينية</persName>
+                    <lb/>
+                    <persName xml:lang="fr">M.me de Sévigné</persName>
+                </head>
+                <pb change="#d2e174 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2" n="130a" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_2"/>
+                <figure>
+                    <label>
+                        <persName xml:lang="fr-Arab-AR">مدام دي سفينية</persName>
+                        <lb/>
+                        <persName xml:lang="fr">M.me de Sévigné</persName>
+                    </label>
+                </figure>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_3" n="130" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_3"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_4" n="131" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_4"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_5" n="132" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_5"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_6" n="133" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_6"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_7" n="134" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_7"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_8" n="135" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_8"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_9" n="136" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_9"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_10" n="137" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_10"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11" n="138" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_11"/>
+            </div>
+            <div change="#d2e104" type="item" xml:lang="ar">
+                <head>حب المرأة</head>
+                <byline>خطاب للكاتبة المجيدة الآنسة 
+                    <persName>ماري عجمي</persName>
+                    تلته 
+                    <lb/>
+                    في حفلة 
+                    <orgName>جمعية بنات الشفقة الارثوذكسية</orgName>
+                    في 
+                    <placeName>زحله</placeName></byline>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12" n="139" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_12"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13" n="140" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_13"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14" n="141" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_14"/>
+            </div>
+            <div change="#d2e104" type="item" xml:lang="ar">
+                <head>شرف العذراء</head>
+                <byline>خطاب للكاتبة المجيدة 
+                    <persName>سلوى سلامه</persName>
+                    تلته 
+                    <lb/>
+                    في الحفلة الادبية لمساعدة اليتامي في 
+                    <placeName>زحله</placeName></byline>
+                <div subtype="verse" type="section">
+                    <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15" n="142" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_15"/>
+                </div>
+                <div subtype="verse" type="section"/>
+                <div type="section">
+                    <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16" n="143" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_16"/>
+                    <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17" n="144" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17"/>
+                    <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20" n="145" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18"/>
+                </div>
+            </div>
+            <div change="#d2e104" subtype="verse" type="item" xml:lang="ar">
+                <head>الى 
+                    <persName>معروف افندي الرصافي</persName>
+                    و
+                    <persName>ولي الدين بك يكن</persName></head>
+            </div>
+            <div type="type_zzm_fwk_wgb">
+                <byline>
+                    <placeName>حلب</placeName>في 
+                    <date when="1909-10-10">١٠ ت ١</date>
+                    <persName>قسطاكي حمصي</persName></byline>
+            </div>
+            <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21" n="146" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19"/>
+            <div change="#d2e104" type="item" xml:lang="ar">
+                <head>شكوى لطيفة</head>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18" n="147" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19" n="148" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22" n="149" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23" n="150" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_23"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24" n="151" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_24"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25" n="152" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_25"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26" n="153" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_26"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27" n="154" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_27"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28" n="155" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_28"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29" n="156" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_29"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30" n="157" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_30"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31" n="158" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_31"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32" n="159" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_32"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33" n="160" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_33"/>
+                <pb change="#d2e174 #d2e191 #d2e208" ed="print" edRef="#edition_1" facs="#facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34" n="161" xml:id="pb_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_34"/>
+            </div>
+        </body>
+    </text>
 </TEI>
