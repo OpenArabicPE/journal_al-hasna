@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" change="#d2e108" xml:lang="">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" change="#d2e108" xml:lang="" next="oclc_792756327-v_1-i_2.TEIP5.xml">
     <teiHeader xml:lang="en">
         <fileDesc change="#d2e108" xml:lang="en">
             <titleStmt change="#d2e108" xml:lang="en">
@@ -43,7 +43,13 @@
                             
                             
                             
-                        </imprint><biblScope from="1" to="1" unit="volume" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1</biblScope><biblScope from="1" to="1" unit="issue" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1</biblScope><biblScope from="1" to="42" unit="page" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1-42</biblScope></monogr>
+                        </imprint>
+
+<biblScope from="1" to="1" unit="issue" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1</biblScope>
+
+<biblScope from="1" to="1" unit="volume" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1</biblScope>
+
+<biblScope from="1" to="32" unit="page" change="#d2e108" xml:lang="ar-Latn-x-ijmes">1-42</biblScope></monogr>
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
@@ -270,7 +276,6 @@
             <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_37" n="32" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_37" edRef="#edition_1"/>
             <div type="section" change="#d2e108" xml:lang="ar">
                 <head change="#d2e108" xml:lang="ar">من كل فن خبر</head>
-                <pb change="#d2e149" ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_38" n="33" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_38" edRef="#edition_1"/>
             </div>
         </body>
     </text>
