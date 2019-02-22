@@ -20,20 +20,10 @@
          </publicationStmt>
          <sourceDesc change="#d2e104" xml:lang="en">
             <biblStruct xml:lang="ar-Latn-x-ijmes">
-               <monogr change="#d2e104" xml:lang="ar-Latn-x-ijmes">
-                  <title level="j" change="#d2e104" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title>
-
-<title level="j" xml:lang="ar">الحسناء</title>
-
-<title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title>
-<editor>
+               <monogr change="#d2e104" xml:lang="ar-Latn-x-ijmes"><title level="j" change="#d2e104" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title><title level="j" xml:lang="ar">الحسناء</title><title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title><idno type="callNumber" change="#d2e104" xml:lang="ar-Latn-x-ijmes">EAP119/1/8/3</idno><idno type="CitationID" change="#d2e104" xml:lang="ar-Latn-x-ijmes">hasna 4</idno><idno type="url" change="#d2e104" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=892;r=11337</idno><editor>
 	<persName xml:lang="ar-Lang-x-ijmes">Jirjī Niqūlā Bāz</persName>
 	<persName xml:lang="ar">جرجي نقولا باز</persName>
-	</editor>
-                        <idno type="callNumber" change="#d2e104" xml:lang="ar-Latn-x-ijmes">EAP119/1/8/3</idno>
-                  <idno type="CitationID" change="#d2e104" xml:lang="ar-Latn-x-ijmes">hasna 4</idno>
-                  <idno type="url" change="#d2e104" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=892;r=11337</idno>
-                  <imprint change="#d2e104" xml:lang="ar-Latn-x-ijmes">
+	</editor><imprint change="#d2e104" xml:lang="ar-Latn-x-ijmes">
                      <publisher change="#d2e104" xml:lang="ar-Latn-x-ijmes">
                         <orgName change="#d2e103" xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</orgName>
 <orgName xml:lang="ar">مطبعة جريدة حديقة الاخبار</orgName>
@@ -47,12 +37,11 @@
                      
                      
                      
-                  </imprint>
-               <biblScope unit="issue" from="3" to="3" change="#d2e104" xml:lang="ar-Latn-x-ijmes">3</biblScope><biblScope unit="volume" from="4" to="4" change="#d2e104" xml:lang="ar-Latn-x-ijmes">4</biblScope><biblScope unit="page" from="1" to="60" change="#d2e104" xml:lang="ar-Latn-x-ijmes">1-60</biblScope></monogr>
+                  </imprint><biblScope unit="issue" from="3" to="3" change="#d2e104" xml:lang="ar-Latn-x-ijmes">3</biblScope><biblScope unit="volume" from="4" to="4" change="#d2e104" xml:lang="ar-Latn-x-ijmes">4</biblScope><biblScope unit="page" from="1" to="60" change="#d2e104" xml:lang="ar-Latn-x-ijmes">1-60</biblScope></monogr>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+      <revisionDesc><tei:change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <tei:gi>biblStruct</tei:gi> by sorting child elements in the correct order.  Converted all <tei:att>n</tei:att> on <tei:gi>biblScope</tei:gi> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
          <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
    </teiHeader>
