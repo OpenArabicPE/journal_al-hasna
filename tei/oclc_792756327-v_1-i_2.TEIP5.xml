@@ -171,8 +171,11 @@
 <byline> وهذا ما وصف به <persName ref="oape:411">الرصافي</persName> بعض نساء سلانيك عندما زحف جيش <lb/>الدستور الى فتح الاستانة</byline>
 <head>من <placeName>سلانيك</placeName> الى <placeName>الاستانة</placeName></head>
 </div><pb change="#d2e176 #d2e193" ed="print" edRef="#edition_1" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_28" n="59" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_28"/>
-<div change="#d2e104" type="item" xml:lang="ar">
-<head>حفظ الصحة <lb/>الوقاية</head><pb change="#d2e176 #d2e193" ed="print" edRef="#edition_1" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_29" n="60" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_29"/>
+<div change="#d2e104" type="section" xml:lang="ar">
+<head>حفظ الصحة</head>
+<div type="item">
+<head>الوقاية</head><pb change="#d2e176 #d2e193" ed="print" edRef="#edition_1" facs="#facs_BA29D910-E765-436A-812E-54CFE607136D_29" n="60" xml:id="pb_BA29D910-E765-436A-812E-54CFE607136D_29"/>
+</div>
 </div>
 <div change="#d2e104" type="section" xml:lang="ar">
 <head>تدبير المنزل</head>
