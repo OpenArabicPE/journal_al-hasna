@@ -4,13 +4,13 @@
                 xsi:schemaLocation="http://www.loc.gov/standards/mods/mods-3-7.xsd">
    <mods ID="oclc_792756327-v_1-i_4-div_5.d2e407-mods">
       <titleInfo>
-         <title xml:lang="">نظرة في تأثيرالمرأة</title>
+         <title xml:lang="ar">نظرة في تأثيرالمرأة</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
       <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">مريم زكا</namePart>
+         <namePart type="family" xml:lang="ar">مريم زكا</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>

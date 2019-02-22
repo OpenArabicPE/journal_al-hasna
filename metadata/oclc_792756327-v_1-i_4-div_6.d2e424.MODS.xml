@@ -4,13 +4,13 @@
                 xsi:schemaLocation="http://www.loc.gov/standards/mods/mods-3-7.xsd">
    <mods ID="oclc_792756327-v_1-i_4-div_6.d2e424-mods">
       <titleInfo>
-         <title xml:lang="">مسكينة انت</title>
+         <title xml:lang="ar">مسكينة انت</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
       <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">نلي زعرب</namePart>
+         <namePart type="family" xml:lang="ar">نلي زعرب</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>

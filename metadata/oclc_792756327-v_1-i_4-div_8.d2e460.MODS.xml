@@ -4,13 +4,13 @@
                 xsi:schemaLocation="http://www.loc.gov/standards/mods/mods-3-7.xsd">
    <mods ID="oclc_792756327-v_1-i_4-div_8.d2e460-mods">
       <titleInfo>
-         <title xml:lang="">ام اليتيم</title>
+         <title xml:lang="ar">ام اليتيم</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
       <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">معروف الرصافي</namePart>
+         <namePart type="family" xml:lang="ar">معروف الرصافي</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
