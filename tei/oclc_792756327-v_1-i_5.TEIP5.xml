@@ -109,18 +109,26 @@
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_017_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_17_source"/>
       </surface>
+       <!-- moved the following two -->
+       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20">
+         <graphic mimeType="image/jpeg" url="../images/1909/190910_020_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20_source"/>
+      </surface>
+      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21">
+         <graphic mimeType="image/jpeg" url="../images/1909/190910_021_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21_source"/>
+      </surface>
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_018_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_18_source"/>
       </surface>
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_019_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_19_source"/>
       </surface>
-      <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20">
+       <!-- move two up -->
+      <!--<surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_020_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_20_source"/>
       </surface>
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_021_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_21_source"/>
-      </surface>
+      </surface>-->
       <surface xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22">
          <graphic mimeType="image/jpeg" url="../images/1909/190910_022_L.jpg" xml:id="facs_0F50785E-AE03-49D9-9AA7-5A3A8EA1DB3E_22_source"/>
       </surface>
