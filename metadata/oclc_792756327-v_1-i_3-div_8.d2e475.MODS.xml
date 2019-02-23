@@ -9,13 +9,20 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="ar">وديع الخوري</namePart>
+      <name type="personal"
+            xml:lang="ar"
+            authority="oape"
+            valueURI="oape:pers:388">
+         <namePart type="family" xml:lang="ar">الخوري</namePart>
+         <namePart type="given" xml:lang="ar">وديع</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
       </name>
-      <name type="personal" xml:lang="ar">
+      <name type="personal"
+            xml:lang="ar"
+            authority="oape"
+            valueURI="oape:pers:388">
          <namePart type="family" xml:lang="ar">صاحب حريدة حديقة الاخبار</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
@@ -27,7 +34,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -56,7 +65,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_8.d2e475</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_8.d2e475</url>
       </location>
       <language>
          <languageTerm type="code"

@@ -17,7 +17,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -46,7 +48,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_1.d2e365</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_1.d2e365</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -66,7 +68,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -95,7 +99,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_2.d2e372</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_2.d2e372</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -115,7 +119,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -144,7 +150,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_3.d2e381</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_3.d2e381</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -158,8 +164,12 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="ar">ماري عجمي</namePart>
+      <name type="personal"
+            xml:lang="ar"
+            authority="viaf"
+            valueURI="https://viaf.org/viaf/219321857">
+         <namePart type="family" xml:lang="">عجمي</namePart>
+         <namePart type="given" xml:lang="">ماري</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -170,7 +180,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -199,7 +211,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_4.d2e390</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_4.d2e390</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -213,7 +225,10 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
+      <name type="personal"
+            xml:lang="ar"
+            authority="oape"
+            valueURI="oape:pers:2845">
          <namePart type="family" xml:lang="ar">مريم زكا</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
@@ -225,7 +240,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -254,7 +271,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_5.d2e407</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_5.d2e407</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -268,8 +285,12 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="ar">نلي زعرب</namePart>
+      <name type="personal"
+            xml:lang="ar"
+            authority="oape"
+            valueURI="oape:pers:2847">
+         <namePart type="family" xml:lang="">زعرب</namePart>
+         <namePart type="given" xml:lang="">نلي</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -280,7 +301,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -309,7 +332,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_6.d2e424</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_6.d2e424</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -329,7 +352,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -358,7 +383,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_7.d2e440</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_7.d2e440</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -372,8 +397,12 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="ar">معروف الرصافي</namePart>
+      <name type="personal"
+            xml:lang="ar"
+            authority="viaf"
+            valueURI="https://viaf.org/viaf/14924300">
+         <namePart type="family" xml:lang="ar">الرصافي</namePart>
+         <namePart type="given" xml:lang="ar">معروف</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -384,7 +413,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -413,7 +444,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_8.d2e460</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_8.d2e460</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -433,7 +464,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -462,7 +495,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_9.d2e473</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_9.d2e473</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -482,7 +515,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -511,7 +546,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_10.d2e482</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_10.d2e482</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -531,7 +566,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -560,7 +597,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_11.d2e489</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_11.d2e489</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -580,7 +617,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -609,7 +648,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_12.d2e497</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_12.d2e497</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -623,8 +662,12 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="ar">ورده اليازجي</namePart>
+      <name type="personal"
+            xml:lang="ar"
+            authority="viaf"
+            valueURI="https://viaf.org/viaf/233275351">
+         <namePart type="family" xml:lang="">اليازجي</namePart>
+         <namePart type="given" xml:lang="">ورده</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -635,7 +678,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -664,7 +709,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_12.d2e502</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_12.d2e502</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -678,8 +723,12 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="ar">الخوري جرجس توما</namePart>
+      <name type="personal"
+            xml:lang="ar"
+            authority="oape"
+            valueURI="oape:pers:2846">
+         <namePart type="family" xml:lang="">توما</namePart>
+         <namePart type="given" xml:lang="">جرجس</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -690,7 +739,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -719,7 +770,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_13.d2e512</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_13.d2e512</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -733,8 +784,11 @@
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="ar">عيسى اسكندر المعلوف</namePart>
+      <name type="personal"
+            xml:lang="ar"
+            authority="viaf"
+            valueURI="https://viaf.org/viaf/40250618">
+         <namePart type="family" xml:lang="ar"/>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -745,7 +799,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -774,7 +830,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_14.d2e522</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_14.d2e522</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -794,7 +850,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -823,7 +881,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_16.d2e533</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_16.d2e533</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -843,7 +901,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -872,7 +932,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_17.d2e542</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_17.d2e542</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -892,7 +952,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -921,7 +983,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_18.d2e549</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_18.d2e549</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -941,7 +1003,9 @@
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="ar">جرجي نقولا باز</namePart>
+            <namePart type="family" xml:lang="">باز</namePart>
+            <namePart type="given" xml:lang="">جرجي</namePart>
+            <namePart type="given" xml:lang="">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
@@ -970,7 +1034,7 @@
       </relatedItem>
       <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-02-22" usage="primary display">#div_19.d2e555</url>
+         <url dateLastAccessed="2019-02-23" usage="primary display">#div_19.d2e555</url>
       </location>
       <language>
          <languageTerm type="code"
