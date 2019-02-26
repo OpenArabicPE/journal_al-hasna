@@ -53,7 +53,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc><tei:change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <tei:gi>biblStruct</tei:gi> by sorting child elements in the correct order.  Converted all <tei:att>n</tei:att> on <tei:gi>biblScope</tei:gi> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+      <revisionDesc><tei:change when="2019-02-26" who="#pers_TG" xml:id="d2e174">Added automated page numbers as <att>n</att>s in addition to <att>ed</att>="print" and <att>edRef</att>="#edition_1" for every<gi>pb</gi> that was not of <att>ed</att>="shamela".</tei:change><tei:change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <tei:gi>biblStruct</tei:gi> by sorting child elements in the correct order.  Converted all <tei:att>n</tei:att> on <tei:gi>biblScope</tei:gi> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
          <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
    </teiHeader>
@@ -160,40 +160,40 @@
    </facsimile>
    <text xml:lang="ar">
       <body change="#d2e104" xml:lang="ar">
-         <pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_1" n="1"/><gap resp="#pers_TG"/>
+         <pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_1" n="321" edRef="#edition_1"/><gap resp="#pers_TG"/>
          <div type="item" change="#d2e104" xml:lang="ar">
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_2" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_2" n="2"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_3" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_3" n="3"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_4" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_4" n="4"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_5" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_5" n="5"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_6" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_6" n="6"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_7" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_7" n="7"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_8" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_8" n="8"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_9" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_9" n="9"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_10" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_10" n="10"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_11" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_11" n="11"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_12" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_12" n="12"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_13" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_13" n="13"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_14" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_14" n="14"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_15" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_15" n="15"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_16" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_16" n="16"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_17" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_17" n="17"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_18" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_18" n="18"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_19" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_19" n="19"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_20" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_20" n="20"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_21" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_21" n="21"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_22" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_22" n="22"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_23" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_23" n="23"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_24" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_24" n="24"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_25" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_25" n="25"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_26" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_26" n="26"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_27" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_27" n="27"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_28" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_28" n="28"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_29" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_29" n="29"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_30" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_30" n="30"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_31" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_31" n="31"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_32" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_32" n="32"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_33" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_33" n="33"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_2" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_2" n="322" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_3" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_3" n="323" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_4" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_4" n="324" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_5" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_5" n="325" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_6" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_6" n="326" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_7" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_7" n="327" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_8" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_8" n="328" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_9" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_9" n="329" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_10" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_10" n="330" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_11" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_11" n="331" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_12" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_12" n="332" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_13" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_13" n="333" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_14" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_14" n="334" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_15" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_15" n="335" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_16" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_16" n="336" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_17" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_17" n="337" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_18" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_18" n="338" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_19" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_19" n="339" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_20" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_20" n="340" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_21" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_21" n="341" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_22" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_22" n="342" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_23" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_23" n="343" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_24" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_24" n="344" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_25" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_25" n="345" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_26" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_26" n="346" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_27" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_27" n="347" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_28" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_28" n="348" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_29" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_29" n="349" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_30" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_30" n="350" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_31" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_31" n="351" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_32" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_32" n="352" edRef="#edition_1"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_33" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_33" n="353" edRef="#edition_1"/><gap resp="#pers_TG"/>
          </div>
       </body>
    </text>
