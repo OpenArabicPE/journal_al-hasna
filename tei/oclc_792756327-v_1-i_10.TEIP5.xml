@@ -53,11 +53,14 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc><tei:change when="2019-02-26" who="#pers_TG" xml:id="d2e174">Added automated page numbers as <att>n</att>s in addition to <att>ed</att>="print" and <att>edRef</att>="#edition_1" for every<gi>pb</gi> that was not of <att>ed</att>="shamela".</tei:change><tei:change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <tei:gi>biblStruct</tei:gi> by sorting child elements in the correct order.  Converted all <tei:att>n</tei:att> on <tei:gi>biblScope</tei:gi> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
+      <revisionDesc><tei:change when="2019-04-22" who="#pers_TG" xml:id="d2e191">Added automated page numbers as <att>n</att>s in addition to <att>ed</att>="print" and <att>edRef</att>="#edition_1" for every<gi>pb</gi> that was not of <att>ed</att>="shamela".</tei:change><tei:change when="2019-02-26" who="#pers_TG" xml:id="d2e174">Added automated page numbers as <att>n</att>s in addition to <att>ed</att>="print" and <att>edRef</att>="#edition_1" for every<gi>pb</gi> that was not of <att>ed</att>="shamela".</tei:change><tei:change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <tei:gi>biblStruct</tei:gi> by sorting child elements in the correct order.  Converted all <tei:att>n</tei:att> on <tei:gi>biblScope</tei:gi> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG">Corrected <tei:gi>biblStruct</tei:gi> by moving all <tei:gi>biblScope</tei:gi> from <tei:gi>imprint</tei:gi> to <tei:gi>monogr</tei:gi> and by converting all <tei:att>n</tei:att> to <tei:att>from</tei:att> and <tei:att>to</tei:att>with identical values.</tei:change><tei:change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <tei:att xml:lang="en">xml:lang</tei:att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</tei:change>
          <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
+       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_33">
+         <graphic mimeType="image/jpeg" url="../images/1910/191002_033_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_33_source"/>
+      </surface>
       <surface xml:id="facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_1">
          <graphic mimeType="image/jpeg" url="../images/1910/191003_001_L.jpg" xml:id="facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_1_source"/>
       </surface>
@@ -165,44 +168,129 @@
       </surface>
    </facsimile>
    <text xml:lang="ar">
-      <body change="#d2e104" xml:lang="ar">
-         <pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_1" n="289" edRef="#edition_1"/><gap resp="#pers_TG"/>
-         <div type="item" change="#d2e104" xml:lang="ar">
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_2" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_2" n="290" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_3" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_3" n="291" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_4" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_4" n="292" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_5" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_5" n="293" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_6" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_6" n="294" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_7" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_7" n="295" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_8" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_8" n="296" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_9" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_9" n="297" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_10" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_10" n="298" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_11" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_11" n="299" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_12" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_12" n="300" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_13" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_13" n="301" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_14" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_14" n="302" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_15" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_15" n="303" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_16" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_16" n="304" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_17" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_17" n="305" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_18" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_18" n="306" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_19" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_19" n="307" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_20" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_20" n="308" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_21" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_21" n="309" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_22" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_22" n="310" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_23" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_23" n="311" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_24" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_24" n="312" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_25" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_25" n="313" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_26" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_26" n="314" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_27" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_27" n="315" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_28" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_28" n="316" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_29" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_29" n="317" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_30" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_30" n="318" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_31" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_31" n="319" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_32" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_32" n="320" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_33" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_33" n="321" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_34" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_34" n="322" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_35" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_35" n="323" edRef="#edition_1"/><gap resp="#pers_TG"/>
-         </div>
-      </body>
+      <body change="#d2e104" xml:lang="ar"><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_1648369D-1177-4374-B974-BAA44920E525_33" n="289" xml:id="pb_1648369D-1177-4374-B974-BAA44920E525_33"/>
+<figure><label><persName xml:lang="en">هلن كلر</persName> <gap resp="#pers_TG"/> </label>
+</figure><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_1" n="289" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_1"/>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head><persName xml:lang="en">هلن كلر</persName> <lb/><persName xml:lang="en">Helen Keller</persName></head>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_2" n="290" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_2"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_3" n="291" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_3"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_4" n="292" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_4"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_5" n="293" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_5"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_6" n="294" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_6"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_7" n="295" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_7"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_8" n="296" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_8"/>
+<gap resp="#pers_TG"/>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>وطنية الالزاسيات</head>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_9" n="297" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_9"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_10" n="298" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_10"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_11" n="297" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_11"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_12" n="298" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_12"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_13" n="299" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_13"/>
+<gap resp="#pers_TG"/>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>مثال المرأة الفاضلة</head>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_14" n="300" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_14"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_15" n="301" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_15"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_16" n="302" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_16"/>
+<gap resp="#pers_TG"/>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>علماؤنا والنساء</head>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_17" n="303" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_17"/>
+<gap resp="#pers_TG"/>
+<div type="item">
+<head>قول <persName>زيدان</persName></head>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_18" n="304" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_18"/>
+<gap resp="#pers_TG"/>
+</div>
+<div type="item">
+<head>نبؤة <persName>البستاني</persName></head>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_19" n="305" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_19"/>
+<gap resp="#pers_TG"/>
+</div>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>هلموا الى الطبيعة</head>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_20" n="306" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_20"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_21" n="307" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_21"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_22" n="308" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_22"/>
+<gap resp="#pers_TG"/>
+<byline><placeName>حيفا</placeName> <persName>بولس شحاده</persName></byline>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>راي في الحجاب</head><note place="inline" type="bibliographic"><bibl>خطاب ل<author><persName>منشيء <title level="j">الحسناء</title></persName></author> القاه في حفلة <orgName>جمعية الخدمة الوطنية</orgName> في <pubPlace><placeName>صيدا</placeName></pubPlace> في <date calendar="#cal_gregorian" when="1910-03-11">١١ اذار</date></bibl></note>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_23" n="309" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_23"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_24" n="310" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_24"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_25" n="311" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_25"/>
+<gap resp="#pers_TG"/>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>ما شاهدته <lb/>في مأوى العجز لرهبات الام الحزينة</head>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_26" n="312" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_26"/>
+<gap resp="#pers_TG"/>
+<byline><persName>سليم سابا باز</persName></byline>
+</div>
+<div change="#d2e104" type="section" xml:lang="ar">
+<head>السؤال والجواب</head>
+<div type="item">
+<head>الجنس اللطيف</head>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_27" n="313" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_27"/>
+<gap resp="#pers_TG"/>
+<byline><placeName>صيدا</placeName> <persName>مريم زكا</persName></byline>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>نحن اولى لالملام</head><note place="inline" type="bibliographic"><bibl/></note>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_28" n="314" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_28"/>
+<gap resp="#pers_TG"/>
+<byline><placeName>بيروت</placeName> <persName>جوليا طمعه</persName></byline>
+</div>
+<div type="item">
+<head>المحبة والشرف</head>
+<p><gap resp="#org_MS"/></p>
+<byline><placeName>طرابلس</placeName> <persName>لبنانية</persName></byline>
+</div>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>حفظ الصحة</head>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_29" n="315" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_29"/>
+<gap resp="#pers_TG"/>
+<byline><placeName>مصر</placeName> <persName>الدكتور نجيب كحيل</persName></byline>
+</div>
+<div change="#d2e104" subtype="verse" type="item" xml:lang="ar">
+<head>ايات الشعور</head><note place="inline" type="bibliographic"><bibl/></note>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_30" n="316" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_30"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_31" n="317" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_31"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_32" n="318" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_32"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_33" n="319" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_33"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_34" n="320" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_34"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_35" n="321" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_35"/>
+<gap resp="#pers_TG"/>
+</div>
+</body>
    </text>
 </TEI>
