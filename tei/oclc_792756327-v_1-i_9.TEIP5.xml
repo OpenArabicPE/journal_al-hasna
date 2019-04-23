@@ -155,13 +155,9 @@
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_32">
          <graphic mimeType="image/jpeg" url="../images/1910/191002_032_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_32_source"/>
       </surface>
-      <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_33">
-         <graphic mimeType="image/jpeg" url="../images/1910/191002_033_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_33_source"/>
-      </surface>
    </facsimile>
    <text xml:lang="ar">
       <body change="#d2e104" xml:lang="ar"><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_1648369D-1177-4374-B974-BAA44920E525_1" n="257" xml:id="pb_1648369D-1177-4374-B974-BAA44920E525_1"/>
-<gap resp="#pers_TG"/>
 <div change="#d2e104" type="item" xml:lang="ar">
 <head><persName>ماري لاين</persName></head>
 <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_1648369D-1177-4374-B974-BAA44920E525_2" n="258" xml:id="pb_1648369D-1177-4374-B974-BAA44920E525_2"/>
@@ -291,9 +287,7 @@
 <div change="#d2e228" type="section" xml:id="div_30.d2e884">
 <head change="#d2e228" xml:id="head_30.d2e886">مأثورات</head>
 <gap change="#d2e228" resp="#pers_TG" xml:id="gap_70.d2e889"/>
-</div><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_1648369D-1177-4374-B974-BAA44920E525_33" n="289" xml:id="pb_1648369D-1177-4374-B974-BAA44920E525_33"/>
-<figure><label><persName xml:lang="en">هلن كلر</persName> <gap resp="#pers_TG"/> </label>
-</figure>
+</div>
 </body>
    </text>
 </TEI>
