@@ -58,6 +58,9 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
+      <surface xml:id="facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_35">
+         <graphic mimeType="image/jpeg" url="../images/1910/191003_035_L.jpg" xml:id="facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_35_source"/>
+      </surface>
       <surface xml:id="facs_06004265-B038-4CA0-A1CB-AE6F476118D7_1">
          <graphic mimeType="image/jpeg" url="../images/1910/191004_001_L.jpg" xml:id="facs_06004265-B038-4CA0-A1CB-AE6F476118D7_1_source"/>
       </surface>
@@ -160,41 +163,90 @@
    </facsimile>
    <text xml:lang="ar">
       <body change="#d2e104" xml:lang="ar">
+         <pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_35" n="321" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_35"/>
+<gap resp="#pers_TG"/>
          <pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_1" n="321" edRef="#edition_1"/><gap resp="#pers_TG"/>
-         <div type="item" change="#d2e104" xml:lang="ar">
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_2" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_2" n="322" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_3" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_3" n="323" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_4" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_4" n="324" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_5" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_5" n="325" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_6" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_6" n="326" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_7" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_7" n="327" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_8" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_8" n="328" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_9" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_9" n="329" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_10" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_10" n="330" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_11" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_11" n="331" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_12" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_12" n="332" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_13" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_13" n="333" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_14" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_14" n="334" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_15" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_15" n="335" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_16" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_16" n="336" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_17" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_17" n="337" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_18" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_18" n="338" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_19" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_19" n="339" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_20" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_20" n="340" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_21" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_21" n="341" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_22" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_22" n="342" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_23" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_23" n="343" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_24" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_24" n="344" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_25" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_25" n="345" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_26" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_26" n="346" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_27" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_27" n="347" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_28" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_28" n="348" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_29" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_29" n="349" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_30" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_30" n="350" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_31" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_31" n="351" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_32" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_32" n="352" edRef="#edition_1"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb change="#d2e174" ed="print" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_33" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_33" n="353" edRef="#edition_1"/><gap resp="#pers_TG"/>
-         </div>
+         <div change="#d2e104" type="item" xml:lang="ar">
+<head><persName>مسز ستو</persName> <lb/>محررة عبيد <placeName>اميركا</placeName></head>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_2" n="322" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_2"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_3" n="323" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_3"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_4" n="324" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_4"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_5" n="325" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_5"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_6" n="326" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_6"/>
+<gap resp="#pers_TG"/>
+</div>
+<div change="#d2e104" subtype="verse" type="item" xml:lang="ar">
+<gap resp="#pers_TG"/>
+<byline><persName>وديع الخوري</persName></byline>
+</div><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_7" n="327" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_7"/>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>شجاعة الاسبرطيات</head>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_8" n="328" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_8"/>
+<gap resp="#pers_TG"/>
+</div><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_9" n="329" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_9"/>
+<div change="#d2e104" prev="oclc_792756327-v_1-i_10.TEIP5.xml#div_3.d2e477" type="item" xml:lang="ar">
+<head>مثال المرأة الفاضلة</head>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_10" n="330" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_10"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_11" n="331" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_11"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_12" n="332" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_12"/>
+<gap resp="#pers_TG"/>
+<byline><placeName>مصر</placeName> <persName>روزا حداد</persName></byline>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head><persName>روزفلت</persName> والمرأة</head>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_13" n="333" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_13"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_14" n="334" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_14"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_15" n="335" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_15"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_16" n="336" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_16"/>
+<gap resp="#pers_TG"/>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head><persName>الدكتور بلس</persName> والمرأة</head>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_17" n="337" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_17"/>
+<gap resp="#pers_TG"/>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>الخطر الابيض</head>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_18" n="338" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_18"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_19" n="339" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_19"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_20" n="340" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_20"/>
+<gap resp="#pers_TG"/>
+<byline><persName>سلوى</persName></byline>
+<div type="section">
+<byline><title level="j">الحسناء</title></byline>
+</div>
+<gap resp="#pers_TG"/>
+</div>
+<div change="#d2e104" type="item" xml:lang="ar">
+<head>الاخلاق والعادات</head><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_21" n="341" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_21"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_22" n="342" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_22"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_23" n="343" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_23"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_24" n="344" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_24"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_25" n="345" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_25"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_26" n="346" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_26"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_27" n="347" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_27"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_28" n="348" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_28"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_29" n="349" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_29"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_30" n="350" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_30"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_31" n="351" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_31"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_32" n="352" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_32"/>
+<gap resp="#pers_TG"/>
+<gap resp="#pers_TG"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_06004265-B038-4CA0-A1CB-AE6F476118D7_33" n="353" xml:id="pb_06004265-B038-4CA0-A1CB-AE6F476118D7_33"/>
+<gap resp="#pers_TG"/>
+</div>
       </body>
    </text>
 </TEI>
