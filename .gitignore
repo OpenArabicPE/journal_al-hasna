@@ -1,4 +1,6 @@
 .DS_Store
 
 _output/
-images/
+# image folder
+images
+*.symlink
