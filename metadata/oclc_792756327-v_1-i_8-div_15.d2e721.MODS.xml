@@ -4,7 +4,7 @@
                 xsi:schemaLocation="http://www.loc.gov/standards/mods/mods-3-7.xsd">
    <mods ID="oclc_792756327-v_1-i_8-div_15.d2e721-mods">
       <titleInfo>
-         <title xml:lang="">الجواب الثالث</title>
+         <title xml:lang="">جوابات السؤالات: الجواب الثالث</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -24,7 +24,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -53,10 +56,18 @@
                <end>251</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 8</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_15.d2e721</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_8.TEIP5.xml#div_15.d2e721</url>
       </location>
       <language>
          <languageTerm type="code"

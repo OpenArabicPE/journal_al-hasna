@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns:tei="http://www.tei-c.org/ns/1.0"
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
                 xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns="http://www.loc.gov/mods/v3"
+                xmlns:tei="http://www.tei-c.org/ns/1.0"
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
    <mods ID="oclc_792756327-v_1-i_5-div_1.d2e430-mods">
@@ -16,7 +16,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -45,10 +48,18 @@
                <end>138</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_1.d2e430</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_1.d2e430</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -77,7 +88,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -106,10 +120,18 @@
                <end>141</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_2.d2e480</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_2.d2e480</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -126,7 +148,7 @@
       <name type="personal"
             xml:lang="ar"
             authority="oape"
-            valueURI="oape:pers:2842">
+            valueURI="oape:pers:729">
          <namePart type="family" xml:lang="">سلامه</namePart>
          <namePart type="given" xml:lang="">سلوى</namePart>
          <role>
@@ -138,7 +160,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -167,163 +192,18 @@
                <end>145</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_3.d2e505</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
-   </mods>
-   <mods ID="oclc_792756327-v_1-i_5-div_3.d2e520-mods">
-      <titleInfo>
-         <title xml:lang=""/>
-      </titleInfo>
-      <typeOfResource>text</typeOfResource>
-      <genre authority="local" xml:lang="en">journalArticle</genre>
-      <genre authority="marcgt" xml:lang="en">article</genre>
-      <relatedItem type="host">
-         <titleInfo>
-            <title xml:lang="ar">الحسناء</title>
-         </titleInfo>
-         <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
-            <role>
-               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
-            </role>
-         </name>
-         <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
-            <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
-            <dateIssued encoding="w3cdtf">1909-10-20</dateIssued>
-            <issuance>continuing</issuance>
-         </originInfo>
-         <part>
-            <detail type="volume">
-               <number>1</number>
-            </detail>
-            <detail type="issue">
-               <number>5</number>
-            </detail>
-            <extent unit="pages">
-               <start>141</start>
-               <end>142</end>
-            </extent>
-         </part>
-      </relatedItem>
-      <accessCondition/>
-      <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_3.d2e520</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
-   </mods>
-   <mods ID="oclc_792756327-v_1-i_5-div_4.d2e525-mods">
-      <titleInfo>
-         <title xml:lang=""/>
-      </titleInfo>
-      <typeOfResource>text</typeOfResource>
-      <genre authority="local" xml:lang="en">journalArticle</genre>
-      <genre authority="marcgt" xml:lang="en">article</genre>
-      <relatedItem type="host">
-         <titleInfo>
-            <title xml:lang="ar">الحسناء</title>
-         </titleInfo>
-         <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
-            <role>
-               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
-            </role>
-         </name>
-         <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
-            <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
-            <dateIssued encoding="w3cdtf">1909-10-20</dateIssued>
-            <issuance>continuing</issuance>
-         </originInfo>
-         <part>
-            <detail type="volume">
-               <number>1</number>
-            </detail>
-            <detail type="issue">
-               <number>5</number>
-            </detail>
-            <extent unit="pages">
-               <start>142</start>
-               <end>142</end>
-            </extent>
-         </part>
-      </relatedItem>
-      <accessCondition/>
-      <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_4.d2e525</url>
-      </location>
-      <language>
-         <languageTerm type="code"
-                       authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
-      </language>
-   </mods>
-   <mods ID="oclc_792756327-v_1-i_5-div_5.d2e527-mods">
-      <titleInfo>
-         <title xml:lang=""/>
-      </titleInfo>
-      <typeOfResource>text</typeOfResource>
-      <genre authority="local" xml:lang="en">journalArticle</genre>
-      <genre authority="marcgt" xml:lang="en">article</genre>
-      <relatedItem type="host">
-         <titleInfo>
-            <title xml:lang="ar">الحسناء</title>
-         </titleInfo>
-         <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
-            <role>
-               <roleTerm authority="marcrelator" type="code">edt</roleTerm>
-            </role>
-         </name>
-         <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
-            <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
-            <dateIssued encoding="w3cdtf">1909-10-20</dateIssued>
-            <issuance>continuing</issuance>
-         </originInfo>
-         <part>
-            <detail type="volume">
-               <number>1</number>
-            </detail>
-            <detail type="issue">
-               <number>5</number>
-            </detail>
-            <extent unit="pages">
-               <start>142</start>
-               <end>145</end>
-            </extent>
-         </part>
-      </relatedItem>
-      <accessCondition/>
-      <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_5.d2e527</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_3.d2e505</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -352,7 +232,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -381,10 +264,18 @@
                <end>145</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_7.d2e537</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_7.d2e537</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -412,7 +303,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -441,10 +335,18 @@
                <end>149</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_8.d2e562</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_8.d2e562</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -472,7 +374,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -501,10 +406,18 @@
                <end>152</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_9.d2e583</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_9.d2e583</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -523,7 +436,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -552,10 +468,18 @@
                <end>152</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_10.d2e609</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_10.d2e609</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -574,7 +498,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -603,10 +530,18 @@
                <end>158</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_11.d2e617</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_11.d2e617</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -615,7 +550,7 @@
    </mods>
    <mods ID="oclc_792756327-v_1-i_5-div_11.d2e622-mods">
       <titleInfo>
-         <title xml:lang="ar">ندامة ادما</title>
+         <title xml:lang="ar">روايات الحسناء: ندامة ادما</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -625,7 +560,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -654,10 +592,18 @@
                <end>158</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_11.d2e622</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_11.d2e622</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -676,7 +622,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -705,10 +654,18 @@
                <end>159</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_13.d2e641</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_13.d2e641</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -727,7 +684,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -756,10 +716,18 @@
                <end>159</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_14.d2e649</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_14.d2e649</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -778,7 +746,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -807,10 +778,18 @@
                <end>159</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_15.d2e655</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_15.d2e655</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -829,7 +808,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -858,10 +840,18 @@
                <end>159</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_16.d2e661</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_16.d2e661</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -880,7 +870,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -909,10 +902,18 @@
                <end>160</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_17.d2e669</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_17.d2e669</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -931,7 +932,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -960,10 +964,18 @@
                <end>160</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_18.d2e676</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_18.d2e676</url>
       </location>
       <language>
          <languageTerm type="code"
@@ -982,7 +994,10 @@
             <title xml:lang="ar">الحسناء</title>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
-         <name type="personal" xml:lang="ar">
+         <name type="personal"
+               xml:lang="ar"
+               authority="viaf"
+               valueURI="https://viaf.org/viaf/311789687">
             <namePart type="family" xml:lang="">باز</namePart>
             <namePart type="given" xml:lang="">جرجي</namePart>
             <namePart type="given" xml:lang="">نقولا</namePart>
@@ -1011,10 +1026,18 @@
                <end>160</end>
             </extent>
          </part>
+         <identifier type="callNumber">EAP119/1/8/1</identifier>
+         <identifier type="CitationID">hasna 5</identifier>
+         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
+         <identifier type="OCLC">792756327</identifier>
+         <identifier type="OCLC">792755433</identifier>
+         <identifier type="OCLC">1034555587</identifier>
+         <identifier type="OCLC">1034550210</identifier>
+         <identifier type="OCLC">672047031</identifier>
       </relatedItem>
-      <accessCondition/>
+      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
       <location>
-         <url dateLastAccessed="2019-03-22" usage="primary display">#div_19.d2e682</url>
+         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_5.TEIP5.xml#div_19.d2e682</url>
       </location>
       <language>
          <languageTerm type="code"
