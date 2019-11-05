@@ -17,7 +17,7 @@
     <!-- import the standard TEI Boilerplate stylesheets -->
     <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_main.xsl"/>
     <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_sourcedesc.xsl"/>
-    <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/xml-to-string.xsl"/>
+<!--    <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/xml-to-string.xsl"/>-->
     <!-- import the stylesheet formatting all bibliographic metadata -->
     <xsl:include href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_bibl.xsl"/>
     <!-- import the stylesheet dealing with the display of <pb> and facsimiles -->
