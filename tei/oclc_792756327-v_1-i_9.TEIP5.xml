@@ -55,7 +55,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc><tei:change when="2019-11-22" who="#pers_TG" xml:id="d2e259" xml:lang="en">Mapped elements from version 1 of the ODD to version 2</tei:change><change when="2019-11-05" who="#pers_TG" xml:id="d2e239" xml:lang="en">Added <tei:gi>publicationStmt</tei:gi>.</change><change when="2019-05-16" who="#pers_TG" xml:id="d5e228" xml:lang="en">Added references to local authority file (<ref target="../data/tei/gazetteer_levant-phd.TEIP5.xml">../data/tei/gazetteer_levant-phd.TEIP5.xml</ref>) and to GeoNames IDs to <gi>placeName</gi>s without such references based on  <gi>place</gi>s mentioned in the authority file.</change><change when="2019-05-15" who="#pers_TG" xml:id="d2e205" xml:lang="en">Added references to local authority file (<ref target="../data/tei/personography_OpenArabicPE.TEIP5.xml">../data/tei/personography_OpenArabicPE.TEIP5.xml</ref>) and VIAF to <gi>persName</gi>s without such references based on <gi>person</gi>s in the local authority file. If the source <gi>persName</gi> did not contain any further TEI mark-up, this has been added from the local authority file.</change><change when="2019-04-24" who="#pers_TG" xml:id="d2e194" xml:lang="en">Added automated <att xml:lang="en">xml:id</att>s for every element that is a descendant of <gi xml:lang="en">tei:text</gi> and had no existing <att xml:lang="en">xml:id</att> following the pattern "name()_generate-id()".</change>
+      <revisionDesc><tei:change when="2019-11-22" who="#pers_TG" xml:id="d2e261" xml:lang="en">Added <tei:gi>graphic</tei:gi> for all pages linking to EAP.</tei:change><tei:change when="2019-11-22" who="#pers_TG" xml:id="d2e259" xml:lang="en">Mapped elements from version 1 of the ODD to version 2</tei:change><change when="2019-11-05" who="#pers_TG" xml:id="d2e239" xml:lang="en">Added <tei:gi>publicationStmt</tei:gi>.</change><change when="2019-05-16" who="#pers_TG" xml:id="d5e228" xml:lang="en">Added references to local authority file (<ref target="../data/tei/gazetteer_levant-phd.TEIP5.xml">../data/tei/gazetteer_levant-phd.TEIP5.xml</ref>) and to GeoNames IDs to <gi>placeName</gi>s without such references based on  <gi>place</gi>s mentioned in the authority file.</change><change when="2019-05-15" who="#pers_TG" xml:id="d2e205" xml:lang="en">Added references to local authority file (<ref target="../data/tei/personography_OpenArabicPE.TEIP5.xml">../data/tei/personography_OpenArabicPE.TEIP5.xml</ref>) and VIAF to <gi>persName</gi>s without such references based on <gi>person</gi>s in the local authority file. If the source <gi>persName</gi> did not contain any further TEI mark-up, this has been added from the local authority file.</change><change when="2019-04-24" who="#pers_TG" xml:id="d2e194" xml:lang="en">Added automated <att xml:lang="en">xml:id</att>s for every element that is a descendant of <gi xml:lang="en">tei:text</gi> and had no existing <att xml:lang="en">xml:id</att> following the pattern "name()_generate-id()".</change>
 <change when="2019-04-22" who="#pers_TG" xml:lang="en" change="#d2e194" xml:id="change_1.d2e128">Added transcription of articles titles and bylines and structural mark-up.</change><change when="2019-02-26" who="#pers_TG" xml:id="d2e174">Added automated page numbers as <att change="#d2e194" xml:id="att_1.d2e132">n</att>s in addition to <att change="#d2e194" xml:id="att_2.d2e135">ed</att>="print" and <att change="#d2e194" xml:id="att_3.d2e138">edRef</att>="#edition_1" for every<gi change="#d2e194" xml:id="gi_1.d2e141">pb</gi> that was not of <att change="#d2e194" xml:id="att_4.d2e144">ed</att>="shamela".</change><change when="2019-02-22" who="#pers_TG" xml:lang="en" change="#d2e194" xml:id="change_2.d2e147">Corrected <gi change="#d2e194" xml:id="gi_2.d2e149">biblStruct</gi> by sorting child elements in the correct order.  Converted all <att change="#d2e194" xml:id="att_5.d2e152">n</att> on <gi change="#d2e194" xml:id="gi_2.d2e155">biblScope</gi> to <att change="#d2e194" xml:id="att_5.d2e158">from</att> and <att change="#d2e194" xml:id="att_5.d2e161">to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="#d2e194" xml:id="change_2.d2e164">Corrected <gi change="#d2e194" xml:id="gi_2.d2e166">biblStruct</gi> by moving all <gi change="#d2e194" xml:id="gi_2.d2e169">biblScope</gi> from <gi change="#d2e194" xml:id="gi_2.d2e172">imprint</gi> to <gi change="#d2e194" xml:id="gi_2.d2e175">monogr</gi> and by converting all <att change="#d2e194" xml:id="att_5.d2e178">n</att> to <att change="#d2e194" xml:id="att_5.d2e182">from</att> and <att change="#d2e194" xml:id="att_5.d2e185">to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="d2e104 #d2e194" xml:lang="en" xml:id="change_2.d2e188">Added the <att xml:lang="en" change="#d2e194" xml:id="att_5.d2e190">xml:lang</att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</change>
          <change when="2019-02-21" who="#pers_TG" xml:lang="en" change="#d2e194" xml:id="change_2.d2e194">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
@@ -63,100 +63,100 @@
    <facsimile change="#d2e194" xml:id="facsimile_1.d2e199">
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_1">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_001_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_1_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_1-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/266.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_2">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_002_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_2_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_2-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/267.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_3">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_003_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_3_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_3-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/268.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_4">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_004_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_4_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_4-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/269.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_5">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_005_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_5_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_5-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/270.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_6">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_006_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_6_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_6-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/271.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_7">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_007_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_7_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_7-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/272.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_8">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_008_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_8_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_8-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/273.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_9">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_009_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_9_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_9-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/274.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_10">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_010_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_10_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_10-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/275.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_11">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_011_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_11_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_11-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/276.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_12">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_012_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_12_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_12-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/277.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_13">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_013_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_13_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_13-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/278.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_14">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_014_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_14_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_14-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/279.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_15">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_015_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_15_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_15-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/280.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_16">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_016_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_16_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_16-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/281.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_17">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_017_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_17_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_17-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/282.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_18">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_018_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_18_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_18-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/283.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_19">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_019_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_19_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_19-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/284.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_20">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_020_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_20_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_20-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/285.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_21">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_021_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_21_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_21-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/286.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_22">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_022_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_22_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_22-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/287.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_23">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_023_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_23_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_23-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/288.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_24">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_024_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_24_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_24-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/289.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_25">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_025_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_25_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_25-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/290.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_26">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_026_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_26_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_26-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/291.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_27">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_027_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_27_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_27-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/292.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_28">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_028_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_28_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_28-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/293.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_29">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_029_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_29_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_29-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/294.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_30">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_030_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_30_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_30-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/295.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_31">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_031_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_31_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_31-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/296.jp2" mimeType="image/jpeg" type="iiif"/></surface>
       <surface xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_32">
          <graphic mimeType="image/jpeg" url="../images/eap/1910/191002_032_L.jpg" xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_32_source"/>
-      </surface>
+      <tei:graphic xml:id="facs_1648369D-1177-4374-B974-BAA44920E525_32-g_4" change="#d2e261" url="https://images.eap.bl.uk/EAP119/EAP119_1_8_1/297.jp2" mimeType="image/jpeg" type="iiif"/></surface>
    </facsimile>
    <text xml:lang="ar" change="#d2e194" xml:id="text_1.d2e367">
       <body change="#d2e104 #d2e194" xml:lang="ar" xml:id="body_1.d2e369"><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_1648369D-1177-4374-B974-BAA44920E525_1" n="257" xml:id="pb_1648369D-1177-4374-B974-BAA44920E525_1"/>
