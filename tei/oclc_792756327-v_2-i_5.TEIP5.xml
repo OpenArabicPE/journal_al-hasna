@@ -17,7 +17,7 @@
          </editionStmt>
          <publicationStmt change="#d2e104 #d2e174" xml:lang="en"><authority><tei:persName xml:id="pers_TG"><tei:forename>Till</tei:forename><tei:surname>Grallert</tei:surname></tei:persName></authority><pubPlace><placeName>Beirut</placeName></pubPlace><date when="2019">2019</date><availability status="restricted"><licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence></availability><idno type="url">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_2-i_5.TEIP5.xml</idno><idno type="url">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_2-i_5.TEIP5.xml</idno></publicationStmt>
          <sourceDesc change="#d2e104" xml:lang="en">
-            <biblStruct xml:lang="ar-Latn-x-ijmes">
+            <biblStruct xml:lang="ar-Latn-x-ijmes" xml:id="edition_1">
                <monogr change="#d2e104" xml:lang="ar-Latn-x-ijmes"><title level="j" change="#d2e104" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title><title level="j" xml:lang="ar">الحسناء</title><title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title><idno type="callNumber" change="#d2e104" xml:lang="ar-Latn-x-ijmes">EAP119/1/8/2</idno><idno type="CitationID" change="#d2e104" xml:lang="ar-Latn-x-ijmes">hasna 5</idno><idno type="url" change="#d2e104" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=891;r=18007</idno>
 	<idno type="OCLC">792756327</idno>
 	<idno type="OCLC">792755433</idno>
@@ -51,7 +51,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc><change when="2019-11-05" who="#pers_TG" xml:id="d2e174" xml:lang="en">Added <tei:gi>publicationStmt</tei:gi>.</change><change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <gi>biblStruct</gi> by sorting child elements in the correct order.  Converted all <att>n</att> on <gi>biblScope</gi> to <att>from</att> and <att>to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG">Corrected <gi>biblStruct</gi> by moving all <gi>biblScope</gi> from <gi>imprint</gi> to <gi>monogr</gi> and by converting all <att>n</att> to <att>from</att> and <att>to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <att xml:lang="en">xml:lang</att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</change>
+      <revisionDesc><tei:change when="2019-11-22" who="#pers_TG" xml:id="d2e193" xml:lang="en">Mapped elements from version 1 of the ODD to version 2</tei:change><change when="2019-11-05" who="#pers_TG" xml:id="d2e174" xml:lang="en">Added <tei:gi>publicationStmt</tei:gi>.</change><change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <gi>biblStruct</gi> by sorting child elements in the correct order.  Converted all <att>n</att> on <gi>biblScope</gi> to <att>from</att> and <att>to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG">Corrected <gi>biblStruct</gi> by moving all <gi>biblScope</gi> from <gi>imprint</gi> to <gi>monogr</gi> and by converting all <att>n</att> to <att>from</att> and <att>to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="d2e104" xml:lang="en">Added the <att xml:lang="en">xml:lang</att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</change>
          <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
    </teiHeader>
@@ -185,49 +185,49 @@
    </facsimile>
    <text xml:lang="ar">
       <body change="#d2e104" xml:lang="ar">
-         <pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_1" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_1" n="1"/><gap resp="#pers_TG"/>
-         <div type="item" change="#d2e104" xml:lang="ar">
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_2" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_2" n="2"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_3" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_3" n="3"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_4" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_4" n="4"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_5" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_5" n="5"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_6" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_6" n="6"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_7" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_7" n="7"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_8" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_8" n="8"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_9" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_9" n="9"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_10" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_10" n="10"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_11" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_11" n="11"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_12" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_12" n="12"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_13" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_13" n="13"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_14" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_14" n="14"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_15" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_15" n="15"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_16" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_16" n="16"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_17" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_17" n="17"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_18" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_18" n="18"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_19" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_19" n="19"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_20" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_20" n="20"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_21" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_21" n="21"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_22" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_22" n="22"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_23" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_23" n="23"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_24" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_24" n="24"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_25" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_25" n="25"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_26" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_26" n="26"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_27" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_27" n="27"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_28" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_28" n="28"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_29" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_29" n="29"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_30" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_30" n="30"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_31" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_31" n="31"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_32" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_32" n="32"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_33" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_33" n="33"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_34" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_34" n="34"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_35" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_35" n="35"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_36" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_36" n="36"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_37" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_37" n="37"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_38" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_38" n="38"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_39" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_39" n="39"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_40" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_40" n="40"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_41" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_41" n="41"/><gap resp="#pers_TG"/>
-            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_42" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_42" n="42"/><gap resp="#pers_TG"/>
+         <pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_1" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_1" n="1" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+         <div type="item" change="#d2e104 #d2e193" xml:lang="ar" subtype="article">
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_2" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_2" n="2" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_3" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_3" n="3" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_4" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_4" n="4" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_5" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_5" n="5" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_6" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_6" n="6" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_7" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_7" n="7" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_8" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_8" n="8" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_9" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_9" n="9" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_10" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_10" n="10" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_11" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_11" n="11" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_12" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_12" n="12" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_13" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_13" n="13" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_14" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_14" n="14" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_15" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_15" n="15" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_16" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_16" n="16" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_17" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_17" n="17" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_18" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_18" n="18" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_19" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_19" n="19" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_20" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_20" n="20" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_21" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_21" n="21" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_22" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_22" n="22" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_23" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_23" n="23" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_24" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_24" n="24" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_25" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_25" n="25" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_26" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_26" n="26" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_27" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_27" n="27" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_28" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_28" n="28" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_29" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_29" n="29" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_30" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_30" n="30" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_31" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_31" n="31" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_32" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_32" n="32" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_33" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_33" n="33" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_34" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_34" n="34" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_35" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_35" n="35" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_36" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_36" n="36" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_37" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_37" n="37" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_38" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_38" n="38" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_39" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_39" n="39" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_40" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_40" n="40" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_41" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_41" n="41" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
+            <gap resp="#pers_TG"/><pb ed="print" xml:id="pb_0863F38B-3321-44B1-BE7E-C698BE6E6D01_42" facs="#facs_0863F38B-3321-44B1-BE7E-C698BE6E6D01_42" n="42" edRef="#edition_1" change="#d2e193"/><gap resp="#pers_TG"/>
          </div>
       </body>
    </text>

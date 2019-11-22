@@ -2,6 +2,11 @@
 
 This repository holds a scaffolding edition of the journal *al-Ḥasna*, published by ... in Beirut between 19.. and 19.. It is based on digital imagery from the British Library's Endangered Archives Programme (EAP). Each issues is represented by a TEI XML file with links to the image files in the `<facsimile>` node. Structural mark-up of articles, including heads and bylines, is manually added using OpenArabicPE's TEI Boilerplate.
 
+## to do
+
+- add links to online facsimiles at EAP
+-
+
 ## Experimental HTR with Transkribus
 
 - Imagery is downloaded, processed for clarity (bw TIFF) using ScanTailor, and uploaded to [Transkribus]().

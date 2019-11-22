@@ -17,7 +17,7 @@
          </editionStmt>
          <publicationStmt change="#d2e104 #d2e208 #d2e264" xml:lang="en" xml:id="publicationStmt_1.d2e38"><authority><tei:persName xml:id="pers_TG"><tei:forename>Till</tei:forename><tei:surname>Grallert</tei:surname></tei:persName></authority><pubPlace><placeName>Beirut</placeName></pubPlace><date when="2019">2019</date><availability status="restricted"><licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence></availability><idno type="url">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml</idno><idno type="url">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml</idno></publicationStmt>
          <sourceDesc change="#d2e104 #d2e208" xml:lang="en" xml:id="sourceDesc_1.d2e44">
-            <biblStruct xml:lang="ar-Latn-x-ijmes" change="#d2e208" xml:id="biblStruct_1.d2e46">
+            <biblStruct xml:lang="ar-Latn-x-ijmes" change="#d2e208" xml:id="edition_1">
                <monogr change="#d2e104 #d2e208" xml:lang="ar-Latn-x-ijmes" xml:id="monogr_1.d2e48"><title level="j" change="#d2e104 #d2e208" xml:lang="ar-Latn-x-ijmes" xml:id="title_2.d2e49">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title><title level="j" xml:lang="ar" change="#d2e208" xml:id="title_3.d2e51">الحسناء</title><title level="j" type="sub" xml:lang="ar" change="#d2e208" xml:id="title_4.d2e53">مجلة نسائية ادبية اخلاقية اجتماعية</title><idno type="callNumber" change="#d2e104 #d2e208" xml:lang="ar-Latn-x-ijmes" xml:id="idno_1.d2e55">EAP119/1/8/1</idno><idno type="CitationID" change="#d2e104 #d2e208" xml:lang="ar-Latn-x-ijmes" xml:id="idno_2.d2e57">hasna 10</idno><idno type="url" change="#d2e104 #d2e208" xml:lang="ar-Latn-x-ijmes" xml:id="idno_3.d2e59">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
 	<idno type="OCLC" change="#d2e208" xml:id="idno_4.d2e62">792756327</idno>
 	<idno type="OCLC" change="#d2e208" xml:id="idno_5.d2e65">792755433</idno>
@@ -55,7 +55,7 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc><change when="2019-11-05" who="#pers_TG" xml:id="d2e264" xml:lang="en">Added <tei:gi>publicationStmt</tei:gi>.</change><tei:change when="2019-10-25" who="#pers_TG" xml:id="d5e253" xml:lang="en">Added references to local authority file (<tei:ref target="../data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml">../data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml</tei:ref>) and to OCLC (WorldCat) IDs to <tei:gi>titles</tei:gi>s without such references based on  <tei:gi>biblStruct</tei:gi>s mentioned in the authority file (bibliography).</tei:change><change when="2019-05-16" who="#pers_TG" xml:id="d5e242" xml:lang="en">Added references to local authority file (<ref target="../data/tei/gazetteer_levant-phd.TEIP5.xml">../data/tei/gazetteer_levant-phd.TEIP5.xml</ref>) and to GeoNames IDs to <gi>placeName</gi>s without such references based on  <gi>place</gi>s mentioned in the authority file.</change><change when="2019-05-15" who="#pers_TG" xml:id="d2e219" xml:lang="en">Added references to local authority file (<ref target="../data/tei/personography_OpenArabicPE.TEIP5.xml">../data/tei/personography_OpenArabicPE.TEIP5.xml</ref>) and VIAF to <gi>persName</gi>s without such references based on <gi>person</gi>s in the local authority file. If the source <gi>persName</gi> did not contain any further TEI mark-up, this has been added from the local authority file.</change><change when="2019-04-24" who="#pers_TG" xml:id="d2e208" xml:lang="en">Added automated <att xml:lang="en">xml:id</att>s for every element that is a descendant of <gi xml:lang="en">tei:text</gi> and had no existing <att xml:lang="en">xml:id</att> following the pattern "name()_generate-id()".</change><change when="2019-04-22" who="#pers_TG" xml:id="d2e191">Added automated page numbers as <att change="#d2e208" xml:id="att_1.d2e129">n</att>s in addition to <att change="#d2e208" xml:id="att_2.d2e132">ed</att>="print" and <att change="#d2e208" xml:id="att_3.d2e135">edRef</att>="#edition_1" for every<gi change="#d2e208" xml:id="gi_1.d2e138">pb</gi> that was not of <att change="#d2e208" xml:id="att_4.d2e141">ed</att>="shamela".</change><change when="2019-02-26" who="#pers_TG" xml:id="d2e174">Added automated page numbers as <att change="#d2e208" xml:id="att_5.d2e146">n</att>s in addition to <att change="#d2e208" xml:id="att_6.d2e149">ed</att>="print" and <att change="#d2e208" xml:id="att_7.d2e152">edRef</att>="#edition_1" for every<gi change="#d2e208" xml:id="gi_2.d2e155">pb</gi> that was not of <att change="#d2e208" xml:id="att_8.d2e158">ed</att>="shamela".</change><change when="2019-02-22" who="#pers_TG" xml:lang="en" change="#d2e208" xml:id="change_1.d2e161">Corrected <gi change="#d2e208" xml:id="gi_3.d2e163">biblStruct</gi> by sorting child elements in the correct order.  Converted all <att change="#d2e208" xml:id="att_9.d2e166">n</att> on <gi change="#d2e208" xml:id="gi_3.d2e169">biblScope</gi> to <att change="#d2e208" xml:id="att_9.d2e172">from</att> and <att change="#d2e208" xml:id="att_9.d2e175">to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="#d2e208" xml:id="change_1.d2e178">Corrected <gi change="#d2e208" xml:id="gi_3.d2e180">biblStruct</gi> by moving all <gi change="#d2e208" xml:id="gi_3.d2e183">biblScope</gi> from <gi change="#d2e208" xml:id="gi_3.d2e186">imprint</gi> to <gi change="#d2e208" xml:id="gi_3.d2e189">monogr</gi> and by converting all <att change="#d2e208" xml:id="att_9.d2e192">n</att> to <att change="#d2e208" xml:id="att_9.d2e196">from</att> and <att change="#d2e208" xml:id="att_9.d2e199">to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="d2e104 #d2e208" xml:lang="en" xml:id="change_1.d2e202">Added the <att xml:lang="en" change="#d2e208" xml:id="att_9.d2e204">xml:lang</att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</change>
+      <revisionDesc><tei:change when="2019-11-22" who="#pers_TG" xml:id="d2e284" xml:lang="en">Mapped elements from version 1 of the ODD to version 2</tei:change><change when="2019-11-05" who="#pers_TG" xml:id="d2e264" xml:lang="en">Added <tei:gi>publicationStmt</tei:gi>.</change><tei:change when="2019-10-25" who="#pers_TG" xml:id="d5e253" xml:lang="en">Added references to local authority file (<tei:ref target="../data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml">../data/tei/bibliography_OpenArabicPE-periodicals.TEIP5.xml</tei:ref>) and to OCLC (WorldCat) IDs to <tei:gi>titles</tei:gi>s without such references based on  <tei:gi>biblStruct</tei:gi>s mentioned in the authority file (bibliography).</tei:change><change when="2019-05-16" who="#pers_TG" xml:id="d5e242" xml:lang="en">Added references to local authority file (<ref target="../data/tei/gazetteer_levant-phd.TEIP5.xml">../data/tei/gazetteer_levant-phd.TEIP5.xml</ref>) and to GeoNames IDs to <gi>placeName</gi>s without such references based on  <gi>place</gi>s mentioned in the authority file.</change><change when="2019-05-15" who="#pers_TG" xml:id="d2e219" xml:lang="en">Added references to local authority file (<ref target="../data/tei/personography_OpenArabicPE.TEIP5.xml">../data/tei/personography_OpenArabicPE.TEIP5.xml</ref>) and VIAF to <gi>persName</gi>s without such references based on <gi>person</gi>s in the local authority file. If the source <gi>persName</gi> did not contain any further TEI mark-up, this has been added from the local authority file.</change><change when="2019-04-24" who="#pers_TG" xml:id="d2e208" xml:lang="en">Added automated <att xml:lang="en">xml:id</att>s for every element that is a descendant of <gi xml:lang="en">tei:text</gi> and had no existing <att xml:lang="en">xml:id</att> following the pattern "name()_generate-id()".</change><change when="2019-04-22" who="#pers_TG" xml:id="d2e191">Added automated page numbers as <att change="#d2e208" xml:id="att_1.d2e129">n</att>s in addition to <att change="#d2e208" xml:id="att_2.d2e132">ed</att>="print" and <att change="#d2e208" xml:id="att_3.d2e135">edRef</att>="#edition_1" for every<gi change="#d2e208" xml:id="gi_1.d2e138">pb</gi> that was not of <att change="#d2e208" xml:id="att_4.d2e141">ed</att>="shamela".</change><change when="2019-02-26" who="#pers_TG" xml:id="d2e174">Added automated page numbers as <att change="#d2e208" xml:id="att_5.d2e146">n</att>s in addition to <att change="#d2e208" xml:id="att_6.d2e149">ed</att>="print" and <att change="#d2e208" xml:id="att_7.d2e152">edRef</att>="#edition_1" for every<gi change="#d2e208" xml:id="gi_2.d2e155">pb</gi> that was not of <att change="#d2e208" xml:id="att_8.d2e158">ed</att>="shamela".</change><change when="2019-02-22" who="#pers_TG" xml:lang="en" change="#d2e208" xml:id="change_1.d2e161">Corrected <gi change="#d2e208" xml:id="gi_3.d2e163">biblStruct</gi> by sorting child elements in the correct order.  Converted all <att change="#d2e208" xml:id="att_9.d2e166">n</att> on <gi change="#d2e208" xml:id="gi_3.d2e169">biblScope</gi> to <att change="#d2e208" xml:id="att_9.d2e172">from</att> and <att change="#d2e208" xml:id="att_9.d2e175">to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="#d2e208" xml:id="change_1.d2e178">Corrected <gi change="#d2e208" xml:id="gi_3.d2e180">biblStruct</gi> by moving all <gi change="#d2e208" xml:id="gi_3.d2e183">biblScope</gi> from <gi change="#d2e208" xml:id="gi_3.d2e186">imprint</gi> to <gi change="#d2e208" xml:id="gi_3.d2e189">monogr</gi> and by converting all <att change="#d2e208" xml:id="att_9.d2e192">n</att> to <att change="#d2e208" xml:id="att_9.d2e196">from</att> and <att change="#d2e208" xml:id="att_9.d2e199">to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="d2e104 #d2e208" xml:lang="en" xml:id="change_1.d2e202">Added the <att xml:lang="en" change="#d2e208" xml:id="att_9.d2e204">xml:lang</att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</change>
          <change when="2019-02-21" who="#pers_TG" xml:lang="en" change="#d2e208" xml:id="change_1.d2e208">Generated this file by automatic conversion from Sente XML</change>
       </revisionDesc>
    </teiHeader>
@@ -173,8 +173,8 @@
       <body change="#d2e104 #d2e208" xml:lang="ar" xml:id="body_1.d2e404"><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_1648369D-1177-4374-B974-BAA44920E525_33" n="289" xml:id="pb_1648369D-1177-4374-B974-BAA44920E525_33"/>
 <figure change="#d2e208" xml:id="figure_1.d2e407"><label change="#d2e208" xml:id="label_1.d2e408"><persName xml:lang="en" change="#d2e208" xml:id="persName_4.d2e409">هلن كلر</persName> <gap resp="#pers_TG" change="#d2e208" xml:id="gap_1.d2e412"/> </label>
 </figure><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_1" n="289" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_1"/>
-<div change="#d2e104 #d2e208" type="item" xml:lang="ar" xml:id="div_1.d2e417">
-<head change="#d2e208" xml:id="head_1.d2e419"><persName xml:lang="en" change="#d2e208" xml:id="persName_5.d2e420">هلن كلر</persName> <lb change="#d2e208" xml:id="lb_1.d2e423"/><persName xml:lang="en" change="#d2e208" xml:id="persName_6.d2e424">Helen Keller</persName></head>
+<div change="#d2e104 #d2e208 #d2e284" type="item" xml:lang="ar" xml:id="div_1.d2e417" subtype="article">
+<head change="#d2e208" xml:id="head_1.d2e419"><persName xml:lang="en" change="#d2e208" xml:id="persName_5.d2e420">هلن كلر</persName> <lb change="#d2e208 #d2e284" xml:id="lb_1.d2e423" ed="print" edRef="#edition_1"/><persName xml:lang="en" change="#d2e208" xml:id="persName_6.d2e424">Helen Keller</persName></head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_2.d2e427"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_2" n="290" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_2"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_3.d2e430"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_3" n="291" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_3"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_4.d2e433"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_4" n="292" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_4"/>
@@ -184,7 +184,7 @@
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_8.d2e446"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_8" n="296" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_8"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_9.d2e450"/>
 </div>
-<div change="#d2e104 #d2e208" type="item" xml:lang="ar" xml:id="div_2.d2e453">
+<div change="#d2e104 #d2e208 #d2e284" type="item" xml:lang="ar" xml:id="div_2.d2e453" subtype="article">
 <head change="#d2e208" xml:id="head_2.d2e455">وطنية الالزاسيات</head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_10.d2e458"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_9" n="297" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_9"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_11.d2e461"/><pb change="#d2e174" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_10" n="298" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_10"/>
@@ -193,7 +193,7 @@
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_14.d2e471"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_13" n="299" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_13"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_15.d2e474"/>
 </div>
-<div change="#d2e104 #d2e208" type="item" xml:lang="ar" xml:id="div_3.d2e477">
+<div change="#d2e104 #d2e208 #d2e284" type="item" xml:lang="ar" xml:id="div_3.d2e477" subtype="article">
 <head change="#d2e208" xml:id="head_3.d2e479">مثال المرأة الفاضلة</head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_16.d2e482"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_14" n="300" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_14"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_17.d2e485"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_15" n="301" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_15"/>
@@ -201,16 +201,16 @@
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_19.d2e492"/>
 <byline change="#d2e208" xml:id="byline_1.d2e494"><supplied resp="#pers_TG" change="#d2e208" xml:id="supplied_1.d2e495"><placeName change="#d2e208 #d5e242" xml:id="placeName_3.d2e496" ref="oape:place:226 geon:360630">مصر</placeName> <persName change="#d2e208 #d2e219" xml:id="persName_7.d2e499" ref="oape:pers:1755">روزا حداد</persName></supplied></byline>
 </div>
-<div change="#d2e104 #d2e208" type="item" xml:lang="ar" xml:id="div_4.d2e504">
+<div change="#d2e104 #d2e208 #d2e284" type="item" xml:lang="ar" xml:id="div_4.d2e504" subtype="article">
 <head change="#d2e208" xml:id="head_4.d2e506">علماؤنا والنساء</head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_20.d2e509"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_17" n="303" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_17"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_21.d2e512"/>
-<div type="item" change="#d2e208" xml:id="div_4.d2e514">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_4.d2e514" subtype="article">
 <head change="#d2e208" xml:id="head_5.d2e516">قول <persName change="#d2e208" xml:id="persName_8.d2e518">زيدان</persName></head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_22.d2e521"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_18" n="304" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_18"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_23.d2e524"/>
 </div>
-<div type="item" change="#d2e208" xml:id="div_5.d2e527">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_5.d2e527" subtype="article">
 <head change="#d2e208" xml:id="head_6.d2e529">نبؤة <persName change="#d2e208 #d2e219" xml:id="persName_9.d2e531" ref="oape:pers:304">
                             <surname xml:lang="ar">البستاني</surname>
                         </persName></head>
@@ -218,7 +218,7 @@
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_25.d2e537"/>
 </div>
 </div>
-<div change="#d2e104 #d2e208" type="item" xml:lang="ar" xml:id="div_7.d2e541">
+<div change="#d2e104 #d2e208 #d2e284" type="item" xml:lang="ar" xml:id="div_7.d2e541" subtype="article">
 <head change="#d2e208" xml:id="head_7.d2e543">هلموا الى الطبيعة</head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_26.d2e546"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_20" n="306" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_20"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_27.d2e549"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_21" n="307" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_21"/>
@@ -226,40 +226,40 @@
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_29.d2e556"/>
 <byline change="#d2e208" xml:id="byline_2.d2e558"><placeName change="#d2e208 #d5e242" xml:id="placeName_4.d2e559" ref="oape:place:35 geon:294801">حيفا</placeName> <persName change="#d2e208" xml:id="persName_10.d2e562">بولس شحاده</persName></byline>
 </div>
-<div change="#d2e104 #d2e208" type="item" xml:lang="ar" xml:id="div_8.d2e566">
+<div change="#d2e104 #d2e208 #d2e284" type="item" xml:lang="ar" xml:id="div_8.d2e566" subtype="article">
 <head change="#d2e208" xml:id="head_8.d2e568">راي في الحجاب</head><note place="inline" type="bibliographic" change="#d2e208" xml:id="note_1.d2e570"><bibl change="#d2e208" xml:id="bibl_2.d2e571">خطاب ل<author change="#d2e208" xml:id="author_1.d2e573"><persName change="#d2e208" xml:id="persName_11.d2e574">منشيء <title level="j" change="#d2e208 #d5e253" xml:id="title_5.d2e576" ref="oape:bibl:23 oclc:792756327">الحسناء</title></persName></author> القاه في حفلة <orgName change="#d2e208" xml:id="orgName_3.d2e579">جمعية الخدمة الوطنية</orgName> في <pubPlace change="#d2e208" xml:id="pubPlace_2.d2e582"><placeName change="#d2e208 #d5e242" xml:id="placeName_5.d2e583" ref="oape:place:9 geon:268064">صيدا</placeName></pubPlace> في <date calendar="#cal_gregorian" when="1910-03-11" change="#d2e208" xml:id="date_4.d2e586">١١ اذار</date></bibl></note>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_30.d2e589"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_23" n="309" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_23"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_31.d2e592"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_24" n="310" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_24"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_32.d2e595"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_25" n="311" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_25"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_33.d2e599"/>
 </div>
-<div change="#d2e104 #d2e208" type="item" xml:lang="ar" xml:id="div_9.d2e602">
-<head change="#d2e208" xml:id="head_9.d2e604">ما شاهدته <lb change="#d2e208" xml:id="lb_2.d2e606"/>في مأوى العجز لرهبات الام الحزينة</head>
+<div change="#d2e104 #d2e208 #d2e284" type="item" xml:lang="ar" xml:id="div_9.d2e602" subtype="article">
+<head change="#d2e208" xml:id="head_9.d2e604">ما شاهدته <lb change="#d2e208 #d2e284" xml:id="lb_2.d2e606" ed="print" edRef="#edition_1"/>في مأوى العجز لرهبات الام الحزينة</head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_34.d2e609"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_26" n="312" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_26"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_35.d2e612"/>
 <byline change="#d2e208" xml:id="byline_3.d2e614"><persName change="#d2e208" xml:id="persName_12.d2e615">سليم سابا باز</persName></byline>
 </div>
 <div change="#d2e104 #d2e208" type="section" xml:lang="ar" xml:id="div_10.d2e619">
 <head change="#d2e208" xml:id="head_10.d2e621">السؤال والجواب</head>
-<div type="item" change="#d2e208" xml:id="div_10.d2e624">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_10.d2e624" subtype="article">
 <head change="#d2e208" xml:id="head_11.d2e626">الجنس اللطيف</head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_36.d2e629"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_27" n="313" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_27"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_37.d2e632"/>
 <byline change="#d2e208" xml:id="byline_4.d2e634"><placeName change="#d2e208 #d5e242" xml:id="placeName_6.d2e635" ref="oape:place:9 geon:268064">صيدا</placeName> <persName change="#d2e208 #d2e219" xml:id="persName_13.d2e638" ref="oape:pers:2845">مريم زكا</persName></byline>
 </div>
-<div change="#d2e104 #d2e208" type="item" xml:lang="ar" xml:id="div_11.d2e642">
+<div change="#d2e104 #d2e208 #d2e284" type="item" xml:lang="ar" xml:id="div_11.d2e642" subtype="article">
 <head change="#d2e208" xml:id="head_12.d2e644">نحن اولى لالملام</head><note place="inline" type="bibliographic" change="#d2e208" xml:id="note_2.d2e646"><bibl change="#d2e208" xml:id="bibl_3.d2e647"/></note>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_38.d2e649"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_28" n="314" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_28"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_39.d2e652"/>
 <byline change="#d2e208" xml:id="byline_5.d2e654"><placeName change="#d2e208 #d5e242" xml:id="placeName_7.d2e655" ref="oape:place:26 geon:276781">بيروت</placeName> <persName change="#d2e208" xml:id="persName_14.d2e658">جوليا طمعه</persName></byline>
 </div>
-<div type="item" change="#d2e208" xml:id="div_12.d2e662">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_12.d2e662" subtype="article">
 <head change="#d2e208" xml:id="head_13.d2e664">المحبة والشرف</head>
 <p change="#d2e208" xml:id="p_2.d2e667"><gap resp="#org_MS" change="#d2e208" xml:id="gap_40.d2e668"/></p>
 <byline change="#d2e208" xml:id="byline_6.d2e670"><placeName change="#d2e208 #d5e242" xml:id="placeName_8.d2e671" ref="oape:place:30 geon:266826">طرابلس</placeName> <persName change="#d2e208" xml:id="persName_15.d2e674">لبنانية</persName></byline>
 </div>
 </div>
-<div change="#d2e104 #d2e208" type="item" xml:lang="ar" xml:id="div_14.d2e679">
+<div change="#d2e104 #d2e208 #d2e284" type="item" xml:lang="ar" xml:id="div_14.d2e679" subtype="article">
 <head change="#d2e208" xml:id="head_14.d2e681">حفظ الصحة</head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_41.d2e684"/><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_29" n="315" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_29"/>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_42.d2e687"/>
@@ -285,29 +285,29 @@
 </div><pb change="#d2e174 #d2e191" ed="print" edRef="#edition_1" facs="#facs_D5F3026E-92C5-461E-AEE0-90941B4E37F1_32" n="318" xml:id="pb_D5F3026E-92C5-461E-AEE0-90941B4E37F1_32"/>
 <div change="#d2e104 #d2e208" subtype="verse" type="section" xml:lang="ar" xml:id="div_19.d2e752">
 <head change="#d2e208" xml:id="head_19.d2e754">مطبوعات حديثة</head>
-<div type="item" change="#d2e208" xml:id="div_19.d2e757">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_19.d2e757" subtype="article">
 <head change="#d2e208" xml:id="head_20.d2e759"><title level="m" change="#d2e208" xml:id="title_6.d2e760">ديوان <persName change="#d2e208 #d2e219" xml:id="persName_19.d2e762" ref="oape:pers:411 viaf:14924300">
                             <surname xml:lang="ar">الرصافي</surname>
                         </persName></title></head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_49.d2e765"/>
 </div>
-<div type="item" change="#d2e208" xml:id="div_20.d2e768">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_20.d2e768" subtype="article">
 <head change="#d2e208" xml:id="head_21.d2e770"><title level="m" change="#d2e208" xml:id="title_7.d2e771">الريحانيات</title></head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_50.d2e774"/>
 </div>
-<div type="item" change="#d2e208" xml:id="div_21.d2e777">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_21.d2e777" subtype="article">
 <head change="#d2e208" xml:id="head_22.d2e779"><title level="j" change="#d2e208 #d5e253" xml:id="title_8.d2e780" ref="oape:bibl:49">طبيب العائلة</title></head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_51.d2e783"/>
 </div>
-<div type="item" change="#d2e208" xml:id="div_22.d2e786">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_22.d2e786" subtype="article">
 <head change="#d2e208" xml:id="head_23.d2e788"><title level="j" change="#d2e208" xml:id="title_9.d2e789">الفرائد</title></head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_52.d2e792"/>
 </div>
-<div type="item" change="#d2e208" xml:id="div_23.d2e796">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_23.d2e796" subtype="article">
 <head change="#d2e208" xml:id="head_24.d2e798"><title level="j" change="#d2e208 #d5e253" xml:id="title_10.d2e799" ref="oape:bibl:47">الكلية</title></head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_53.d2e802"/>
 </div>
-<div type="item" change="#d2e208" xml:id="div_24.d2e805">
+<div type="item" change="#d2e208 #d2e284" xml:id="div_24.d2e805" subtype="article">
 <head change="#d2e208" xml:id="head_25.d2e807"><title level="j" change="#d2e208 #d5e253" xml:id="title_11.d2e808" ref="oape:bibl:38">الحقوق</title></head>
 <gap resp="#pers_TG" change="#d2e208" xml:id="gap_54.d2e811"/>
 </div>

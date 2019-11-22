@@ -19,7 +19,7 @@
                 <p change="#d2e90" xml:lang="en">This should be replaced with some description</p>
             </publicationStmt>
             <sourceDesc change="#d2e90" xml:lang="en">
-                <biblStruct xml:lang="ar-Latn-x-ijmes">
+                <biblStruct xml:lang="ar-Latn-x-ijmes" xml:id="edition_1">
                     <monogr change="#d2e90" xml:lang="ar-Latn-x-ijmes"><title level="j" change="#d2e104" xml:lang="ar-Latn-x-ijmes">al-Ḥasnāʾ: Majallat Nisāʾiyya Adabiyya Akhlāqiyya Ijtimāʿiyya</title><title level="j" xml:lang="ar">الحسناء</title><title level="j" type="sub" xml:lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</title><idno type="url" change="#d2e90" xml:lang="ar-Latn-x-ijmes">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</idno>
 	<idno type="OCLC">792756327</idno>
 	<idno type="OCLC">792755433</idno>
@@ -48,7 +48,7 @@
                 </biblStruct>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <gi>biblStruct</gi> by sorting child elements in the correct order.  Converted all <att>n</att> on <gi>biblScope</gi> to <att>from</att> and <att>to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG">Corrected <gi>biblStruct</gi> by moving all <gi>biblScope</gi> from <gi>imprint</gi> to <gi>monogr</gi> and by converting all <att>n</att> to <att>from</att> and <att>to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="d2e90" xml:lang="en">Added the <att xml:lang="en">xml:lang</att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</change>
+        <revisionDesc><tei:change when="2019-11-22" who="#pers_TG" xml:id="d2e165" xml:lang="en">Mapped elements from version 1 of the ODD to version 2</tei:change><change when="2019-02-22" who="#pers_TG" xml:lang="en">Corrected <gi>biblStruct</gi> by sorting child elements in the correct order.  Converted all <att>n</att> on <gi>biblScope</gi> to <att>from</att> and <att>to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG">Corrected <gi>biblStruct</gi> by moving all <gi>biblScope</gi> from <gi>imprint</gi> to <gi>monogr</gi> and by converting all <att>n</att> to <att>from</att> and <att>to</att>with identical values.</change><change when="2019-02-21" who="#pers_TG" change="d2e90" xml:lang="en">Added the <att xml:lang="en">xml:lang</att> attribute to all nodes that lacked this attribute. The value is based on the closest ancestor.</change>
             <change when="2019-02-21" who="#pers_TG" xml:lang="en">Generated this file by automatic conversion from Sente XML</change>
         </revisionDesc>
     </teiHeader>
@@ -71,13 +71,13 @@
     </facsimile>
     <text xml:lang="ar">
         <body change="#d2e90" xml:lang="ar">
-            <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_1" n="1" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_1"/>
-            <div type="item" change="#d2e90" xml:lang="ar">
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_2" n="2" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_2"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_3" n="3" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_3"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_4" n="4" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_4"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_5" n="5" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_5"/>
-                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_6" n="6" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_6"/>
+            <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_1" n="1" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_1" edRef="#edition_1" change="#d2e165"/>
+            <div type="item" change="#d2e90 #d2e165" xml:lang="ar" subtype="article">
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_2" n="2" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_2" edRef="#edition_1" change="#d2e165"/>
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_3" n="3" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_3" edRef="#edition_1" change="#d2e165"/>
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_4" n="4" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_4" edRef="#edition_1" change="#d2e165"/>
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_5" n="5" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_5" edRef="#edition_1" change="#d2e165"/>
+                <pb ed="print" facs="#facs_234B3B53-0134-4E61-9B92-167F553FBB12_6" n="6" xml:id="pb_234B3B53-0134-4E61-9B92-167F553FBB12_6" edRef="#edition_1" change="#d2e165"/>
             </div>
         </body>
     </text>
