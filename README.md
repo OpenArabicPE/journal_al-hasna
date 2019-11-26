@@ -5,7 +5,7 @@ This repository holds a scaffolding edition of the journal *al-Ḥasna*, publish
 ## to do
 
 - add links to online facsimiles at EAP
--
+    - **done** volume 1
 
 ## Experimental HTR with Transkribus
 
