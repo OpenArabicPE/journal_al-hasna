@@ -2,11 +2,12 @@
 <modsCollection xmlns="http://www.loc.gov/mods/v3"
                 xmlns:mods="http://www.loc.gov/mods/v3"
                 xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:oape="https://openarabicpe.github.io/ns"
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods-3-7.xsd">
-   <mods ID="oclc_792756327-v_1-i_10-div_1.d2e417-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">هلن كلر Helen Keller</title>
+         <title xml:lang="ar">هلن كلر Helen Keller</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -14,26 +15,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -50,25 +57,27 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_1.d2e417</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_1.d2e417</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_1.d2e417</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_2.d2e453-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">وطنية الالزاسيات</title>
+         <title xml:lang="ar">وطنية الالزاسيات</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -76,26 +85,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -112,34 +127,36 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_2.d2e453</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_2.d2e453</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_2.d2e453</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_3.d2e477-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">مثال المرأة الفاضلة</title>
+         <title xml:lang="ar">مثال المرأة الفاضلة</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
       <name type="personal"
-            xml:lang="ar"
+            xml:lang=""
             authority="oape"
             valueURI="oape:pers:1755">
-         <namePart type="family" xml:lang="">روزا حداد</namePart>
+         <namePart>روزا حداد</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -147,26 +164,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -183,25 +206,27 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_3.d2e477</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_3.d2e477</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_3.d2e477</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_4.d2e504-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">علماؤنا والنساء</title>
+         <title xml:lang="ar">علماؤنا والنساء</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -209,26 +234,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -245,31 +276,33 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_4.d2e504</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_4.d2e504</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_4.d2e504</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_7.d2e541-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">هلموا الى الطبيعة</title>
+         <title xml:lang="ar">هلموا الى الطبيعة</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">بولس شحاده</namePart>
+      <name type="personal" xml:lang="">
+         <namePart>بولس شحاده</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -277,26 +310,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -313,31 +352,33 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_7.d2e541</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_7.d2e541</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_7.d2e541</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_8.d2e566-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">راي في الحجاب</title>
+         <title xml:lang="ar">راي في الحجاب</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">منشيء الحسناء</namePart>
+      <name type="personal" xml:lang="">
+         <namePart>منشيء الحسناء</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -345,26 +386,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -381,31 +428,33 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_8.d2e566</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_8.d2e566</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_8.d2e566</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_9.d2e602-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">ما شاهدته في مأوى العجز لرهبات الام الحزينة</title>
+         <title xml:lang="ar">ما شاهدته في مأوى العجز لرهبات الام الحزينة</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">سليم سابا باز</namePart>
+      <name type="personal" xml:lang="">
+         <namePart>سليم سابا باز</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -413,26 +462,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -449,25 +504,27 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_9.d2e602</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_9.d2e602</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_9.d2e602</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_10.d2e619-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">السؤال والجواب</title>
+         <title xml:lang="ar">السؤال والجواب</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -475,26 +532,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -511,23 +574,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_10.d2e619</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_10.d2e619</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_10.d2e619</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_10.d2e624-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">السؤال والجواب: الجنس اللطيف</title>
       </titleInfo>
@@ -535,10 +600,10 @@
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
       <name type="personal"
-            xml:lang="ar"
+            xml:lang=""
             authority="oape"
             valueURI="oape:pers:2845">
-         <namePart type="family" xml:lang="">مريم زكا</namePart>
+         <namePart>مريم زكا</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -546,26 +611,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -582,31 +653,33 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_10.d2e624</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_10.d2e624</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_10.d2e624</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_11.d2e642-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">السؤال والجواب: نحن اولى لالملام</title>
+         <title xml:lang="ar">السؤال والجواب: نحن اولى لالملام</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">جوليا طمعه</namePart>
+      <name type="personal" xml:lang="">
+         <namePart>جوليا طمعه</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -614,26 +687,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -650,31 +729,33 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_11.d2e642</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_11.d2e642</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_11.d2e642</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_12.d2e662-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">السؤال والجواب: المحبة والشرف</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">لبنانية</namePart>
+      <name type="personal" xml:lang="">
+         <namePart>لبنانية</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -682,26 +763,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -718,31 +805,33 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_12.d2e662</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_12.d2e662</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_12.d2e662</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_14.d2e679-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">حفظ الصحة</title>
+         <title xml:lang="ar">حفظ الصحة</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">الدكتور نجيب كحيل</namePart>
+      <name type="personal" xml:lang="">
+         <namePart>الدكتور نجيب كحيل</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -750,26 +839,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -786,31 +881,33 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_14.d2e679</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_14.d2e679</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_14.d2e679</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_15.d2e698-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">ايات الشعور</title>
+         <title xml:lang="ar">ايات الشعور</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
       <genre authority="marcgt" xml:lang="en">article</genre>
-      <name type="personal" xml:lang="ar">
-         <namePart type="family" xml:lang="">سلمى طراد</namePart>
+      <name type="personal" xml:lang="">
+         <namePart>سلمى طراد</namePart>
          <role>
             <roleTerm authority="marcrelator" type="code">aut</roleTerm>
          </role>
@@ -818,26 +915,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -854,25 +957,27 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_15.d2e698</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_15.d2e698</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_15.d2e698</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_16.d2e719-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">زيارة صيدا</title>
+         <title xml:lang="ar">زيارة صيدا</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -880,26 +985,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -916,25 +1027,27 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_16.d2e719</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_16.d2e719</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_16.d2e719</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_17.d2e732-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">محاربة المرأة للسل</title>
+         <title xml:lang="ar">محاربة المرأة للسل</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -942,26 +1055,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -978,25 +1097,27 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_17.d2e732</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_17.d2e732</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_17.d2e732</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_18.d2e741-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">المدرسة الوطنية في الشويفات</title>
+         <title xml:lang="ar">المدرسة الوطنية في الشويفات</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -1004,26 +1125,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1040,25 +1167,27 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_18.d2e741</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_18.d2e741</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_18.d2e741</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_19.d2e752-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">مطبوعات حديثة</title>
+         <title xml:lang="ar">مطبوعات حديثة</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -1066,26 +1195,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1102,23 +1237,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_19.d2e752</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_19.d2e752</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_19.d2e752</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_19.d2e757-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">مطبوعات حديثة: ديوان الرصافي</title>
       </titleInfo>
@@ -1128,26 +1265,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1164,23 +1307,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_19.d2e757</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_19.d2e757</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_19.d2e757</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_20.d2e768-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">مطبوعات حديثة: الريحانيات</title>
       </titleInfo>
@@ -1190,26 +1335,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1226,23 +1377,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_20.d2e768</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_20.d2e768</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_20.d2e768</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_21.d2e777-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">مطبوعات حديثة: طبيب العائلة</title>
       </titleInfo>
@@ -1252,26 +1405,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1288,23 +1447,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_21.d2e777</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_21.d2e777</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_21.d2e777</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_22.d2e786-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">مطبوعات حديثة: الفرائد</title>
       </titleInfo>
@@ -1314,26 +1475,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1350,23 +1517,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_22.d2e786</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_22.d2e786</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_22.d2e786</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_23.d2e796-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">مطبوعات حديثة: الكلية</title>
       </titleInfo>
@@ -1376,26 +1545,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1412,23 +1587,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_23.d2e796</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_23.d2e796</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_23.d2e796</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_24.d2e805-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">مطبوعات حديثة: الحقوق</title>
       </titleInfo>
@@ -1438,26 +1615,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1474,25 +1657,27 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_24.d2e805</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_24.d2e805</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_24.d2e805</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_26.d2e817-mods">
+   <mods>
       <titleInfo>
-         <title xml:lang="">من كل فن خبر</title>
+         <title xml:lang="ar">من كل فن خبر</title>
       </titleInfo>
       <typeOfResource>text</typeOfResource>
       <genre authority="local" xml:lang="en">journalArticle</genre>
@@ -1500,26 +1685,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1536,23 +1727,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_26.d2e817</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_26.d2e817</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_26.d2e817</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_28.d2e867-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">اقوال في النساء</title>
       </titleInfo>
@@ -1562,26 +1755,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1598,23 +1797,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_28.d2e867</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_28.d2e867</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_28.d2e867</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_29.d2e875-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">حكم واراء</title>
       </titleInfo>
@@ -1624,26 +1825,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1660,23 +1867,25 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_29.d2e875</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_29.d2e875</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_29.d2e875</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
                        authorityURI="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">ar</languageTerm>
       </language>
    </mods>
-   <mods ID="oclc_792756327-v_1-i_10-div_30.d2e884-mods">
+   <mods>
       <titleInfo>
          <title xml:lang="">مأثورات</title>
       </titleInfo>
@@ -1686,26 +1895,32 @@
       <relatedItem type="host">
          <titleInfo>
             <title xml:lang="ar">الحسناء</title>
+            <subTitle lang="ar">مجلة نسائية ادبية اخلاقية اجتماعية</subTitle>
          </titleInfo>
          <genre authority="marcgt">journal</genre>
          <name type="personal"
                xml:lang="ar"
                authority="viaf"
                valueURI="https://viaf.org/viaf/311789687">
-            <namePart type="family" xml:lang="">باز</namePart>
-            <namePart type="given" xml:lang="">جرجي</namePart>
-            <namePart type="given" xml:lang="">نقولا</namePart>
+            <namePart type="family" xml:lang="ar">باز</namePart>
+            <namePart type="given" xml:lang="ar">جرجي</namePart>
+            <namePart type="given" xml:lang="ar">نقولا</namePart>
             <role>
                <roleTerm authority="marcrelator" type="code">edt</roleTerm>
             </role>
          </name>
          <originInfo>
-            <edition xml:lang="en">digital TEI edition, 2019</edition>
             <place>
-               <placeTerm type="text" xml:lang="ar">بيروت</placeTerm>
-            </place>
-            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher>
+               <placeTerm type="text"
+                          xml:lang="ar"
+                          authority="geonames"
+                          valueURI="https://www.geonames.org/276781">بيروت</placeTerm>
+            </place> 
+            <publisher xml:lang="ar-Latn-x-ijmes">Maṭbaʿat Jarīdat Ḥadīqat al-Akhbār</publisher> 
+            <publisher xml:lang="ar">مطبعة جريدة حديقة الاخبار</publisher> 
             <dateIssued encoding="w3cdtf">1910-03-20</dateIssued>
+            <dateOther calendar="julian">1910-03-07</dateOther>
+            <dateOther>1910-03-07 [1910-03-20]</dateOther>
             <issuance>continuing</issuance>
          </originInfo>
          <part>
@@ -1722,16 +1937,18 @@
          </part>
          <identifier type="callNumber">EAP119/1/8/1</identifier>
          <identifier type="CitationID">hasna 10</identifier>
-         <identifier type="url">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</identifier>
          <identifier type="OCLC">792756327</identifier>
          <identifier type="OCLC">792755433</identifier>
          <identifier type="OCLC">1034555587</identifier>
          <identifier type="OCLC">1034550210</identifier>
          <identifier type="OCLC">672047031</identifier>
+         <identifier type="URI">oclc_792756327-v_1-i_10</identifier>
       </relatedItem>
-      <accessCondition>http://creativecommons.org/licenses/by-sa/4.0/</accessCondition>
+      <accessCondition/>
       <location>
-         <url dateLastAccessed="2019-11-05" usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_30.d2e884</url>
+         <url usage="primary display">https://github.com/openarabicpe/journal_al-hasna/blob/master/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_30.d2e884</url>
+         <url usage="primary display">https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_10.TEIP5.xml#div_30.d2e884</url>
+         <url usage="primary display">http://eap.bl.uk/database/overview_item.a4d?catId=890;r=30191</url>
       </location>
       <language>
          <languageTerm type="code"
