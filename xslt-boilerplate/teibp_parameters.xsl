@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet exclude-result-prefixes="xsl tei xd eg fn #default"  version="1.0"
+<xsl:stylesheet exclude-result-prefixes="xsl tei xd eg #default"  version="1.0"
     xmlns="http://www.w3.org/1999/xhtml" xmlns:eg="http://www.tei-c.org/ns/Examples" 
      xmlns:html="http://www.w3.org/1999/xhtml" 
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    xmlns:tei="http://www.tei-c.org/ns/1.0" 
+    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" 
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     
     <xd:doc scope="stylesheet">
         <xd:desc>
@@ -36,7 +38,7 @@
     <!-- select whether you want to use inline CSS for the display; default: true() -->
     <xsl:param name="p_use-inline-css" select="true()"/>
     <!-- select whether the language of the interface should follow the main language of the text; default: false() -->
-    <xsl:param name="p_lang-interface-same-as-text" select="false()"/>
+    <xsl:param name="p_lang-interface-same-as-text" select="true()"/>
     <!-- select the colour scheme for heads; currently available options: red, blue, green -->
     <xsl:param name="p_color-scheme" select="'blue'"/>
     <!-- parameter to select the mimeType. In some cases tiff might be more efficient than jpeg -->
