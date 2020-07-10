@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet exclude-result-prefixes="xsl tei xd eg #default"  version="1.0"
+<xsl:stylesheet exclude-result-prefixes="xsl tei xd eg  #default"  version="1.0"
     xmlns="http://www.w3.org/1999/xhtml" xmlns:eg="http://www.tei-c.org/ns/Examples" 
      xmlns:html="http://www.w3.org/1999/xhtml" 
-    xmlns:tei="http://www.tei-c.org/ns/1.0" 
-    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" 
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     
     <xd:doc scope="stylesheet">
         <xd:desc>
@@ -174,7 +172,6 @@
             </xsl:choose>
         </span>
     </xsl:param>
-    
     <xsl:param name="p_text-nav_previous-issue">
         <span lang="{$v_lang-interface}">
             <xsl:choose>
@@ -187,6 +184,69 @@
             </xsl:choose>
         </span>
     </xsl:param>
+    <xsl:param name="p_text-nav_top">
+        <span lang="{$v_lang-interface}">
+            <xsl:choose>
+                <xsl:when test="$v_lang-interface = 'ar'">
+                    <xsl:text>أعلى الصفحة</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:text>Top of the page</xsl:text>
+                </xsl:otherwise>
+            </xsl:choose>
+        </span>
+    </xsl:param>
+    <xsl:param name="p_text-nav_bottom">
+        <span lang="{$v_lang-interface}">
+            <xsl:choose>
+                <xsl:when test="$v_lang-interface = 'ar'">
+                    <xsl:text>اسفل الصفحة</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:text>Bottom of the page</xsl:text>
+                </xsl:otherwise>
+            </xsl:choose>
+        </span>
+    </xsl:param>
+
+    <!-- menu -->
+    <xsl:param name="p_text-menu_contents">
+        <span lang="{$v_lang-interface}">
+            <xsl:choose>
+                <xsl:when test="$v_lang-interface = 'ar'">
+                    <xsl:text>فهرس</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:text>Contents</xsl:text>
+                </xsl:otherwise>
+            </xsl:choose>
+        </span>
+    </xsl:param>
+    <xsl:param name="p_text-menu_search">
+        <span lang="{$v_lang-interface}">
+            <xsl:choose>
+                <xsl:when test="$v_lang-interface = 'ar'">
+                    <xsl:text>بحث</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:text>Search</xsl:text>
+                </xsl:otherwise>
+            </xsl:choose>
+        </span>
+    </xsl:param>
+    <xsl:param name="p_text-menu_settings">
+        <span lang="{$v_lang-interface}">
+            <xsl:choose>
+                <xsl:when test="$v_lang-interface = 'ar'">
+                    <xsl:text>الإعدادات</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:text>Settings</xsl:text>
+                </xsl:otherwise>
+            </xsl:choose>
+        </span>
+    </xsl:param>
+    
     
     <!-- parameters for file paths or URLs -->
     <!-- modify filePrefix to point to boilerplate files on your own server, or to specify a relative path, e.g.: <xsl:param name="filePrefix" select="'http://dcl.slis.indiana.edu/teibp'"/>. 
