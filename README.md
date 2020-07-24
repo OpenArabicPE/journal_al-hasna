@@ -1,7 +1,8 @@
 ---
 title: "Readme: Journal *al-Ḥasnāʾ*"
 author: Till Grallert
-date: 2019-11-28
+date: 2020-07-25
+ORCID: orcid.org/0000-0002-5739-8094
 ---
 
 # An open, collaborative, and scholarly digital edition of Jirjī Niqūlā Bāz's monthly journal *al-Ḥasnāʾ* (Beirut, 1909--11)
@@ -10,7 +11,7 @@ date: 2019-11-28
 <!-- DOI needs updating once released -->
 [![DOI](https://zenodo.org/badge/171870239.svg)](https://zenodo.org/badge/latestdoi/171870239)
 
-This repository holds a scaffolding edition of the journal *al-Ḥasnāʾ*, published by Jirjī Niqūlā Bāz in Beirut between 1909 and 1911 It is based on digital imagery from the British Library's Endangered Archives Programme (EAP). Each issues is represented by a TEI XML file with links to the image files in the `<facsimile>` node. Structural mark-up of articles, including heads and bylines, is manually added based on the facsimiles.
+This repository holds a scaffolding edition of the journal *al-Ḥasnāʾ*, published by Jirjī Niqūlā Bāz in Beirut between 1909 and 1911 It is based on digital imagery from the British Library's Endangered Archives Programme (EAP). Each issues is represented by a TEI XML file with links to the image files in the `<facsimile>` node. Structural mark-up of articles, including heads and bylines, is manually added based on the facsimiles. To enter a webview click [here](https://openarabicpe.github.io/journal_al-hasna/tei/oclc_792756327-v_1-i_1.TEIP5.xml).
 
 This digital edition is part of and follows the principles of [Open Arabic Periodical Editions (OpenArabicPE)](https://openarabicpe.github.io) that were originally developped in the context of [Digital Muqtabas](https://github.com/tillgrallert/digital-muqtabas). Digital imagery is available from the British Library's *Endangered Archives Programme* (EAP).
 
