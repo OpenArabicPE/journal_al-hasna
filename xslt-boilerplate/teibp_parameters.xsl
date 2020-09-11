@@ -31,6 +31,8 @@
     <xsl:param name="p_display-line-breaks" select="false()"/>
     <!-- select whether you want to display editorial changes; default: false() -->
     <xsl:param name="p_display-editorial-changes" select="false()"/>
+    <!-- select image quality for facsimiles served through IIIF. To balance readability with bandwidth, images are currently set to a width of 800px and grayscale -->
+    <xsl:param name="p_iiif-settings-display" select="'/full/800,/0/gray.jpg'"/>
     <!-- select whether you want to process XInclude; default: true()  -->
     <xsl:param name="p_process-xinclude" select="true()"/>
     <!-- select whether you want to use inline CSS for the display; default: true() -->
@@ -38,9 +40,11 @@
     <!-- select whether the language of the interface should follow the main language of the text; default: false() -->
     <xsl:param name="p_lang-interface-same-as-text" select="true()"/>
     <!-- select the colour scheme for heads; currently available options: red, blue, green -->
-    <xsl:param name="p_color-scheme" select="'blue'"/>
+    <xsl:param name="p_color-scheme" select="'red'"/>
     <!-- parameter to select the mimeType. In some cases tiff might be more efficient than jpeg -->
     <xsl:param name="p_mimetype" select="'image/tiff'"/>
+    <!-- toggle the width of the columns. If set to true(), the facsimiles will take up most of the available space -->
+    <xsl:param name="p_facsimile-only" select="true()"/>
     
     <!-- original TEI Boilerplate stuff -->
     <xsl:param name="teibpHome" select="'http://dcl.slis.indiana.edu/teibp/'"/>
