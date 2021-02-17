@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:24.730+02:00</Created>
+        <LastChange>2020-04-02T15:55:27.117+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088572" pageNr="57" tsid="26892126" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=VOROOVLXVUUKAOJHLVZZYSYB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TLCXNDPCPQTTRUTPUREIWGJA" imageId="10178326"/>
+    </Metadata>
+    <Page imageFilename="190907_019_L.jpg" imageWidth="1000" imageHeight="1589">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855753510" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="59,47 59,1508 935,1508 935,47"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="384,80 408,94 428,90 435,96 461,93 486,101 512,91 547,98 558,93 560,51 529,60 509,50 496,55 480,51 471,58 445,46 421,56 386,49"/>
+                <Baseline points="390,78 417,82 444,85 471,85 498,86 525,87 552,90"/>
+                <TextEquiv>
+                    <Unicode>لمة الى الحسناء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="845,128 866,125 866,27 845,27"/>
+                <Baseline points="851,94 861,94"/>
+                <TextEquiv>
+                    <Unicode>٥</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="64,179 104,155 534,161 741,192 849,173 886,205 922,195 923,139 65,121"/>
+                <Baseline points="70,151 112,151 154,151 197,151 239,151 281,152 324,153 366,154 408,155 451,156 493,158 535,159 578,161 620,162 662,163 705,164 747,165 789,166 832,166 874,167 917,167"/>
+                <TextEquiv>
+                    <Unicode>المؤيدة لعز الإسلام يرى لامرأة أثاراً مشكورة أفادت المذهب المحمدي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="61,239 162,217 435,257 712,227 916,268 932,196 62,175"/>
+                <Baseline points="67,211 109,212 152,214 195,215 238,216 281,217 324,218 367,219 410,220 453,220 496,221 538,222 581,222 624,223 667,223 710,224 753,225 796,226 839,227 882,228 925,230"/>
+                <TextEquiv>
+                    <Unicode>أفادات مذكورة. هذا فضلاً عن خدمتها للرسول في حياته خدمات مائورة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="64,284 108,307 157,286 307,309 548,290 668,316 704,292 880,297 880,268 692,243 65,252"/>
+                <Baseline points="70,276 110,278 150,280 190,281 231,282 271,283 311,284 351,284 392,284 432,285 472,285 512,285 553,285 593,285 633,286 673,286 714,286 754,287 794,288 834,290 875,291"/>
+                <TextEquiv>
+                    <Unicode>وبعد قتل الحاكم بأمر الله ولي الدروز الأعظم قولت شوون قومه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="58,359 929,363 936,317 843,342 772,308 59,306"/>
+                <Baseline points="64,339 107,340 150,341 193,342 237,343 280,344 323,345 367,346 410,346 453,347 497,348 540,348 583,349 626,349 670,349 713,350 756,350 800,351 843,351 886,352 930,353"/>
+                <TextEquiv>
+                    <Unicode>أخته ست الملك الى أن بلغ ابنه سن الرشد وكانت ذكية عاقلة حازمة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="501,432 602,410 646,438 704,418 777,439 900,432 934,416 934,376 872,387 795,366 748,383 607,372 501,382"/>
+                <Baseline points="506,420 532,417 558,414 585,413 611,411 638,410 664,410 691,410 717,411 743,411 770,412 796,413 823,414 849,414 876,415 902,415 929,414"/>
+                <TextEquiv>
+                    <Unicode>أفادت مذهباً أفادات أيدته الى اليوم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="61,488 870,497 884,425 831,450 61,430"/>
+                <Baseline points="66,468 106,468 147,468 187,469 228,469 269,470 309,470 350,471 390,471 431,471 472,472 512,472 553,473 593,473 634,474 675,474 715,475 756,476 796,477 837,477 878,478"/>
+                <TextEquiv>
+                    <Unicode>ولو شئنا نعدد أسماء الآلاهات وتحصي عدد الكاهنات والنبيات وتذكر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="69,555 941,560 941,514 892,504 70,499"/>
+                <Baseline points="75,531 118,532 161,533 204,533 247,534 290,534 333,535 376,535 419,535 462,536 505,536 548,536 591,537 634,537 677,538 720,538 763,539 806,540 849,541 892,542 935,543"/>
+                <TextEquiv>
+                    <Unicode>بالتفصيل كل الشهيدات والقديسات والوليات عند كل الأمم قديمها وحديئها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="61,610 890,624 927,619 928,562 374,578 217,554 169,579 61,552"/>
+                <Baseline points="67,593 109,595 152,596 195,597 238,598 280,599 323,600 366,600 409,600 451,600 494,600 537,600 580,600 622,600 665,600 708,601 751,601 793,602 836,603 879,605 922,606"/>
+                <TextEquiv>
+                    <Unicode>لضاق بنا المقام مهيماً فسح واحتجنا الى وقت آخر وصفحات لا تحصى هذا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="454,679 514,670 663,688 762,673 793,687 817,671 866,701 894,687 940,695 939,622 849,637 718,619 649,643 590,642 565,625 541,645 513,629 455,634"/>
+                <Baseline points="460,663 485,663 510,663 535,663 560,663 585,663 610,663 635,663 660,663 685,663 710,664 735,664 760,664 785,664 810,664 835,664 860,665 885,665 910,666 935,666"/>
+                <TextEquiv>
+                    <Unicode>إذا كان ذلك بالإمكان بيد أنه مستحيل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="354,869 383,872 420,857 494,879 547,855 650,856 651,775 488,798 471,785 409,803 387,789 355,790"/>
+                <Baseline points="360,834 385,836 411,838 437,839 463,839 489,840 515,840 541,839 567,839 593,839 619,838 645,839"/>
+                <TextEquiv>
+                    <Unicode>كلم اللي الحسناء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="72,1003 802,998 880,977 880,933 72,954"/>
+                <Baseline points="77,987 116,986 156,985 196,985 236,984 276,983 316,983 356,982 396,982 436,981 476,980 515,980 555,980 595,979 635,978 675,978 715,977 755,977 795,976 835,976 875,975"/>
+                <TextEquiv>
+                    <Unicode>للمرة الأولى تخطر الحسناء في أنحاء الشرق لتتفقد أحوال بنائه ونسأل من فيه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="717,1061 751,1061 765,1052 813,1062 835,1055 846,1064 870,1047 913,1059 922,1056 922,1003 893,1010 866,994 837,994 828,1002 810,995 790,1006 777,997 758,1009 743,1003 734,1012 716,1010"/>
+                <Baseline points="722,1036 749,1037 777,1038 805,1038 833,1037 861,1036 889,1035 917,1034"/>
+                <TextEquiv>
+                    <Unicode>عن ذوات القناع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="65,1121 399,1127 523,1102 683,1137 790,1109 837,1126 873,1109 873,1070 64,1068"/>
+                <Baseline points="70,1105 109,1106 149,1107 189,1107 229,1108 269,1107 309,1107 349,1106 389,1106 429,1105 469,1104 508,1103 548,1102 588,1102 628,1101 668,1100 708,1099 748,1099 788,1099 828,1099 868,1099"/>
+                <TextEquiv>
+                    <Unicode>للمرة الأولى تمسح حواء الشرقة دمعة الذل والباس وترفع أنظارها الى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="57,1183 186,1201 561,1169 764,1196 804,1166 929,1171 927,1112 676,1143 628,1121 447,1145 208,1128 57,1158"/>
+                <Baseline points="62,1170 105,1171 148,1172 191,1172 234,1172 277,1172 320,1172 363,1171 406,1170 449,1170 492,1168 535,1167 578,1166 621,1165 664,1164 707,1162 750,1161 793,1160 836,1159 879,1157 923,1156"/>
+                <TextEquiv>
+                    <Unicode>العالم المضطرب فتراه عيوناً شاخصة إليها ثم يرتو بطرف كسير كمن يستجير</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="62,1246 278,1266 462,1234 584,1259 921,1228 920,1191 832,1188 62,1216"/>
+                <Baseline points="68,1231 110,1232 152,1232 195,1232 237,1232 279,1232 322,1231 364,1231 406,1230 449,1229 491,1229 533,1228 576,1227 618,1227 660,1226 703,1225 745,1224 787,1224 830,1223 872,1223 915,1222"/>
+                <TextEquiv>
+                    <Unicode>ويسترحم فتندهش من رؤيته بهذه الحال لعلمها أنها لا تستطيع أن يبدي شيئاً أو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="235,1307 927,1300 926,1230 830,1260 621,1253 549,1274 505,1254 235,1260"/>
+                <Baseline points="241,1291 275,1292 309,1292 343,1292 377,1292 411,1292 445,1291 479,1291 513,1290 547,1289 581,1289 615,1288 649,1287 683,1286 717,1286 751,1285 785,1285 819,1284 853,1284 887,1284 921,1284"/>
+                <TextEquiv>
+                    <Unicode>نأتي أمراً بمساعدته وهو عالم بقدرتها مقدر قوتها واستطاعتها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="60,1382 143,1360 301,1384 865,1367 864,1309 59,1330"/>
+                <Baseline points="65,1357 104,1358 144,1360 184,1360 223,1360 263,1360 303,1359 342,1358 382,1357 422,1356 462,1354 501,1352 541,1351 581,1349 620,1348 660,1347 700,1346 739,1346 779,1346 819,1347 859,1348"/>
+                <TextEquiv>
+                    <Unicode>أي ابتها الحسناء ان فتيات بلادنا اللواتي أغلق عليهن باب التحجب والتستر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="69,1443 594,1415 653,1440 700,1419 882,1434 921,1427 920,1372 281,1377 129,1408 68,1388"/>
+                <Baseline points="74,1422 116,1423 158,1423 200,1422 242,1422 284,1421 326,1420 368,1419 410,1418 452,1417 494,1416 536,1415 578,1414 620,1413 662,1412 704,1411 746,1411 788,1410 830,1410 872,1410 915,1410"/>
+                <TextEquiv>
+                    <Unicode>ليلقي في نفوسهم بذرة التهامل والخمول أو ليدفعهن الى حب التقليد الأعمى سوف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="54,1513 478,1483 924,1497 938,1447 721,1429 240,1465 123,1442 53,1471"/>
+                <Baseline points="59,1493 102,1492 146,1491 190,1490 233,1488 277,1486 321,1485 364,1482 408,1481 452,1479 496,1477 539,1476 583,1475 627,1474 670,1473 714,1473 758,1473 801,1473 845,1475 889,1477 933,1479"/>
+                <TextEquiv>
+                    <Unicode>ينظرون من وراء النوافذ الى أشعتك الباهرة وإشراقك الزاهي فتدب الحرارة وتلمس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>لمة الى الحسناء
+٥
+المؤيدة لعز الإسلام يرى لامرأة أثاراً مشكورة أفادت المذهب المحمدي
+أفادات مذكورة. هذا فضلاً عن خدمتها للرسول في حياته خدمات مائورة
+وبعد قتل الحاكم بأمر الله ولي الدروز الأعظم قولت شوون قومه
+أخته ست الملك الى أن بلغ ابنه سن الرشد وكانت ذكية عاقلة حازمة
+أفادت مذهباً أفادات أيدته الى اليوم
+ولو شئنا نعدد أسماء الآلاهات وتحصي عدد الكاهنات والنبيات وتذكر
+بالتفصيل كل الشهيدات والقديسات والوليات عند كل الأمم قديمها وحديئها
+لضاق بنا المقام مهيماً فسح واحتجنا الى وقت آخر وصفحات لا تحصى هذا
+إذا كان ذلك بالإمكان بيد أنه مستحيل
+كلم اللي الحسناء
+للمرة الأولى تخطر الحسناء في أنحاء الشرق لتتفقد أحوال بنائه ونسأل من فيه
+عن ذوات القناع
+للمرة الأولى تمسح حواء الشرقة دمعة الذل والباس وترفع أنظارها الى
+العالم المضطرب فتراه عيوناً شاخصة إليها ثم يرتو بطرف كسير كمن يستجير
+ويسترحم فتندهش من رؤيته بهذه الحال لعلمها أنها لا تستطيع أن يبدي شيئاً أو
+نأتي أمراً بمساعدته وهو عالم بقدرتها مقدر قوتها واستطاعتها
+أي ابتها الحسناء ان فتيات بلادنا اللواتي أغلق عليهن باب التحجب والتستر
+ليلقي في نفوسهم بذرة التهامل والخمول أو ليدفعهن الى حب التقليد الأعمى سوف
+ينظرون من وراء النوافذ الى أشعتك الباهرة وإشراقك الزاهي فتدب الحرارة وتلمس</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

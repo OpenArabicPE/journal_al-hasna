@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:28.381+02:00</Created>
+        <LastChange>2020-04-02T16:25:08.001+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088788" pageNr="202" tsid="26895630" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=TFSLYSUBNGLCUTXHMIVQZLAD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NDEWNDJWTWJDXMBHKPDFYTFJ" imageId="10178542"/>
+    </Metadata>
+    <Page imageFilename="190912_001_L.jpg" imageWidth="1000" imageHeight="1434">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855756767" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="130,140 130,1336 922,1336 922,140"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="320,198 364,194 398,213 540,200 578,211 635,180 666,186 664,149 652,147 604,156 578,142 546,169 493,180 471,167 447,178 414,171 356,138 318,152"/>
+                <Baseline points="325,187 350,193 376,197 402,200 428,202 453,202 479,202 505,200 531,198 556,195 582,191 608,186 634,181 660,176"/>
+                <TextEquiv>
+                    <Unicode>كماب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="725,297 739,300 764,290 820,299 838,282 852,281 851,233 819,241 800,237 778,249 767,245 763,248 755,242 725,257"/>
+                <Baseline points="730,283 759,283 788,285 817,285 847,279"/>
+                <TextEquiv>
+                    <Unicode>الجزءُ السابع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="174,312 187,311 191,306 205,308 211,302 223,303 232,297 266,305 298,297 295,241 265,248 257,242 250,248 236,243 231,250 216,248 196,264 171,263"/>
+                <Baseline points="178,301 206,301 235,301 264,299 293,295"/>
+                <TextEquiv>
+                    <Unicode>المحلد الأول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="273,383 408,393 469,381 491,393 560,382 611,396 668,379 733,384 733,360 626,357 596,337 457,339 397,359 273,347"/>
+                <Baseline points="278,374 303,378 328,380 353,381 378,382 403,382 428,382 453,382 478,382 503,381 528,381 553,380 578,380 603,379 628,379 653,380 678,380 703,382 728,384"/>
+                <TextEquiv>
+                    <Unicode>بيروت في ٢٠ كانون الأول سنة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="463,500 483,496 495,505 504,498 520,507 527,501 549,504 561,500 571,495 571,455 542,460 534,452 510,449 499,459 489,453 480,462 463,460"/>
+                <Baseline points="468,492 500,493 533,493 566,493"/>
+                <TextEquiv>
+                    <Unicode>هباً مما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="415,647 486,638 517,653 549,633 583,645 613,643 613,609 591,614 531,599 517,589 472,594 458,605 415,599"/>
+                <Baseline points="420,632 446,632 473,631 500,630 527,630 554,630 581,631 608,633"/>
+                <TextEquiv>
+                    <Unicode>مهد العلم الحديث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="130,726 237,697 304,716 402,695 825,714 825,670 722,652 503,676 370,654 257,677 199,644 130,666"/>
+                <Baseline points="135,691 169,691 203,691 237,691 272,691 306,691 340,691 374,691 409,691 443,691 477,691 511,692 546,692 580,692 614,693 648,694 683,695 717,696 751,698 785,699 820,701"/>
+                <TextEquiv>
+                    <Unicode>في الرواية من يدك سيدتي فأقص عليك قصة حقيقية محورها المرأة والعلم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="127,759 498,757 677,787 835,754 884,778 920,762 920,709 807,712 758,744 696,717 127,727"/>
+                <Baseline points="132,750 171,751 210,751 249,752 288,752 327,753 366,753 406,754 445,754 484,755 523,755 562,755 601,755 640,755 680,755 719,755 758,755 797,754 836,754 875,753 915,752"/>
+                <TextEquiv>
+                    <Unicode>وقطرها التعصب والظلم. تعالى معي فاحدثك ماشياً فتفهمين كلامي ماشيه.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="125,817 726,822 786,844 917,836 918,795 602,777 521,799 325,779 126,799"/>
+                <Baseline points="130,813 169,813 208,813 247,813 286,813 325,814 364,814 403,815 442,815 481,816 521,817 560,817 599,818 638,818 677,819 716,819 755,819 794,820 833,819 872,819 912,819"/>
+                <TextEquiv>
+                    <Unicode>نحن الآن في حي الأعيان من المدنية وها قصر الملك أمامنا وبالقرب منه المتحف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="141,892 915,900 915,846 141,853"/>
+                <Baseline points="146,880 184,879 222,878 260,877 298,876 337,876 375,876 413,876 451,877 489,877 528,877 566,878 604,879 642,879 680,879 719,880 757,880 795,880 833,880 871,879 910,878"/>
+                <TextEquiv>
+                    <Unicode>الشهير الذي بناه أحد الملوك الفاتحين. وفي هذا المتحف دار العلوم الفي يومه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="137,951 564,940 630,965 681,945 860,963 923,946 923,904 613,927 522,902 388,927 186,901 137,920"/>
+                <Baseline points="142,939 180,939 219,939 258,939 297,939 336,939 374,940 413,940 452,941 491,941 530,942 568,942 607,942 646,942 685,942 724,942 762,942 801,941 840,940 879,939 918,937"/>
+                <TextEquiv>
+                    <Unicode>الطلبة من كل حدب وصوب. من الشرق يأتون ومن الغرب ومن الجنوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="127,1009 633,1005 674,1034 920,1012 920,978 851,970 127,973"/>
+                <Baseline points="132,995 171,994 210,994 249,994 288,995 327,995 366,996 406,996 445,997 484,998 523,999 562,1000 601,1001 640,1002 680,1003 719,1004 758,1005 797,1006 836,1007 875,1007 915,1008"/>
+                <TextEquiv>
+                    <Unicode>ومن الشمال ليتلقوا العلم والفلسفة من امرأة عالمة حكيمة. اقف بك أمام هذه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="131,1078 242,1060 291,1083 343,1063 566,1091 655,1069 870,1086 920,1071 921,1030 616,1027 566,1049 530,1026 482,1046 131,1031"/>
+                <Baseline points="136,1056 177,1056 218,1056 259,1056 300,1057 341,1057 382,1058 423,1059 464,1060 505,1061 546,1063 587,1063 628,1064 669,1065 710,1065 751,1066 792,1065 833,1065 874,1064 915,1063"/>
+                <TextEquiv>
+                    <Unicode>الكلية العظيمة. كلية لا شرقية هي ولا غربية. اقف بك أمام هذا المعهد القديم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="143,1123 927,1158 928,1117 885,1102 650,1089 565,1109 391,1076 290,1105 209,1072 144,1097"/>
+                <Baseline points="149,1114 187,1115 226,1117 264,1118 303,1119 342,1120 380,1121 419,1122 458,1122 496,1123 535,1124 574,1124 612,1125 651,1125 690,1126 728,1127 767,1128 806,1129 844,1130 883,1131 922,1133"/>
+                <TextEquiv>
+                    <Unicode>وهو مهد العلوم الحديثة الذي شيده الأمراء وخلد ذكره المؤرحون والشعراء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="129,1184 412,1202 486,1182 751,1214 829,1197 927,1220 928,1172 901,1159 857,1177 592,1171 447,1138 311,1162 130,1145"/>
+                <Baseline points="135,1176 174,1177 213,1178 253,1179 292,1180 331,1182 371,1182 410,1184 449,1185 489,1186 528,1187 567,1187 607,1188 646,1189 685,1190 725,1191 764,1192 803,1193 843,1193 882,1194 922,1195"/>
+                <TextEquiv>
+                    <Unicode>ما أبهى هذه الرواقات وقد غصت بالطلبة من كل الأجناس والطبقات. وما</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="135,1262 420,1243 603,1282 660,1255 869,1280 923,1258 924,1228 801,1211 625,1236 544,1208 435,1227 347,1191 186,1231 136,1215"/>
+                <Baseline points="140,1241 178,1241 217,1240 256,1240 295,1241 334,1242 373,1243 412,1245 451,1246 490,1248 529,1250 567,1251 606,1252 645,1254 684,1255 723,1255 762,1255 801,1255 840,1254 879,1253 918,1250"/>
+                <TextEquiv>
+                    <Unicode>أعظم هذه المكتبة وفيها ما يربو على الأربعمائة ألف محلداً. ولكنها وأسفاه سوزع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="124,1314 434,1314 518,1344 737,1319 911,1362 913,1298 852,1281 742,1302 624,1274 582,1296 170,1262 125,1285"/>
+                <Baseline points="130,1296 168,1299 207,1300 246,1302 285,1305 324,1306 363,1308 402,1309 441,1311 480,1312 519,1313 557,1314 596,1315 635,1316 674,1317 713,1318 752,1319 791,1320 830,1321 869,1322 908,1323"/>
+                <TextEquiv>
+                    <Unicode>على الحمامات بعد حين. ولا يعصي العلم على ابن العاص) ولا الأربعمائة ألف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>كماب
+الجزءُ السابع
+المحلد الأول
+بيروت في ٢٠ كانون الأول سنة
+هباً مما
+مهد العلم الحديث
+في الرواية من يدك سيدتي فأقص عليك قصة حقيقية محورها المرأة والعلم
+وقطرها التعصب والظلم. تعالى معي فاحدثك ماشياً فتفهمين كلامي ماشيه.
+نحن الآن في حي الأعيان من المدنية وها قصر الملك أمامنا وبالقرب منه المتحف
+الشهير الذي بناه أحد الملوك الفاتحين. وفي هذا المتحف دار العلوم الفي يومه
+الطلبة من كل حدب وصوب. من الشرق يأتون ومن الغرب ومن الجنوب
+ومن الشمال ليتلقوا العلم والفلسفة من امرأة عالمة حكيمة. اقف بك أمام هذه
+الكلية العظيمة. كلية لا شرقية هي ولا غربية. اقف بك أمام هذا المعهد القديم
+وهو مهد العلوم الحديثة الذي شيده الأمراء وخلد ذكره المؤرحون والشعراء
+ما أبهى هذه الرواقات وقد غصت بالطلبة من كل الأجناس والطبقات. وما
+أعظم هذه المكتبة وفيها ما يربو على الأربعمائة ألف محلداً. ولكنها وأسفاه سوزع
+على الحمامات بعد حين. ولا يعصي العلم على ابن العاص) ولا الأربعمائة ألف</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

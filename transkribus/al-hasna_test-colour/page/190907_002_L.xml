@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:24.235+02:00</Created>
+        <LastChange>2020-04-02T15:51:38.386+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088555" pageNr="40" tsid="26891857" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=ELFBCKTSCMUVZPSWGNAMQRXY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PQXVEBQDDDHFINDUTSHIBKAE" imageId="10178309"/>
+    </Metadata>
+    <Page imageFilename="190907_002_L.jpg" imageWidth="1000" imageHeight="1487">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855753122" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="384,954 384,1120 705,1120 705,954"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="379,996 561,1016 643,996 701,1033 710,1031 710,925 696,917 542,954 485,929 429,964 379,966"/>
+                <Baseline points="384,1000 410,1000 437,1001 464,1002 491,1002 517,1003 544,1003 571,1003 598,1003 624,1003 651,1002 678,1000 705,997"/>
+                <TextEquiv>
+                    <Unicode>لتي ملَّم رولان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="408,1111 442,1103 524,1118 569,1104 622,1117 663,1103 664,1059 657,1057 620,1068 599,1050 572,1063 533,1047 516,1054 494,1036 441,1053 411,1041"/>
+                <Baseline points="414,1088 441,1091 468,1094 495,1096 522,1097 549,1099 576,1099 603,1099 630,1098 658,1097"/>
+                <TextEquiv>
+                    <Unicode>من السجن الى الأعداء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>لتي ملَّم رولان
+من السجن الى الأعداء</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

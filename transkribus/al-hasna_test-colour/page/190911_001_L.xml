@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:27.588+02:00</Created>
+        <LastChange>2020-04-02T16:18:20.779+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088726" pageNr="169" tsid="26894951" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=AGCQXQTJZMPMPBYRIDRLNAZY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TSDFAGLYAHTCYIRTDFTUSJWB" imageId="10178480"/>
+    </Metadata>
+    <Page imageFilename="190911_001_L.jpg" imageWidth="1000" imageHeight="1496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855756037" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="127,93 127,1455 960,1455 960,93"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="653,136 659,136 664,131 668,133 671,130 676,135 684,135 695,126 700,126 714,111 720,111 719,82 708,84 699,91 691,90 688,93 686,91 682,93 678,90 663,99 651,98"/>
+                <Baseline points="657,123 686,125 715,121"/>
+                <TextEquiv>
+                    <Unicode>ن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="525,189 564,184 572,190 609,193 635,212 672,209 668,125 640,107 629,107 605,135 588,136 565,161 549,155 523,160"/>
+                <Baseline points="530,185 557,183 584,180 611,178 638,177 666,180"/>
+                <TextEquiv>
+                    <Unicode>ه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="342,257 421,274 478,264 493,277 537,263 570,273 631,264 673,242 699,250 698,202 688,198 638,212 605,202 563,226 496,218 472,235 439,229 400,199 342,200"/>
+                <Baseline points="348,244 374,249 401,252 427,255 454,257 481,258 507,259 534,258 560,257 587,256 614,253 640,250 667,246 694,241"/>
+                <TextEquiv>
+                    <Unicode>ك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="743,362 780,349 802,356 812,349 843,361 860,355 876,362 888,355 886,301 842,290 825,302 791,295 770,302 746,287 739,288"/>
+                <Baseline points="747,349 774,347 801,347 828,346 855,344 882,340"/>
+                <TextEquiv>
+                    <Unicode>الجزء السادس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="177,375 206,377 219,364 258,364 270,371 277,365 308,368 302,286 266,295 255,306 244,304 236,312 202,296 194,300 184,294 171,295"/>
+                <Baseline points="182,369 212,366 242,363 272,362 302,359"/>
+                <TextEquiv>
+                    <Unicode>المحلد الأول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="315,456 367,469 480,468 505,455 548,468 580,456 603,469 739,463 745,407 674,428 639,404 624,418 567,407 529,425 486,405 440,415 409,404 315,426"/>
+                <Baseline points="320,437 346,442 372,445 398,447 425,448 451,449 477,448 503,448 530,446 556,445 582,444 608,443 635,443 661,443 687,444 713,446 740,450"/>
+                <TextEquiv>
+                    <Unicode>بيروت في ٢٠ تشرين الثاني سنة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="431,657 446,651 464,658 512,645 542,650 571,624 597,614 624,615 634,624 647,619 645,566 557,588 529,571 481,568 426,599"/>
+                <Baseline points="433,625 459,621 485,617 511,614 538,612 564,610 590,609 616,606 643,605"/>
+                <TextEquiv>
+                    <Unicode>مس برن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="130,738 804,718 883,748 882,691 808,674 129,688"/>
+                <Baseline points="135,727 172,727 209,727 246,726 283,726 320,725 357,724 395,723 432,721 469,720 506,720 543,718 580,718 617,718 655,717 692,717 729,718 766,719 803,721 840,723 878,725"/>
+                <TextEquiv>
+                    <Unicode>نبغ في انكلترا كثير من نخمة الفاضلات. واشتهر فيها فريق وافر من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="135,792 489,807 514,788 562,813 672,784 856,815 958,784 958,752 879,746 135,752"/>
+                <Baseline points="140,783 180,784 221,784 261,784 302,785 343,785 383,785 424,785 465,785 505,785 546,785 587,785 627,785 668,785 709,784 749,784 790,783 831,782 871,782 912,781 953,780"/>
+                <TextEquiv>
+                    <Unicode>خيرة السيدات. فبلغت شهرتهن جميع العالم المتمدن. واقترن دكرهن بالاحترام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="122,881 212,853 543,849 914,885 960,869 960,810 710,803 611,833 496,804 122,815"/>
+                <Baseline points="127,841 168,843 209,844 251,845 292,846 334,847 375,847 416,847 458,848 499,848 541,848 582,848 623,848 665,848 706,847 748,847 789,847 830,847 872,847 913,847 955,847"/>
+                <TextEquiv>
+                    <Unicode>والإكرام. لأنهم كن لبلادهم خيراً عميماً وللإنسانية نصيرات مخلصات. إذ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="135,923 957,935 957,879 135,875"/>
+                <Baseline points="140,914 180,913 221,912 261,911 302,911 343,911 383,911 424,911 464,912 505,912 546,913 586,914 627,915 667,915 708,915 749,915 789,915 830,914 870,913 911,912 952,909"/>
+                <TextEquiv>
+                    <Unicode>خدمتها جهدهن مما أوتين من الأهلية فطرة واكتساباً فنفعن قومهن نفعاً جزيلاً</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="139,990 268,967 310,991 549,980 613,1005 729,976 884,1004 955,997 956,947 140,947"/>
+                <Baseline points="145,975 185,975 225,974 265,974 306,974 346,974 386,975 426,975 467,975 507,976 547,976 587,977 628,978 668,978 708,979 748,980 789,981 829,982 869,983 909,983 950,984"/>
+                <TextEquiv>
+                    <Unicode>وقمن بواجباتهن قياماً حملاً نان بسببه مقاماً جليلاً واسماً نبيلاً. فضلاً عى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="138,1062 692,1043 890,1074 960,1049 960,1018 894,1005 138,1002"/>
+                <Baseline points="143,1034 183,1035 224,1036 264,1036 305,1037 346,1038 386,1038 427,1039 467,1039 508,1040 549,1040 589,1041 630,1041 670,1041 711,1042 752,1042 792,1042 833,1042 873,1043 914,1043 955,1043"/>
+                <TextEquiv>
+                    <Unicode>تمتعن به من الملذات الروحية السامية والمسرات الأدبية الراقية والفوائد الحسية والمعنوية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="130,1125 408,1106 660,1141 752,1116 887,1123 896,1082 735,1072 684,1096 409,1055 339,1081 286,1063 252,1088 209,1057 131,1059"/>
+                <Baseline points="136,1104 173,1103 211,1103 249,1102 286,1102 324,1103 362,1103 399,1103 437,1104 475,1105 513,1106 550,1106 588,1107 626,1108 663,1108 701,1109 739,1109 776,1109 814,1109 852,1109 890,1108"/>
+                <TextEquiv>
+                    <Unicode>وقد اختلفت الأمور التي خدمت بها تلك السدات بلادهن فافدن بها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="130,1187 473,1170 786,1207 960,1185 961,1123 899,1152 810,1131 718,1152 130,1137"/>
+                <Baseline points="135,1165 176,1164 217,1165 258,1165 299,1165 340,1166 381,1167 422,1168 463,1169 504,1170 545,1171 586,1172 627,1172 668,1173 709,1173 750,1174 791,1174 832,1174 873,1173 914,1173 955,1172"/>
+                <TextEquiv>
+                    <Unicode>الناس اختلافاً بيناً لا بد منه للعمران والارتقاء وتنوعت وفقاً لحاجات الزمان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="138,1243 752,1245 807,1266 845,1240 959,1255 960,1204 313,1186 138,1208"/>
+                <Baseline points="143,1233 183,1231 224,1230 264,1230 305,1229 346,1229 386,1230 427,1231 467,1231 508,1232 549,1233 589,1234 630,1235 670,1237 711,1238 752,1239 792,1239 833,1240 873,1240 914,1240 955,1239"/>
+                <TextEquiv>
+                    <Unicode>والمكان. فمنهن الكاتبة والعالمة والخطيبة والشاعرة والمعلمة والواعظة ومبهن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="141,1314 965,1318 965,1275 929,1265 355,1275 142,1253"/>
+                <Baseline points="146,1293 186,1293 227,1292 268,1292 308,1293 349,1293 390,1294 430,1295 471,1296 512,1297 553,1299 593,1300 634,1301 675,1302 715,1303 756,1303 797,1304 837,1304 878,1304 919,1303 960,1302"/>
+                <TextEquiv>
+                    <Unicode>الطبيبة والمحامية والممرضة والمحسنة والمكتشفة والمخترعة. وكل فئة عملت في</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="135,1359 267,1385 502,1365 956,1399 957,1351 880,1335 447,1325 413,1345 338,1317 242,1340 192,1308 136,1315"/>
+                <Baseline points="140,1354 180,1356 221,1358 261,1359 302,1361 343,1362 383,1364 424,1365 464,1366 505,1366 546,1367 586,1368 627,1368 667,1369 708,1369 749,1370 789,1371 830,1371 870,1372 911,1372 952,1373"/>
+                <TextEquiv>
+                    <Unicode>سبيل الإنسانية ما استطاعت لأن الناس لا غنى لهم عن أعمال الجميع مهما كانت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="145,1431 384,1432 591,1472 959,1444 960,1399 907,1421 753,1385 708,1406 600,1384 525,1402 493,1377 358,1401 147,1375"/>
+                <Baseline points="151,1421 191,1421 231,1421 271,1422 311,1422 351,1424 391,1426 432,1428 472,1429 512,1432 552,1433 592,1435 632,1437 672,1438 713,1440 753,1440 793,1440 833,1440 873,1439 913,1437 954,1435"/>
+                <TextEquiv>
+                    <Unicode>لا سيما إذا الأمست النفس ومازجت الروح كالشعر مثلاً وخصوصاً إذا تناول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ن
+ه
+ك
+الجزء السادس
+المحلد الأول
+بيروت في ٢٠ تشرين الثاني سنة
+مس برن
+نبغ في انكلترا كثير من نخمة الفاضلات. واشتهر فيها فريق وافر من
+خيرة السيدات. فبلغت شهرتهن جميع العالم المتمدن. واقترن دكرهن بالاحترام
+والإكرام. لأنهم كن لبلادهم خيراً عميماً وللإنسانية نصيرات مخلصات. إذ
+خدمتها جهدهن مما أوتين من الأهلية فطرة واكتساباً فنفعن قومهن نفعاً جزيلاً
+وقمن بواجباتهن قياماً حملاً نان بسببه مقاماً جليلاً واسماً نبيلاً. فضلاً عى
+تمتعن به من الملذات الروحية السامية والمسرات الأدبية الراقية والفوائد الحسية والمعنوية
+وقد اختلفت الأمور التي خدمت بها تلك السدات بلادهن فافدن بها
+الناس اختلافاً بيناً لا بد منه للعمران والارتقاء وتنوعت وفقاً لحاجات الزمان
+والمكان. فمنهن الكاتبة والعالمة والخطيبة والشاعرة والمعلمة والواعظة ومبهن
+الطبيبة والمحامية والممرضة والمحسنة والمكتشفة والمخترعة. وكل فئة عملت في
+سبيل الإنسانية ما استطاعت لأن الناس لا غنى لهم عن أعمال الجميع مهما كانت
+لا سيما إذا الأمست النفس ومازجت الروح كالشعر مثلاً وخصوصاً إذا تناول</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:28.130+02:00</Created>
+        <LastChange>2020-04-02T16:23:06.777+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088770" pageNr="192" tsid="26895375" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=ZEEJVBFQDYXIJLZNIKCLYPPJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SZFANAIBTRQVDXPHIUAALEFH" imageId="10178524"/>
+    </Metadata>
+    <Page imageFilename="190911_024_L.jpg" imageWidth="1000" imageHeight="1518">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855756557" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="146,37 146,1460 912,1460 912,37"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="168,81 183,81 187,77 197,81 202,79 211,80 211,22 197,20 191,25 185,26 181,22 168,20"/>
+                <Baseline points="173,70 206,70"/>
+                <TextEquiv>
+                    <Unicode>٨٣</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="484,109 499,103 568,109 586,98 633,101 629,13 614,21 598,12 575,24 554,19 543,26 534,21 528,28 502,19 481,25"/>
+                <Baseline points="488,77 515,74 543,73 571,73 599,72 627,68"/>
+                <TextEquiv>
+                    <Unicode>الهرم الرضيع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="412,212 446,219 458,208 494,210 519,190 590,210 635,184 656,191 655,131 583,138 569,149 537,130 514,128 462,163 411,157"/>
+                <Baseline points="417,188 443,189 469,189 495,189 521,189 547,189 573,188 599,187 625,186 651,185"/>
+                <TextEquiv>
+                    <Unicode>البيره الرضيع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="375,280 489,297 541,274 579,287 607,274 680,285 680,243 646,222 601,244 578,226 453,250 422,232 395,241 375,235"/>
+                <Baseline points="380,269 406,270 433,271 460,271 487,271 514,271 540,271 567,270 594,270 621,271 648,271 675,273"/>
+                <TextEquiv>
+                    <Unicode>امرأة انقذت أباها من الموت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="411,356 443,348 457,361 473,360 502,377 528,356 606,361 639,340 640,305 621,306 589,284 522,307 481,292 453,311 442,303 413,303"/>
+                <Baseline points="417,332 444,334 471,335 498,335 525,335 552,336 579,336 606,338 634,341"/>
+                <TextEquiv>
+                    <Unicode>معربة عن الإنكليزية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="150,405 499,408 602,436 701,407 788,430 910,406 911,365 865,378 800,345 747,362 700,340 538,387 437,362 370,391 318,364 291,384 217,363 151,377"/>
+                <Baseline points="155,402 192,402 230,403 267,403 305,404 342,405 380,405 417,406 455,407 492,407 530,408 567,408 605,408 642,408 680,408 717,408 755,407 792,406 830,405 867,403 905,401"/>
+                <TextEquiv>
+                    <Unicode>لقد غضب المليك على سجين من الرومان في بعض القرون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="151,488 388,464 533,501 627,469 840,491 915,478 915,434 833,457 810,436 440,448 295,417 152,457"/>
+                <Baseline points="157,475 194,471 232,468 269,466 307,465 345,465 382,465 420,466 458,467 495,468 533,470 571,471 608,473 646,474 684,475 721,476 759,475 797,474 834,473 872,470 910,466"/>
+                <TextEquiv>
+                    <Unicode>فأقسم أن يعذبه بجوع ويسعيه به كأس المنون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="150,541 515,529 550,555 731,558 753,538 917,539 917,501 795,527 587,496 501,518 356,486 261,518 211,488 150,516"/>
+                <Baseline points="155,530 192,530 230,530 268,531 306,531 344,532 382,533 419,534 457,535 495,536 533,537 571,537 609,538 647,539 684,539 722,539 760,539 798,538 836,537 874,535 912,534"/>
+                <TextEquiv>
+                    <Unicode>لذا طويت سهور وهو طاو وما بل الغليل من المعين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="150,601 395,598 482,622 532,593 573,613 657,597 834,626 917,606 918,538 757,563 567,549 425,583 384,552 273,579 151,552"/>
+                <Baseline points="155,592 192,592 230,593 268,594 306,594 344,594 382,595 419,595 457,595 495,596 533,596 571,596 609,597 647,597 684,598 722,598 760,599 798,599 836,600 874,601 912,602"/>
+                <TextEquiv>
+                    <Unicode>فأمسى في عذاب مستمر وليس له بذلك من معين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="159,664 664,666 686,685 759,664 868,688 910,674 911,617 738,639 389,607 281,631 246,611 159,644"/>
+                <Baseline points="164,659 201,659 238,659 275,659 312,659 349,659 386,659 423,659 460,659 497,659 534,660 571,660 608,661 645,661 682,662 719,663 756,664 793,666 830,667 867,669 905,671"/>
+                <TextEquiv>
+                    <Unicode>وكان له بنات مخلصات فبتن لضيقه قرحي الجفون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="157,722 394,718 440,747 540,721 879,757 906,751 908,686 778,712 658,666 456,711 399,687 333,708 158,662"/>
+                <Baseline points="162,720 199,719 236,718 273,718 310,718 347,718 384,719 421,720 458,721 495,722 532,724 569,725 606,727 643,728 680,730 717,731 754,733 791,734 828,734 865,735 902,735"/>
+                <TextEquiv>
+                    <Unicode>بذلن الجهد في استرضا علاه ليسمح عنه بالعفو المبين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="155,790 429,804 539,780 605,804 910,806 911,747 809,771 488,738 409,775 367,747 327,770 260,742 156,748"/>
+                <Baseline points="160,781 197,782 234,783 271,783 309,785 346,786 383,787 420,788 458,789 495,790 532,791 569,792 607,793 644,794 681,794 718,795 756,796 793,796 830,796 867,796 905,796"/>
+                <TextEquiv>
+                    <Unicode>فاخفق سعيهن وسئن فالاً وأفضى حالهن الى الشجون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="152,854 232,853 262,873 301,850 383,860 424,851 463,881 496,888 509,809 454,813 407,800 362,820 298,810 261,824 219,811 197,828 154,812"/>
+                <Baseline points="158,841 184,841 210,841 237,842 263,843 289,844 316,845 342,847 369,849 395,852 421,853 448,855 474,858 501,860"/>
+                <TextEquiv>
+                    <Unicode>بطرف زارف الدمع السحين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="564,863 613,871 637,857 674,872 725,857 802,880 839,863 893,869 905,865 906,814 873,810 849,827 799,822 771,834 739,820 684,836 620,818 565,822"/>
+                <Baseline points="570,853 595,854 620,855 646,856 671,858 696,859 722,860 747,860 773,861 798,861 823,861 849,860 874,859 900,857"/>
+                <TextEquiv>
+                    <Unicode>فاحداهن قد قصدته يوماً</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="159,919 233,912 262,930 348,934 387,917 444,941 504,937 505,886 485,879 407,898 375,877 355,885 301,870 271,882 258,871 218,885 193,869 179,878 160,868"/>
+                <Baseline points="164,908 189,909 215,910 241,910 267,911 292,911 318,911 344,912 370,912 395,913 421,913 447,914 473,915 499,917"/>
+                <TextEquiv>
+                    <Unicode>سيلقي حتفه في شر هون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="567,947 628,950 705,931 768,947 819,929 912,940 913,891 881,887 838,908 796,893 747,912 690,889 568,895"/>
+                <Baseline points="572,923 597,922 623,923 649,924 675,925 701,926 727,927 752,928 778,930 804,930 830,929 856,928 882,926 908,923"/>
+                <TextEquiv>
+                    <Unicode>وقالت ان والدها بنزع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="151,979 257,993 272,980 292,992 381,977 408,993 440,983 496,1001 506,941 440,940 384,917 348,934 318,925 266,942 236,935 193,962 151,956"/>
+                <Baseline points="156,979 182,977 208,975 235,974 261,974 288,974 314,974 341,975 367,976 394,978 420,979 447,981 473,983 500,985"/>
+                <TextEquiv>
+                    <Unicode>لجبر فؤاده المضنى الحزين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="558,985 666,1012 706,992 751,1009 811,997 845,1008 905,994 906,957 874,943 851,957 779,968 730,959 710,972 644,949 582,971 558,960"/>
+                <Baseline points="563,980 588,984 614,988 640,991 666,993 692,994 718,994 744,995 770,994 796,994 822,993 848,992 874,990 900,989"/>
+                <TextEquiv>
+                    <Unicode>فترغب ان تراه قبيل موت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="154,1051 271,1033 343,1061 405,1057 457,1069 496,1062 499,996 362,1023 318,998 299,1007 234,999 187,1028 155,1020"/>
+                <Baseline points="159,1038 184,1036 210,1035 235,1035 261,1035 286,1037 312,1039 337,1041 363,1042 388,1044 414,1046 439,1047 465,1049 491,1049"/>
+                <TextEquiv>
+                    <Unicode>وتربح أجر والدها الحنون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="559,1048 713,1066 739,1058 765,1071 796,1057 827,1073 867,1060 899,1077 909,1074 912,1009 813,1034 784,1030 757,1008 726,1025 636,1023 612,1038 560,1009"/>
+                <Baseline points="564,1045 590,1046 616,1048 642,1050 668,1052 695,1053 721,1055 747,1055 773,1056 800,1056 826,1057 852,1056 878,1056 905,1054"/>
+                <TextEquiv>
+                    <Unicode>فيكسب ولدها منه دعاء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="157,1106 198,1119 287,1105 406,1123 458,1112 484,1123 505,1116 507,1073 313,1061 275,1090 238,1092 199,1054 180,1062 159,1053"/>
+                <Baseline points="162,1100 188,1099 214,1099 240,1100 266,1101 292,1103 318,1105 344,1106 370,1108 396,1109 422,1109 448,1109 474,1107 500,1105"/>
+                <TextEquiv>
+                    <Unicode>إليه وليس تحنب باليمين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="550,1136 697,1131 758,1152 825,1124 879,1155 908,1151 908,1073 853,1072 807,1092 768,1077 700,1088 651,1113 588,1080 550,1085"/>
+                <Baseline points="555,1119 581,1121 608,1122 635,1122 662,1123 688,1123 715,1124 742,1124 769,1124 795,1124 822,1124 849,1123 876,1123 903,1122"/>
+                <TextEquiv>
+                    <Unicode>وآلت أن تسير بدون زادٍ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="489,1182 494,1183 499,1179 504,1183 511,1184 515,1180 527,1177 541,1182 547,1133 542,1131 531,1133 526,1129 519,1131 518,1128 512,1130 511,1127 503,1124 496,1125"/>
+                <Baseline points="496,1165 538,1170"/>
+                <TextEquiv>
+                    <Unicode>تملا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="146,1227 558,1267 911,1252 893,1216 684,1229 384,1205 315,1170 229,1196 149,1173"/>
+                <Baseline points="152,1226 189,1227 227,1228 265,1230 302,1232 340,1234 378,1236 415,1238 453,1240 491,1242 529,1245 566,1247 604,1248 642,1250 679,1251 717,1252 755,1252 792,1252 830,1251 868,1250 906,1248"/>
+                <TextEquiv>
+                    <Unicode>قد اختلفت الى سجن المعنى بلا زاد تراه لكل حين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="140,1306 233,1289 572,1330 910,1329 912,1276 878,1271 814,1296 474,1250 361,1266 143,1246"/>
+                <Baseline points="146,1282 185,1284 225,1286 265,1288 305,1291 345,1293 385,1296 425,1298 465,1300 505,1303 545,1305 585,1307 625,1309 665,1311 705,1312 745,1314 785,1315 825,1316 865,1317 905,1317"/>
+                <TextEquiv>
+                    <Unicode>ولكن بعد ما قد كاد يقضي وكان يذوب بالداء الدفين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="145,1365 254,1349 429,1387 530,1364 703,1401 733,1380 907,1393 897,1338 814,1364 789,1337 731,1355 687,1331 442,1349 362,1307 147,1322"/>
+                <Baseline points="151,1352 188,1352 226,1353 263,1354 301,1355 338,1357 376,1359 413,1361 451,1363 488,1365 526,1367 564,1370 601,1372 639,1373 676,1376 714,1377 751,1378 789,1379 826,1379 864,1379 902,1379"/>
+                <TextEquiv>
+                    <Unicode>تجدد عزمه يوماً فيوماً وصبح تائل البرء الثمين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="147,1446 205,1456 264,1432 357,1446 377,1435 437,1484 453,1474 490,1485 502,1389 399,1408 378,1392 341,1410 230,1373 191,1401 149,1406"/>
+                <Baseline points="154,1421 180,1417 206,1415 232,1414 258,1414 284,1416 310,1417 337,1421 363,1423 389,1426 415,1429 441,1432 467,1433 494,1434"/>
+                <TextEquiv>
+                    <Unicode>وظن ببنته سوء الظنون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="534,1472 619,1461 706,1483 765,1468 808,1485 906,1481 909,1406 864,1415 757,1397 650,1406 591,1384 538,1385"/>
+                <Baseline points="541,1429 566,1431 592,1433 618,1435 644,1438 669,1439 695,1441 721,1443 747,1444 773,1445 798,1445 824,1445 850,1445 876,1444 902,1443"/>
+                <TextEquiv>
+                    <Unicode>لذا ثار المليك عليه حقداً</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>٨٣
+الهرم الرضيع
+البيره الرضيع
+امرأة انقذت أباها من الموت
+معربة عن الإنكليزية
+لقد غضب المليك على سجين من الرومان في بعض القرون
+فأقسم أن يعذبه بجوع ويسعيه به كأس المنون
+لذا طويت سهور وهو طاو وما بل الغليل من المعين
+فأمسى في عذاب مستمر وليس له بذلك من معين
+وكان له بنات مخلصات فبتن لضيقه قرحي الجفون
+بذلن الجهد في استرضا علاه ليسمح عنه بالعفو المبين
+فاخفق سعيهن وسئن فالاً وأفضى حالهن الى الشجون
+بطرف زارف الدمع السحين
+فاحداهن قد قصدته يوماً
+سيلقي حتفه في شر هون
+وقالت ان والدها بنزع
+لجبر فؤاده المضنى الحزين
+فترغب ان تراه قبيل موت
+وتربح أجر والدها الحنون
+فيكسب ولدها منه دعاء
+إليه وليس تحنب باليمين
+وآلت أن تسير بدون زادٍ
+تملا
+قد اختلفت الى سجن المعنى بلا زاد تراه لكل حين
+ولكن بعد ما قد كاد يقضي وكان يذوب بالداء الدفين
+تجدد عزمه يوماً فيوماً وصبح تائل البرء الثمين
+وظن ببنته سوء الظنون
+لذا ثار المليك عليه حقداً</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

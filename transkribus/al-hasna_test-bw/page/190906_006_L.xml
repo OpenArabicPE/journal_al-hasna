@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T16:04:43.991+02:00</Created>
+        <LastChange>2020-04-02T16:18:26.698+02:00</LastChange>
+        <TranskribusMetadata docId="362919" pageId="14089867" pageNr="6" tsid="26894960" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=BSABMZWUDIUBCKBPGZIUNAWX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWGHODNHGZVWBHMIIKQTCSXA" imageId="10179589"/>
+    </Metadata>
+    <Page imageFilename="190906_006_L.tif" imageWidth="2472" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585839251651" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="426,439 426,3125 2166,3125 2166,439"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1552,496 1575,499 1587,494 1606,522 1619,524 1633,448 1610,444 1602,449 1592,447 1577,457 1560,454"/>
+                <Baseline points="1563,494 1611,503"/>
+                <TextEquiv>
+                    <Unicode>ف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1002,573 1212,507 1202,467 1106,497 1064,473 1053,475 1020,533 996,552"/>
+                <Baseline points="1010,563 1037,557 1064,551 1092,544 1119,537 1147,529 1174,521 1202,513"/>
+                <TextEquiv>
+                    <Unicode>ث</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1245,607 1262,610 1263,612 1268,613 1271,618 1284,620 1292,572 1275,569 1269,566 1264,558 1254,556"/>
+                <Baseline points="1257,605 1275,608"/>
+                <TextEquiv>
+                    <Unicode>ن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="876,731 913,749 959,723 1020,768 1156,780 1418,765 1528,722 1598,765 1647,742 1644,673 1466,645 1375,696 1318,713 1283,692 1241,718 1215,697 1154,719 1078,704 983,622 874,677"/>
+                <Baseline points="887,731 924,737 961,742 999,747 1036,751 1074,755 1111,756 1148,758 1186,759 1223,759 1261,758 1298,756 1335,753 1373,750 1410,746 1448,741 1485,735 1522,729 1560,721 1597,713 1635,704"/>
+                <TextEquiv>
+                    <Unicode>بكا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1528,983 1597,981 1619,962 1805,951 1845,976 1996,931 1993,897 1938,906 1843,873 1809,899 1763,894 1715,928 1656,893 1564,898 1523,925"/>
+                <Baseline points="1539,974 1565,969 1591,964 1617,961 1643,957 1670,955 1696,953 1722,951 1748,951 1775,950 1801,948 1827,947 1853,946 1880,942 1906,940 1932,936 1958,932 1985,926"/>
+                <TextEquiv>
+                    <Unicode> العدد الأول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="550,964 695,1000 725,983 753,1001 854,976 924,987 997,967 998,920 944,906 884,934 856,910 771,913 741,934 694,899 602,935 550,934"/>
+                <Baseline points="560,951 585,960 610,966 635,971 660,975 685,980 710,980 735,983 760,983 786,982 811,981 836,979 861,978 886,975 911,972 936,969 961,967 987,963"/>
+                <TextEquiv>
+                    <Unicode>المجلد الأول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="415,1043 2122,1006 415,1011"/>
+                <Baseline points="426,1038 510,1037 594,1034 678,1032 763,1031 847,1029 931,1027 1015,1025 1100,1023 1184,1021 1268,1019 1352,1017 1437,1014 1521,1013 1605,1011 1689,1009 1774,1007 1858,1005 1942,1004 2026,1002 2111,1001"/>
+                <TextEquiv>
+                    <Unicode>ا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1273,1115 1288,1112 1293,1108 1301,1112 1313,1107 1280,1017 1270,1021 1267,1019 1266,1022 1251,1018 1250,1021 1240,1025"/>
+                <Baseline points="1281,1106 1298,1100"/>
+                <TextEquiv>
+                    <Unicode>د</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1294,1112 1326,1101 1349,1115 1381,1098 1433,1148 1495,1109 1643,1130 1783,1091 1783,1057 1684,1037 1650,1072 1610,1081 1492,1085 1459,1053 1415,1084 1359,1064 1293,1071"/>
+                <Baseline points="1305,1116 1331,1113 1357,1111 1383,1110 1409,1110 1435,1110 1461,1112 1487,1112 1513,1113 1539,1114 1565,1115 1591,1116 1617,1115 1643,1115 1669,1113 1695,1109 1721,1105 1747,1099 1773,1092"/>
+                <TextEquiv>
+                    <Unicode>ل بيروت في ٣٢٠</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="744,1114 826,1141 876,1117 964,1111 1243,1142 1312,1136 1313,1116 1247,1106 1180,1060 1110,1097 1073,1057 963,1087 942,1067 873,1078 827,1053 745,1082"/>
+                <Baseline points="755,1110 782,1112 809,1113 837,1115 864,1115 891,1116 919,1116 946,1116 973,1118 1001,1118 1028,1118 1055,1119 1083,1119 1110,1121 1137,1122 1165,1122 1192,1125 1219,1126 1247,1128 1274,1131 1302,1133"/>
+                <TextEquiv>
+                    <Unicode>ريران سنة ١٩٠٩</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="533,1203 732,1201 731,1158 533,1167"/>
+                <Baseline points="545,1196 570,1197 595,1197 620,1197 646,1196 671,1195 696,1194 722,1193"/>
+                <TextEquiv>
+                    <Unicode>م</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="935,1369 1093,1376 1205,1420 1292,1376 1342,1403 1404,1374 1479,1395 1609,1353 1608,1314 1503,1305 1446,1327 1387,1270 1313,1331 1262,1314 1228,1332 1167,1283 1112,1324 1004,1238 934,1286"/>
+                <Baseline points="945,1359 977,1364 1010,1369 1042,1373 1075,1378 1108,1380 1140,1383 1173,1385 1206,1386 1238,1388 1271,1388 1304,1386 1336,1385 1369,1383 1402,1380 1434,1378 1467,1374 1500,1369 1532,1363 1565,1357 1598,1350"/>
+                <TextEquiv>
+                    <Unicode>حتهد ودعاع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1210,1740 1253,1742 1276,1733 1319,1768 1347,1768 1364,1750 1375,1750 1374,1690 1350,1691 1300,1642 1287,1645 1269,1664 1245,1667 1230,1682 1209,1682"/>
+                <Baseline points="1221,1733 1249,1730 1278,1727 1306,1727 1335,1728 1364,1731"/>
+                <TextEquiv>
+                    <Unicode>أن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="461,1968 1170,1899 1956,1925 2096,1880 2072,1799 1918,1862 459,1876"/>
+                <Baseline points="471,1937 551,1932 632,1928 713,1925 793,1921 874,1919 955,1916 1035,1914 1116,1913 1197,1910 1278,1908 1358,1907 1439,1905 1520,1904 1600,1901 1681,1899 1762,1898 1842,1895 1923,1891 2004,1889 2085,1884"/>
+                <TextEquiv>
+                    <Unicode>أحسن ما نصدر به الحسناء حمد ودعاء الحمد لله وللطبيعة وللأحوال على</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="440,2100 2147,2017 2054,1932 1907,1989 438,2023"/>
+                <Baseline points="449,2058 533,2060 617,2060 702,2060 786,2058 870,2056 955,2054 1039,2051 1123,2048 1208,2044 1292,2040 1376,2036 1461,2033 1545,2028 1629,2025 1714,2022 1798,2019 1882,2018 1967,2016 2051,2016 2136,2016"/>
+                <TextEquiv>
+                    <Unicode>ما تأهلنا به لخدمة الأمة. والدعاء بحفظ القوى وغنم الرصي وإحراز الثقة ودوام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="1446,2159 1590,2155 1633,2197 1684,2164 1808,2165 1873,2209 1945,2156 2052,2196 2094,2152 2150,2149 2149,2090 2119,2086 2073,2123 2016,2091 1927,2112 1901,2086 1856,2123 1741,2093 1683,2123 1647,2102 1617,2131 1554,2089 1510,2124 1445,2099"/>
+                <Baseline points="1458,2157 1492,2156 1526,2154 1560,2154 1594,2153 1628,2153 1662,2153 1696,2153 1730,2153 1764,2153 1798,2153 1832,2153 1866,2153 1900,2153 1934,2152 1968,2151 2002,2150 2036,2148 2070,2148 2104,2145 2139,2142"/>
+                <TextEquiv>
+                    <Unicode>النعم لنستطيع الثبات في الخدمة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="439,2345 1927,2310 2085,2239 437,2286"/>
+                <Baseline points="449,2328 530,2322 611,2318 692,2313 774,2310 855,2307 936,2304 1018,2301 1099,2300 1180,2298 1262,2297 1343,2295 1424,2294 1505,2292 1587,2291 1668,2288 1749,2286 1831,2283 1912,2280 1993,2276 2075,2271"/>
+                <TextEquiv>
+                    <Unicode>فقد عزمنا بعد الاتكال على اله والاعتماد على النفس واستطلاع الآراء ونيل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="434,2447 809,2481 1169,2414 2162,2404 2132,2340 433,2402"/>
+                <Baseline points="444,2445 529,2442 614,2438 700,2435 785,2433 870,2432 956,2429 1041,2429 1126,2427 1212,2426 1297,2424 1382,2423 1468,2421 1553,2420 1638,2418 1724,2415 1809,2411 1894,2408 1980,2403 2065,2397 2151,2391"/>
+                <TextEquiv>
+                    <Unicode>الاستحسان والتنشيط والوعد بالموازرة ـ بعد كل هذا عزمنا على إنشاء هذه المحلة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="2117,2566 2130,2557 2134,2544 2157,2529 2130,2488 2121,2494 2114,2526 2098,2537"/>
+                <Baseline points="2117,2546 2144,2528"/>
+                <TextEquiv>
+                    <Unicode>هم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="429,2581 710,2622 887,2564 2040,2568 2139,2529 2138,2467 1835,2521 1723,2481 1656,2534 1464,2482 649,2544 534,2506 429,2555"/>
+                <Baseline points="440,2580 524,2576 608,2572 693,2568 777,2567 862,2564 946,2562 1031,2561 1115,2560 1200,2559 1284,2558 1368,2556 1453,2555 1537,2553 1622,2552 1706,2550 1791,2547 1875,2544 1960,2540 2044,2536 2129,2531"/>
+                <TextEquiv>
+                    <Unicode>لمحنس اللطيف. لأن سورياً خالية من مثلها على ما لها من المنافع وما لنا مل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="1875,2696 1914,2692 1932,2676 1972,2710 1996,2714 2058,2672 2094,2664 2123,2676 2173,2656 2171,2613 2139,2600 2118,2609 2094,2602 2071,2627 2035,2624 2000,2602 1964,2632 1936,2607 1908,2606 1873,2634"/>
+                <Baseline points="1886,2676 1911,2671 1936,2667 1961,2664 1986,2664 2011,2663 2036,2663 2061,2663 2086,2663 2111,2661 2136,2660 2162,2655"/>
+                <TextEquiv>
+                    <Unicode>الاحتياج اليه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="454,2842 2013,2815 2043,2750 1984,2710 1810,2767 1552,2726 1252,2782 1057,2748 453,2801"/>
+                <Baseline points="465,2835 543,2832 621,2829 700,2826 778,2823 857,2820 935,2817 1013,2816 1092,2813 1170,2811 1249,2808 1327,2807 1405,2805 1484,2804 1562,2802 1641,2800 1719,2798 1797,2796 1876,2795 1954,2793 2033,2790"/>
+                <TextEquiv>
+                    <Unicode>وهكذا أصدرنا محلتنا وآمالنا وافرة بتعدد أمثالها في المستقبل. لأن النصف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="442,2995 1127,2933 1705,2931 1788,2978 2173,2917 2171,2867 2088,2857 1349,2914 772,2880 441,2954"/>
+                <Baseline points="453,2972 538,2969 624,2966 709,2964 795,2961 880,2958 966,2955 1051,2952 1137,2949 1222,2946 1308,2944 1393,2942 1479,2939 1564,2936 1650,2934 1735,2931 1821,2928 1906,2927 1992,2925 2077,2923 2163,2921"/>
+                <TextEquiv>
+                    <Unicode>اللطيف من النوع الإنساني دو حقوق وواجبات. ومن العدل والحق أن ينهم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="457,3114 2176,3066 2175,3013 2082,2987 456,3048"/>
+                <Baseline points="467,3098 556,3095 645,3092 735,3088 824,3085 914,3082 1003,3079 1092,3077 1182,3074 1271,3071 1361,3069 1450,3066 1540,3065 1629,3063 1718,3061 1808,3060 1897,3059 1987,3057 2076,3057 2166,3057"/>
+                <TextEquiv>
+                    <Unicode>بمجلات خصوصية أسوه بالنصف الشاني النشيط. وحبذا اليوم الذي تتوفر فيه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ف
+ث
+ن
+بكا
+ العدد الأول
+المجلد الأول
+ا
+د
+ل بيروت في ٣٢٠
+ريران سنة ١٩٠٩
+م
+حتهد ودعاع
+أن
+أحسن ما نصدر به الحسناء حمد ودعاء الحمد لله وللطبيعة وللأحوال على
+ما تأهلنا به لخدمة الأمة. والدعاء بحفظ القوى وغنم الرصي وإحراز الثقة ودوام
+النعم لنستطيع الثبات في الخدمة
+فقد عزمنا بعد الاتكال على اله والاعتماد على النفس واستطلاع الآراء ونيل
+الاستحسان والتنشيط والوعد بالموازرة ـ بعد كل هذا عزمنا على إنشاء هذه المحلة
+هم
+لمحنس اللطيف. لأن سورياً خالية من مثلها على ما لها من المنافع وما لنا مل
+الاحتياج اليه
+وهكذا أصدرنا محلتنا وآمالنا وافرة بتعدد أمثالها في المستقبل. لأن النصف
+اللطيف من النوع الإنساني دو حقوق وواجبات. ومن العدل والحق أن ينهم
+بمجلات خصوصية أسوه بالنصف الشاني النشيط. وحبذا اليوم الذي تتوفر فيه</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

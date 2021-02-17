@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:26.438+02:00</Created>
+        <LastChange>2020-04-02T16:08:27.204+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088636" pageNr="121" tsid="26893893" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=HVUEHDPMPWTUWHETWVDIDHTS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PBGGSDGZODJHODEKIZMAALIR" imageId="10178390"/>
+    </Metadata>
+    <Page imageFilename="190909_018_L.jpg" imageWidth="1000" imageHeight="1640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855754970" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="39,33 39,1523 940,1523 940,33"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="808,71 814,71 820,75 835,71 842,79 850,77 854,81 860,77 882,79 883,56 871,55 865,48 855,47 848,41 838,43 835,39 831,39 825,42 821,40 809,42"/>
+                <Baseline points="813,71 844,71 876,73"/>
+                <TextEquiv>
+                    <Unicode>١١٤</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="405,78 420,85 451,76 470,84 516,75 554,85 569,78 593,81 595,19 546,37 507,16 486,26 407,-6"/>
+                <Baseline points="410,73 435,71 460,71 485,71 511,73 536,74 561,76 587,77"/>
+                <TextEquiv>
+                    <Unicode>تكرى الشتيقتيل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="641,804 702,807 720,790 754,789 778,797 794,784 818,788 817,746 800,749 787,761 760,749 749,756 732,749 705,760 689,751 655,751 638,761"/>
+                <Baseline points="646,796 673,792 701,789 729,786 757,785 785,785 813,786"/>
+                <TextEquiv>
+                    <Unicode>انسة الشرتوني</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="183,811 216,802 244,807 259,792 295,787 328,804 343,793 371,792 369,762 337,770 308,749 286,758 273,750 242,777 225,773 199,751 179,760"/>
+                <Baseline points="187,799 212,795 237,792 263,789 288,788 314,787 339,786 365,784"/>
+                <TextEquiv>
+                    <Unicode>عفيفة الشربوني</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="323,924 352,935 441,927 483,908 498,923 527,917 555,936 593,910 661,911 661,846 603,844 579,856 545,834 519,853 486,843 348,860 323,852"/>
+                <Baseline points="328,907 353,906 378,904 403,903 428,903 453,903 478,903 504,904 529,904 554,905 579,906 604,906 629,906 655,907"/>
+                <TextEquiv>
+                    <Unicode>كرى الشيتين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="94,1050 266,1026 710,1048 757,1019 813,1040 908,1008 878,967 725,991 524,968 335,998 93,993"/>
+                <Baseline points="99,1028 139,1026 179,1025 219,1024 259,1023 299,1022 339,1022 380,1021 420,1021 460,1021 500,1021 540,1021 580,1020 620,1020 661,1020 701,1019 741,1018 781,1017 821,1016 861,1015 902,1012"/>
+                <TextEquiv>
+                    <Unicode>الكاتبتين الأديبتين عفيفة وأنيسة كريمتي الشيخ سعيد الشرتولي المشهور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="56,1128 165,1100 264,1121 381,1096 433,1119 641,1090 859,1105 880,1051 56,1058"/>
+                <Baseline points="62,1091 102,1091 143,1091 183,1091 224,1090 265,1090 305,1090 346,1090 386,1089 427,1089 468,1089 508,1088 549,1088 589,1088 630,1087 671,1087 711,1087 752,1087 792,1087 833,1086 874,1086"/>
+                <TextEquiv>
+                    <Unicode>في صدرك ايتهاء الحسناء ارسم ذكرى شقيقتين كانتا شقيقتي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="43,1171 758,1179 940,1159 939,1106 817,1104 754,1138 664,1111 372,1139 42,1127"/>
+                <Baseline points="48,1171 92,1167 136,1164 180,1161 225,1159 269,1158 313,1157 358,1157 402,1156 446,1156 491,1156 535,1156 579,1156 623,1156 668,1156 712,1156 756,1155 801,1153 845,1152 889,1149 934,1146"/>
+                <TextEquiv>
+                    <Unicode>فصاحة وأدب ورهرتين تاضرتين في حديقة لغة العرب دهبت بهما المنون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="43,1250 527,1226 653,1251 797,1218 838,1239 938,1228 938,1189 822,1168 622,1206 568,1179 371,1203 243,1176 153,1215 42,1197"/>
+                <Baseline points="48,1229 92,1229 136,1229 180,1229 224,1229 269,1229 313,1228 357,1228 401,1227 445,1226 490,1225 534,1224 578,1224 622,1223 666,1222 711,1220 755,1219 799,1218 843,1218 887,1217 932,1216"/>
+                <TextEquiv>
+                    <Unicode>والهفاه في سعة العباء وجرت عليهما أذيال الفناء بعد أن إدارتا كووس البلاغة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="43,1321 942,1300 930,1245 800,1270 753,1245 587,1268 438,1241 42,1266"/>
+                <Baseline points="48,1294 92,1295 136,1296 181,1296 225,1296 270,1296 314,1295 358,1294 403,1294 447,1293 492,1292 536,1291 580,1290 625,1290 669,1289 714,1288 758,1288 802,1287 847,1287 891,1288 936,1288"/>
+                <TextEquiv>
+                    <Unicode>على الأدباء وبثتاً في مقالاتهما ضياء الذكاء وتركتاً في مجلة المقتطف الرفيعة المقام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="47,1393 723,1357 836,1377 925,1348 870,1312 792,1338 400,1321 46,1343"/>
+                <Baseline points="52,1364 95,1365 138,1366 182,1367 225,1367 268,1367 312,1367 355,1366 398,1366 442,1364 485,1363 528,1362 572,1361 615,1360 658,1359 702,1358 745,1356 788,1355 832,1354 875,1354 919,1353"/>
+                <TextEquiv>
+                    <Unicode> في بعض جرائد الشام فصولاً سرى فيها نور البيان وصارت كالمصابيح</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="43,1448 630,1449 703,1426 831,1454 938,1417 937,1376 701,1404 645,1379 42,1402"/>
+                <Baseline points="48,1434 92,1434 136,1434 180,1433 224,1433 269,1432 313,1431 357,1430 401,1429 445,1429 490,1427 534,1426 578,1425 622,1424 666,1423 711,1422 755,1421 799,1420 843,1419 887,1418 932,1417"/>
+                <TextEquiv>
+                    <Unicode>الأديبات الزمان فهذه المقالات قضت لهما بعلوا الطبقة عند الكتاب وسمو الرتبة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="34,1512 277,1535 946,1498 945,1470 789,1441 741,1472 163,1456 33,1486"/>
+                <Baseline points="39,1504 84,1506 129,1506 174,1506 219,1506 264,1506 309,1505 354,1503 399,1502 444,1501 489,1499 534,1497 579,1496 624,1494 669,1493 714,1491 759,1490 804,1489 849,1488 894,1487 940,1487"/>
+                <TextEquiv>
+                    <Unicode>عند أولي الألباب فإذا جمعت تلك المقالات التي تأخي فيها البيان ودكاء الجنان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>١١٤
+تكرى الشتيقتيل
+انسة الشرتوني
+عفيفة الشربوني
+كرى الشيتين
+الكاتبتين الأديبتين عفيفة وأنيسة كريمتي الشيخ سعيد الشرتولي المشهور
+في صدرك ايتهاء الحسناء ارسم ذكرى شقيقتين كانتا شقيقتي
+فصاحة وأدب ورهرتين تاضرتين في حديقة لغة العرب دهبت بهما المنون
+والهفاه في سعة العباء وجرت عليهما أذيال الفناء بعد أن إدارتا كووس البلاغة
+على الأدباء وبثتاً في مقالاتهما ضياء الذكاء وتركتاً في مجلة المقتطف الرفيعة المقام
+ في بعض جرائد الشام فصولاً سرى فيها نور البيان وصارت كالمصابيح
+الأديبات الزمان فهذه المقالات قضت لهما بعلوا الطبقة عند الكتاب وسمو الرتبة
+عند أولي الألباب فإذا جمعت تلك المقالات التي تأخي فيها البيان ودكاء الجنان</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

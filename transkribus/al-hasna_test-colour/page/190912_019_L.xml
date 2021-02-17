@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:28.813+02:00</Created>
+        <LastChange>2020-04-02T16:28:53.542+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088824" pageNr="220" tsid="26896004" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=PXLLODVQSQUAMIUOTYKZGXSO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JPEDYHFYWHGXNTKWQHQTPPBA" imageId="10178578"/>
+    </Metadata>
+    <Page imageFilename="190912_019_L.jpg" imageWidth="1000" imageHeight="1544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855757151" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="95,30 95,1483 960,1483 960,30"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="437,72 445,72 456,82 483,79 512,65 528,78 537,74 561,79 583,72 582,30 574,27 559,35 510,30 478,31 469,37 464,32 437,34"/>
+                <Baseline points="442,65 469,65 496,65 523,66 550,65 577,63"/>
+                <TextEquiv>
+                    <Unicode>شرف العذراء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="114,95 127,96 142,89 149,93 159,86 163,86 169,91 181,89 181,51 158,48 152,43 149,46 146,43 142,45 114,44"/>
+                <Baseline points="120,75 148,78 176,75"/>
+                <TextEquiv>
+                    <Unicode>٢١١</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="403,222 428,236 471,226 490,230 530,213 563,215 646,180 645,152 619,163 590,162 533,127 508,122 471,120 399,133"/>
+                <Baseline points="406,188 432,185 458,182 484,180 510,180 536,179 562,179 588,178 614,177 640,175"/>
+                <TextEquiv>
+                    <Unicode>سرف العذراء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="449,296 467,289 484,291 490,297 512,289 569,294 567,225 553,222 541,232 523,237 507,222 490,228 478,224 447,234"/>
+                <Baseline points="453,263 480,261 508,260 535,259 563,260"/>
+                <TextEquiv>
+                    <Unicode>تابع ما قبله</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="90,372 879,354 886,288 88,314"/>
+                <Baseline points="95,353 134,351 173,350 213,349 252,348 291,347 331,346 370,345 409,344 449,343 488,342 527,341 567,340 606,338 645,337 685,336 724,335 763,333 803,332 842,330 882,328"/>
+                <TextEquiv>
+                    <Unicode>فلتعرف اذن الأسباب الراقية بها والحاطة منزلتها ولتتجنب أهانتها مطلقاً ولو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="94,447 945,416 943,354 668,385 92,389"/>
+                <Baseline points="98,418 140,417 182,416 224,415 266,414 308,413 350,413 392,412 434,411 476,410 518,409 560,408 602,407 644,405 686,404 728,402 770,401 812,399 854,397 896,395 939,393"/>
+                <TextEquiv>
+                    <Unicode>بالكلام لأنه عمل فظيع وهائل أن نرمي ثوب العذراء النقي بالأقذار والإدران</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="93,493 336,512 571,481 929,491 959,478 958,429 91,449"/>
+                <Baseline points="98,481 140,481 183,481 226,481 269,480 311,479 354,479 397,478 440,477 482,476 525,475 568,474 611,472 653,471 696,470 739,468 782,467 824,465 867,464 910,463 953,461"/>
+                <TextEquiv>
+                    <Unicode>ولسو الحظ نرى أن هذا النوع من الحديث بحق العذراء أصبح في بعض الاجتماعات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="100,567 557,551 600,573 782,542 862,566 950,547 949,493 98,505"/>
+                <Baseline points="105,549 149,549 193,548 237,547 281,547 325,546 369,545 414,545 458,544 502,543 546,542 590,541 634,540 679,539 723,537 767,536 811,533 855,531 899,529 944,526"/>
+                <TextEquiv>
+                    <Unicode>العمومية كحديث أخلاقي اجتماعي عمراني فكاهي مع أن القلب الشريف يأبى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="97,625 900,634 953,613 952,544 709,577 612,562 578,588 231,564 96,584"/>
+                <Baseline points="102,620 144,616 186,613 228,611 271,609 313,608 355,607 397,607 440,607 482,607 524,607 566,607 609,607 651,607 693,607 735,606 778,604 820,603 862,600 904,596 947,592"/>
+                <TextEquiv>
+                    <Unicode>تلطيخ اسم العذراء بقول أو عمل يسود صحيفة تاريخها. ناشدتك الله أيها الرجل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="110,689 956,691 955,633 928,619 550,651 426,628 347,657 109,636"/>
+                <Baseline points="115,675 156,676 198,676 240,676 282,676 323,676 365,676 407,676 449,675 490,674 532,673 574,672 616,672 657,670 699,669 741,668 783,667 824,665 866,664 908,662 950,661"/>
+                <TextEquiv>
+                    <Unicode>ماذا استفدت من سعيك بتعطيل اسم وشرف العذراء وهي بريئة من اتهامك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="105,756 954,751 953,700 918,690 105,707"/>
+                <Baseline points="110,741 151,741 193,741 235,741 277,740 319,740 361,740 403,739 445,739 487,739 529,738 570,738 612,737 654,736 696,736 738,735 780,734 822,734 864,733 906,732 948,732"/>
+                <TextEquiv>
+                    <Unicode>وماذا تعطي جواباً لا بنتك العذراء إذا أتيت لتقبلها فرفضت النظر الى شفتيك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="100,813 245,835 487,809 695,837 949,826 959,766 99,779"/>
+                <Baseline points="105,806 147,806 189,805 232,805 274,805 317,805 359,805 401,805 444,805 486,805 529,805 571,805 613,805 656,804 698,804 741,803 783,802 825,801 868,799 910,798 953,796"/>
+                <TextEquiv>
+                    <Unicode>الملطختين بدم نقي طاهر هو دم العذراء ماذا يا ترى أخذت جزاءك من صميرك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="101,885 706,899 955,869 948,824 716,851 556,827 464,853 376,829 100,833"/>
+                <Baseline points="106,875 148,874 190,873 232,873 274,872 316,872 358,871 401,871 443,871 485,870 527,870 569,869 611,869 653,868 696,868 738,867 780,866 822,866 864,865 906,864 949,862"/>
+                <TextEquiv>
+                    <Unicode>أيتها الأم لماذا تذمي عدراء جيرانك لدى مديحك عذراءك أو ترغبين أن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="500,957 525,967 639,945 692,964 728,947 779,961 818,945 936,958 965,946 965,895 929,888 893,914 785,883 650,911 499,901"/>
+                <Baseline points="505,934 530,938 555,939 580,940 606,941 631,941 656,941 681,940 707,939 732,938 757,937 783,935 808,935 833,934 858,934 884,934 909,935 934,937 960,939"/>
+                <TextEquiv>
+                    <Unicode>يقال عن ابنتك كما قلت انت عن غيرها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="110,1018 659,1031 905,1009 895,956 777,980 733,949 620,973 566,952 110,959"/>
+                <Baseline points="116,998 155,999 194,1000 233,1001 272,1001 312,1002 351,1003 390,1003 429,1003 468,1003 508,1004 547,1004 586,1003 625,1003 664,1003 704,1002 743,1002 782,1001 821,1001 860,1000 900,999"/>
+                <TextEquiv>
+                    <Unicode>أيها الشاب إذا كنت في مجلس تزينه العذراء فاحرص إلا تسمح لنفسك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="117,1087 918,1095 960,1073 960,1017 723,1044 117,1025"/>
+                <Baseline points="122,1068 163,1067 205,1066 246,1066 288,1065 330,1065 371,1065 413,1065 454,1065 496,1065 538,1066 579,1066 621,1066 662,1067 704,1067 746,1067 787,1067 829,1066 870,1066 912,1065 954,1064"/>
+                <TextEquiv>
+                    <Unicode>بكلمات باردة تسكت عنها العذراء خجلاً فتعطيك بسكوتها أعظم عظة وتخجيل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="108,1137 365,1168 410,1141 942,1157 939,1094 811,1088 736,1117 697,1092 460,1086 426,1110 108,1087"/>
+                <Baseline points="114,1128 155,1129 196,1129 237,1130 278,1130 319,1131 360,1131 401,1131 442,1132 483,1132 525,1132 566,1132 607,1132 648,1132 689,1133 730,1133 771,1133 812,1133 853,1133 894,1133 936,1133"/>
+                <TextEquiv>
+                    <Unicode>وأنت أيها القاصد معاشرة العذراء لا ضاعة الوقت فاعلم أنك حامل بيدك سيفاً</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="124,1207 902,1229 960,1217 961,1152 402,1178 124,1157"/>
+                <Baseline points="129,1189 170,1192 211,1195 252,1197 294,1198 335,1200 376,1201 418,1201 459,1202 500,1202 542,1202 583,1202 624,1202 665,1201 707,1201 748,1201 789,1200 831,1200 872,1200 913,1200 955,1200"/>
+                <TextEquiv>
+                    <Unicode>قاطعاً لتهرق دماً دكياً أعني دم قلب العذراء فهل ترضى أن تكون سافك دم طاهر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="111,1269 201,1292 271,1268 880,1291 881,1242 798,1228 514,1250 479,1222 375,1240 274,1216 112,1224"/>
+                <Baseline points="116,1258 155,1259 195,1260 235,1261 275,1261 315,1262 355,1262 395,1262 435,1263 475,1263 515,1264 555,1264 595,1265 635,1266 675,1266 715,1267 755,1269 795,1270 835,1271 875,1273"/>
+                <TextEquiv>
+                    <Unicode>حرص إلا تنظر إليها نظرة غير محمودة لأن هناك مكاناً مقدساً فأخلع نعلك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="488,1344 944,1352 960,1349 961,1304 800,1295 776,1309 580,1291 548,1305 489,1290"/>
+                <Baseline points="494,1328 519,1329 545,1330 570,1331 596,1332 622,1332 647,1332 673,1333 698,1333 724,1333 750,1333 775,1333 801,1333 826,1334 852,1334 878,1335 903,1335 929,1337 955,1338"/>
+                <TextEquiv>
+                    <Unicode>من رجليك وأسجد أمام هيكل الطهر والنقاء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="102,1394 302,1427 492,1404 785,1425 907,1422 908,1375 517,1370 436,1340 102,1370"/>
+                <Baseline points="107,1394 146,1394 186,1395 226,1395 266,1396 305,1396 345,1397 385,1397 425,1398 464,1398 504,1398 544,1399 584,1399 623,1399 663,1399 703,1400 743,1400 782,1400 822,1400 862,1400 902,1400"/>
+                <TextEquiv>
+                    <Unicode>وأما انت أيتها العذراء هلا عرفت اهمية مركزك في الكون هل عرفت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="272,1470 894,1492 960,1471 961,1419 492,1444 441,1422 273,1424"/>
+                <Baseline points="278,1459 311,1460 345,1461 379,1462 413,1463 447,1464 481,1465 514,1466 548,1467 582,1467 616,1468 650,1468 684,1468 718,1468 751,1468 785,1468 819,1468 853,1467 887,1466 921,1465 955,1463"/>
+                <TextEquiv>
+                    <Unicode>تأثير فضيلتك على القلوب هل عرفت مصيرك فماذا تعملين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شرف العذراء
+٢١١
+سرف العذراء
+تابع ما قبله
+فلتعرف اذن الأسباب الراقية بها والحاطة منزلتها ولتتجنب أهانتها مطلقاً ولو
+بالكلام لأنه عمل فظيع وهائل أن نرمي ثوب العذراء النقي بالأقذار والإدران
+ولسو الحظ نرى أن هذا النوع من الحديث بحق العذراء أصبح في بعض الاجتماعات
+العمومية كحديث أخلاقي اجتماعي عمراني فكاهي مع أن القلب الشريف يأبى
+تلطيخ اسم العذراء بقول أو عمل يسود صحيفة تاريخها. ناشدتك الله أيها الرجل
+ماذا استفدت من سعيك بتعطيل اسم وشرف العذراء وهي بريئة من اتهامك
+وماذا تعطي جواباً لا بنتك العذراء إذا أتيت لتقبلها فرفضت النظر الى شفتيك
+الملطختين بدم نقي طاهر هو دم العذراء ماذا يا ترى أخذت جزاءك من صميرك
+أيتها الأم لماذا تذمي عدراء جيرانك لدى مديحك عذراءك أو ترغبين أن
+يقال عن ابنتك كما قلت انت عن غيرها
+أيها الشاب إذا كنت في مجلس تزينه العذراء فاحرص إلا تسمح لنفسك
+بكلمات باردة تسكت عنها العذراء خجلاً فتعطيك بسكوتها أعظم عظة وتخجيل
+وأنت أيها القاصد معاشرة العذراء لا ضاعة الوقت فاعلم أنك حامل بيدك سيفاً
+قاطعاً لتهرق دماً دكياً أعني دم قلب العذراء فهل ترضى أن تكون سافك دم طاهر
+حرص إلا تنظر إليها نظرة غير محمودة لأن هناك مكاناً مقدساً فأخلع نعلك
+من رجليك وأسجد أمام هيكل الطهر والنقاء
+وأما انت أيتها العذراء هلا عرفت اهمية مركزك في الكون هل عرفت
+تأثير فضيلتك على القلوب هل عرفت مصيرك فماذا تعملين</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

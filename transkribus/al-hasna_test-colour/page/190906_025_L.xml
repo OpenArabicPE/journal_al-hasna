@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:23.745+02:00</Created>
+        <LastChange>2020-04-02T15:48:42.025+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088540" pageNr="25" tsid="26891627" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=OMOEKKKHXKFMIUQUVFYOYKXC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QNDMJRSCIWWQWGQVQQVGERVE" imageId="10178294"/>
+    </Metadata>
+    <Page imageFilename="190906_025_L.jpg" imageWidth="1000" imageHeight="1616">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855752803" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="5,22 5,1515 901,1515 901,22"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="343,86 364,85 385,97 437,89 455,103 471,91 490,98 518,87 539,91 540,32 516,31 477,8 454,17 438,7 429,16 418,4 346,-1"/>
+                <Baseline points="350,53 376,55 402,56 428,57 455,57 481,58 507,58 534,60"/>
+                <TextEquiv>
+                    <Unicode>تمهيد في التربية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="74,154 212,137 224,147 293,131 310,146 355,141 390,155 420,148 422,92 362,103 345,89 310,87 274,107 244,86 201,97 172,89 138,107 76,98"/>
+                <Baseline points="81,125 106,129 132,132 158,134 183,135 209,135 235,136 260,136 286,136 312,136 337,136 363,137 389,139 415,140"/>
+                <TextEquiv>
+                    <Unicode>بين ورد وبهار وخزام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="491,169 579,145 601,158 661,140 688,156 711,142 834,145 835,94 750,103 707,90 667,102 641,88 611,108 587,96 548,106 524,87 492,92"/>
+                <Baseline points="497,128 522,129 547,131 573,132 598,134 624,135 649,137 675,138 700,138 726,139 751,138 777,137 802,135 828,133"/>
+                <TextEquiv>
+                    <Unicode>بسط الزهر على أرجائه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="76,209 103,204 154,225 244,210 286,221 312,202 343,215 428,209 428,170 347,142 287,155 232,150 190,169 130,166 119,154 76,160"/>
+                <Baseline points="81,194 107,199 133,202 159,205 185,206 212,206 238,205 264,204 290,203 317,202 343,201 369,200 395,201 422,203"/>
+                <TextEquiv>
+                    <Unicode>ن يعيد الكهان أصبي من غلاه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="497,219 552,202 639,220 677,202 698,213 787,210 830,224 831,159 785,147 749,158 710,142 695,155 656,152 640,166 627,155 586,171 498,168"/>
+                <Baseline points="503,201 529,202 556,203 583,203 610,203 637,204 664,204 690,204 717,204 744,204 771,205 798,206 825,208"/>
+                <TextEquiv>
+                    <Unicode>وزلال الماء من تلك العيو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="487,284 594,278 657,297 690,278 739,300 772,285 823,292 831,243 767,247 732,223 666,244 617,239 567,216 544,230 489,225"/>
+                <Baseline points="493,267 518,268 543,269 569,269 594,270 620,270 645,271 671,272 696,272 722,273 747,275 773,275 798,277 824,278"/>
+                <TextEquiv>
+                    <Unicode>وترى الأطيار في تلك الزُبى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="64,292 104,299 144,268 170,282 260,278 280,295 301,278 344,272 423,294 424,248 331,227 289,247 201,234 139,244 114,226 65,240"/>
+                <Baseline points="71,264 97,267 124,270 151,271 177,272 204,272 231,272 257,272 284,271 311,271 337,272 364,272 391,275 418,277"/>
+                <TextEquiv>
+                    <Unicode>بين تحرون وباز ويمام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="497,340 712,362 838,344 839,313 803,303 790,313 770,297 740,316 712,302 701,312 685,302 647,310 498,293"/>
+                <Baseline points="503,333 528,335 553,336 579,338 604,339 629,339 655,339 680,339 706,339 731,339 756,339 782,339 807,339 833,339"/>
+                <TextEquiv>
+                    <Unicode>سابحات فوق أغصان النقا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="71,360 108,348 194,359 212,342 261,369 297,368 324,347 409,359 421,354 423,293 359,291 315,315 235,292 175,314 146,312 123,293 73,297"/>
+                <Baseline points="78,331 103,333 129,335 155,337 181,337 207,338 233,338 259,338 285,339 311,339 337,340 363,342 389,344 415,347"/>
+                <TextEquiv>
+                    <Unicode>بين تسجيع وتغريد الحمام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="486,428 562,423 603,406 685,426 721,416 736,432 792,409 834,423 835,370 724,389 669,362 655,372 539,363 487,383"/>
+                <Baseline points="492,402 517,403 543,403 569,405 595,406 621,407 647,409 673,410 699,411 725,411 751,411 777,410 803,408 829,405"/>
+                <TextEquiv>
+                    <Unicode>ياله من منظر زاد حو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="82,422 112,431 129,419 154,431 181,421 229,433 283,415 366,435 410,418 411,362 366,374 327,356 279,374 231,352 162,357 137,378 83,367"/>
+                <Baseline points="88,399 114,405 140,409 167,411 193,413 220,413 246,413 272,412 299,411 325,410 352,410 378,410 405,410"/>
+                <TextEquiv>
+                    <Unicode>كل ما راق على أبهي نظام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="495,498 595,475 652,500 671,489 705,501 735,483 768,506 802,481 837,489 838,431 797,425 761,452 709,432 674,449 623,424 577,437 548,424 520,436 496,428"/>
+                <Baseline points="500,470 525,472 551,474 576,475 602,476 627,477 653,477 678,478 704,478 729,477 755,477 780,477 806,476 832,475"/>
+                <TextEquiv>
+                    <Unicode>يا نسيم الصبح اقرأه السلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="58,478 155,492 197,478 294,499 331,481 370,483 386,497 420,487 421,445 333,425 272,447 129,419 59,439"/>
+                <Baseline points="63,469 88,472 113,475 138,477 163,479 188,479 213,480 239,480 264,480 289,479 314,479 339,479 364,479 389,479 415,480"/>
+                <TextEquiv>
+                    <Unicode>من مح في هوى الأوطان هام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="71,573 172,551 291,565 311,549 332,564 425,545 426,504 353,512 307,494 284,507 270,492 213,487 184,505 159,497 71,507"/>
+                <Baseline points="76,542 102,543 128,545 155,545 181,547 208,547 234,548 261,549 287,549 314,548 340,548 367,546 393,544 420,541"/>
+                <TextEquiv>
+                    <Unicode>حمعت كل سرور وسلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="501,555 543,543 570,564 610,550 662,569 835,550 836,497 826,494 780,497 767,509 690,499 659,524 637,510 577,517 531,488 503,488"/>
+                <Baseline points="507,537 533,540 560,543 587,546 614,547 641,549 668,550 694,550 721,550 748,550 775,548 802,546 829,543"/>
+                <TextEquiv>
+                    <Unicode>أنت لي يا خير أرض حنة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="499,621 542,612 580,636 605,624 628,641 665,642 777,617 843,626 843,572 800,562 773,582 745,562 693,561 669,579 622,576 592,559 539,582 499,578"/>
+                <Baseline points="505,609 530,610 556,611 581,611 607,612 633,612 658,612 684,612 709,612 735,612 761,611 786,611 812,610 838,609"/>
+                <TextEquiv>
+                    <Unicode>حبذا أيام أمس فيك يا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="68,637 124,615 253,636 328,621 363,637 434,625 434,570 414,581 372,576 320,554 291,565 253,559 229,582 136,559 69,586"/>
+                <Baseline points="74,607 99,609 124,611 149,613 175,614 200,615 225,616 251,617 276,617 301,617 326,617 352,616 377,615 402,614 428,612"/>
+                <TextEquiv>
+                    <Unicode>وطني المحبوب زالت كالمنام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="491,694 581,698 615,681 650,700 681,688 723,708 768,680 826,692 844,688 844,633 810,622 779,641 711,631 612,647 539,633 491,646"/>
+                <Baseline points="497,677 523,678 549,679 575,680 601,680 628,680 654,680 680,680 706,679 733,679 759,679 785,678 811,678 838,678"/>
+                <TextEquiv>
+                    <Unicode>طالما هيج لي تذكارها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="74,715 134,686 166,706 194,689 266,707 380,684 439,696 452,691 452,628 419,627 386,645 325,622 279,649 244,631 222,641 192,632 174,645 142,630 74,637"/>
+                <Baseline points="79,676 105,678 131,680 157,681 183,682 210,682 236,682 262,682 288,681 314,681 341,681 367,680 393,680 419,679 446,679"/>
+                <TextEquiv>
+                    <Unicode>شحناً يشعل في قلبي ضراه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="76,773 237,754 835,766 835,706 567,697 488,731 268,699 76,715"/>
+                <Baseline points="82,745 119,747 156,749 194,750 231,750 269,751 306,751 343,751 381,751 418,751 456,750 493,749 530,749 568,749 605,748 643,748 680,747 717,747 755,748 792,748 830,749"/>
+                <TextEquiv>
+                    <Unicode>يا سقى الله أويقات مضت بين أهليك الإجلاء الكرام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="74,839 572,817 830,837 837,779 689,795 517,768 455,799 417,778 296,795 178,756 74,788"/>
+                <Baseline points="79,815 116,818 154,819 191,820 229,821 267,821 304,821 342,820 380,819 417,818 455,817 493,816 530,815 568,814 606,813 643,813 681,813 719,813 756,814 794,815 832,817"/>
+                <TextEquiv>
+                    <Unicode>فلك التدكار منا دائماً ولهم من ودنا أوفى زهام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="353,888 403,898 441,888 475,895 486,886 508,899 540,888 592,893 592,852 547,860 503,853 469,862 441,847 375,863 353,860"/>
+                <Baseline points="359,881 384,883 409,884 435,885 460,885 485,884 511,883 536,882 561,881 587,881"/>
+                <TextEquiv>
+                    <Unicode>ا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="650,929 660,927 667,932 669,931 675,937 681,937 687,933 696,933 696,900 682,899 675,895 662,898 656,892 650,892"/>
+                <Baseline points="656,926 690,926"/>
+                <TextEquiv>
+                    <Unicode>ن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="226,999 287,994 359,1032 430,1018 459,1034 541,1038 560,1024 621,1039 703,985 703,945 673,938 628,961 484,910 445,924 383,910 292,956 226,961"/>
+                <Baseline points="231,991 256,990 282,990 308,989 334,989 360,989 386,989 412,989 438,989 464,989 490,989 516,989 542,989 568,989 594,989 620,989 646,989 672,989 698,988"/>
+                <TextEquiv>
+                    <Unicode> بل في الثرب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="13,1126 110,1098 590,1114 749,1088 836,1112 819,1042 630,1038 586,1061 414,1036 255,1069 103,1036 13,1057"/>
+                <Baseline points="19,1090 59,1090 100,1091 140,1091 181,1091 221,1091 262,1091 302,1091 343,1090 383,1090 424,1089 465,1089 505,1088 546,1088 586,1087 627,1087 667,1087 708,1087 748,1088 789,1089 830,1090"/>
+                <TextEquiv>
+                    <Unicode>عرف الناس قيمة التربية مذ أدركوا تأثيرها فيهم. وبعد أن رأوا نتائجها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="8,1179 493,1178 528,1154 590,1181 869,1179 894,1172 894,1092 827,1123 546,1111 482,1141 301,1109 8,1126"/>
+                <Baseline points="14,1161 57,1160 101,1160 145,1159 189,1159 232,1158 276,1158 320,1157 364,1157 407,1156 451,1156 495,1156 539,1155 582,1155 626,1155 670,1155 714,1155 757,1154 801,1155 845,1155 889,1155"/>
+                <TextEquiv>
+                    <Unicode>باه العين عنوا بأمرها واعتموا بها. وجعلوها متاسبة لأحوالهم على ما بلغت إليه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="10,1238 820,1246 905,1231 905,1200 843,1165 701,1200 9,1190"/>
+                <Baseline points="15,1228 59,1227 103,1227 147,1226 192,1226 236,1225 280,1225 324,1225 369,1225 413,1225 457,1224 501,1224 546,1224 590,1224 634,1223 678,1223 723,1222 767,1222 811,1221 855,1220 900,1219"/>
+                <TextEquiv>
+                    <Unicode>مداركهم. متيقنين بأن مستقبلهم نتيجة حاضرها وبانهم بعواملها متكيفون. وقد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="10,1306 885,1297 884,1240 716,1240 636,1271 574,1248 426,1272 347,1247 306,1271 194,1246 10,1260"/>
+                <Baseline points="15,1291 58,1292 101,1292 144,1293 187,1293 231,1294 274,1294 317,1293 360,1293 403,1293 447,1293 490,1292 533,1291 576,1291 619,1290 663,1289 706,1288 749,1287 792,1286 835,1285 879,1284"/>
+                <TextEquiv>
+                    <Unicode>كثر الحكماء والكتاب من تعمدها في البحث والوصف وتناولها بالخطابة والكتابة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="-1,1365 751,1385 891,1369 891,1316 -1,1322"/>
+                <Baseline points="5,1363 49,1362 93,1361 137,1360 181,1360 225,1360 269,1360 313,1360 357,1360 401,1360 445,1361 489,1361 533,1361 577,1361 621,1361 665,1361 709,1360 753,1360 797,1359 841,1358 886,1356"/>
+                <TextEquiv>
+                    <Unicode>حتى كادوا يغنوا عن الرجوع اليها وأوشكوا أن لا يدعوا محالاً لقائل بعد. لولا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="3,1449 898,1429 897,1380 3,1402"/>
+                <Baseline points="9,1433 53,1432 97,1430 141,1430 185,1429 229,1429 273,1429 318,1429 362,1429 406,1429 450,1429 494,1429 538,1429 582,1429 627,1428 671,1427 715,1426 759,1425 803,1423 847,1421 892,1418"/>
+                <TextEquiv>
+                    <Unicode>الناشئة الجديدة. ولو لم يزل الناس باحتياج الى التنبيه. لأن الخلف يعوزه اعتبار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="7,1525 465,1497 701,1519 907,1498 907,1458 750,1439 680,1467 7,1467"/>
+                <Baseline points="13,1500 57,1500 101,1500 146,1499 190,1499 235,1499 279,1498 323,1498 368,1497 412,1497 457,1496 501,1496 545,1495 590,1494 634,1493 679,1493 723,1492 767,1491 812,1490 856,1489 901,1488"/>
+                <TextEquiv>
+                    <Unicode>السلف. ولأن النسيان طبيعة في الإنسان ذات سطوة على الأذهان. وابن أدم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>تمهيد في التربية
+بين ورد وبهار وخزام
+بسط الزهر على أرجائه
+ن يعيد الكهان أصبي من غلاه
+وزلال الماء من تلك العيو
+وترى الأطيار في تلك الزُبى
+بين تحرون وباز ويمام
+سابحات فوق أغصان النقا
+بين تسجيع وتغريد الحمام
+ياله من منظر زاد حو
+كل ما راق على أبهي نظام
+يا نسيم الصبح اقرأه السلام
+من مح في هوى الأوطان هام
+حمعت كل سرور وسلام
+أنت لي يا خير أرض حنة
+حبذا أيام أمس فيك يا
+وطني المحبوب زالت كالمنام
+طالما هيج لي تذكارها
+شحناً يشعل في قلبي ضراه
+يا سقى الله أويقات مضت بين أهليك الإجلاء الكرام
+فلك التدكار منا دائماً ولهم من ودنا أوفى زهام
+ا
+ن
+ بل في الثرب
+عرف الناس قيمة التربية مذ أدركوا تأثيرها فيهم. وبعد أن رأوا نتائجها
+باه العين عنوا بأمرها واعتموا بها. وجعلوها متاسبة لأحوالهم على ما بلغت إليه
+مداركهم. متيقنين بأن مستقبلهم نتيجة حاضرها وبانهم بعواملها متكيفون. وقد
+كثر الحكماء والكتاب من تعمدها في البحث والوصف وتناولها بالخطابة والكتابة
+حتى كادوا يغنوا عن الرجوع اليها وأوشكوا أن لا يدعوا محالاً لقائل بعد. لولا
+الناشئة الجديدة. ولو لم يزل الناس باحتياج الى التنبيه. لأن الخلف يعوزه اعتبار
+السلف. ولأن النسيان طبيعة في الإنسان ذات سطوة على الأذهان. وابن أدم</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="826,0 826,106 861,106 861,0"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="821,64 829,63 837,66 845,64 848,60 861,65 868,63 863,13 856,15 852,20 843,21 838,17 832,16 817,21"/>
+                <Baseline points="826,56 861,53"/>
+                <TextEquiv>
+                    <Unicode>٢٠</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>٢٠</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

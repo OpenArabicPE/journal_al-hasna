@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:28.985+02:00</Created>
+        <LastChange>2020-04-02T16:30:31.974+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088839" pageNr="228" tsid="26896217" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=DOJROOCUSPUDJUCODFCLINLX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGTDATWTPYMMVBVBNIQBEPHV" imageId="10178593"/>
+    </Metadata>
+    <Page imageFilename="190912_027_L.jpg" imageWidth="1000" imageHeight="1545">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855757311" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="81,32 81,1502 945,1502 945,32"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="143,78 148,78 150,80 154,78 165,79 165,16 153,17 151,15 149,17 143,17"/>
+                <Baseline points="148,67 160,67"/>
+                <TextEquiv>
+                    <Unicode>١</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="386,80 465,70 500,82 520,73 585,81 625,73 624,22 554,21 527,7 495,29 473,24 459,31 447,22 435,30 385,26"/>
+                <Baseline points="392,73 417,71 442,70 468,69 493,68 518,67 544,67 569,67 594,66 620,66"/>
+                <TextEquiv>
+                    <Unicode>المرأة. ثمرات أفكار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="471,169 485,169 507,158 513,159 517,154 528,158 532,154 536,156 542,152 552,152 550,97 528,101 517,97 499,100 495,96 488,96 477,108 469,108"/>
+                <Baseline points="475,138 510,137 546,135"/>
+                <TextEquiv>
+                    <Unicode>المرأة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="100,223 930,211 930,178 889,158 100,172"/>
+                <Baseline points="105,212 146,210 187,209 228,208 269,208 310,207 351,207 392,207 433,207 474,207 515,207 556,207 597,207 638,207 679,207 720,206 761,206 802,205 843,204 884,203 925,202"/>
+                <TextEquiv>
+                    <Unicode>المرأة ملاك التعزية وملكة القلوب كوز أرملة صيداء. دم لا يقف وفكر لا يعجز</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="90,291 196,310 276,280 422,302 716,280 757,301 800,274 890,278 890,223 765,250 733,225 90,241"/>
+                <Baseline points="95,276 134,275 174,275 213,274 253,274 292,274 332,274 371,274 411,274 450,274 490,274 529,274 569,274 608,274 648,273 687,273 727,273 766,273 806,272 845,272 885,271"/>
+                <TextEquiv>
+                    <Unicode>المرأة. من تكسر أهدابها السعادة لا الغرور والتعاسة. من ترفع قلبها قبل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="75,352 200,376 248,347 536,375 573,343 656,369 842,344 934,362 944,282 634,317 590,288 75,310"/>
+                <Baseline points="81,340 123,340 166,341 209,341 252,341 295,342 338,342 380,343 423,343 466,343 509,344 552,344 595,344 638,345 680,345 723,345 766,345 809,345 852,345 895,344 938,344"/>
+                <TextEquiv>
+                    <Unicode>رأسها. من تكتم كل شيء عن العالم وتبوح به لزوجها. من لا يسع قلبها اثنين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="79,421 366,429 419,407 513,434 811,415 886,437 942,431 943,369 79,376"/>
+                <Baseline points="85,409 127,407 170,406 212,406 255,406 298,406 340,406 383,406 425,407 468,407 511,408 553,408 596,409 638,410 681,411 724,411 766,412 809,412 851,412 894,411 937,411"/>
+                <TextEquiv>
+                    <Unicode>من توقظ الأمن تنوم. من تنفخ روح المحبة بكل زوايا مملكتها. من تقول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="81,491 598,478 716,505 931,482 931,423 773,454 82,428"/>
+                <Baseline points="87,465 128,468 170,470 212,472 254,474 296,476 338,477 380,478 422,478 464,478 506,478 547,478 589,478 631,478 673,478 715,478 757,478 799,478 841,479 883,479 925,480"/>
+                <TextEquiv>
+                    <Unicode>لذويها أنا لكم ولستم أنتم لي. من تغتسل كل يوم بغدير الطهارة وطيب الأمانة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="489,561 579,564 605,546 657,559 677,549 711,568 762,565 783,548 798,562 894,548 932,563 944,558 945,495 635,496 571,516 551,496 490,492"/>
+                <Baseline points="495,537 521,538 547,539 573,540 599,541 625,541 651,542 677,543 703,543 729,544 755,544 781,545 807,545 833,546 859,546 885,547 911,548 938,549"/>
+                <TextEquiv>
+                    <Unicode>من تشفق ولا تنتقم. من تضمد ولا تجر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="96,631 432,612 498,636 528,613 821,639 930,616 931,563 512,585 411,558 96,568"/>
+                <Baseline points="101,602 142,602 183,603 224,603 265,603 307,604 348,605 389,605 430,606 471,607 513,608 554,608 595,609 636,610 677,610 719,611 760,611 801,611 842,611 883,611 925,611"/>
+                <TextEquiv>
+                    <Unicode>المرأة التي لا تنتصح فيها شيطان لا تسمع ولا أن قام واحد من الأموات نصدق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="536,692 548,692 564,680 578,682 587,691 599,696 610,690 620,692 620,639 601,639 585,625 576,632 566,634 548,628 535,628"/>
+                <Baseline points="541,676 578,674 615,675"/>
+                <TextEquiv>
+                    <Unicode>دمشق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="221,696 238,699 267,683 285,685 293,692 310,689 316,682 332,686 345,676 359,675 355,627 325,626 314,635 303,630 290,639 273,628 261,632 250,623 227,630 215,628"/>
+                <Baseline points="225,682 250,680 276,677 301,676 327,673 353,671"/>
+                <TextEquiv>
+                    <Unicode>ماري عجمي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="447,755 467,756 501,739 531,750 540,759 568,757 588,763 590,695 554,690 522,699 509,691 485,704 469,697 462,702 448,698"/>
+                <Baseline points="452,738 478,739 504,739 530,739 556,740 583,742"/>
+                <TextEquiv>
+                    <Unicode>ثمرات أفكار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="164,809 846,832 865,828 868,753 829,773 375,754 323,774 166,748"/>
+                <Baseline points="170,795 204,797 239,799 273,800 308,802 342,802 377,803 411,804 446,805 480,805 515,806 549,807 584,807 618,808 653,810 687,811 722,812 756,814 791,816 825,818 860,821"/>
+                <TextEquiv>
+                    <Unicode>لتي كان عقل الفتاة قائداً لقلبها أمنت سقوطه عن العرش المعد له</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="164,891 470,875 519,900 645,879 725,915 767,885 895,882 896,834 778,819 658,841 166,825"/>
+                <Baseline points="170,872 206,871 242,870 278,869 314,869 350,869 386,870 422,870 458,871 494,872 530,873 566,874 602,875 638,876 674,877 710,878 746,879 782,879 818,879 854,878 890,878"/>
+                <TextEquiv>
+                    <Unicode>بإطالة مدة علم الفتاة نقصر مدة جهلنا فمن ينفعها بالعلم ينفعنا بالرقي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="130,944 560,944 636,966 896,948 897,914 841,897 742,916 570,885 132,885"/>
+                <Baseline points="136,935 173,933 211,932 249,931 287,931 324,931 362,932 400,933 438,934 475,936 513,938 551,939 589,941 626,943 664,944 702,945 740,946 777,946 815,946 853,945 891,944"/>
+                <TextEquiv>
+                    <Unicode>قد ينقاد الشاب المتعلم الى فتاة جاهلة ولكن المتعلمة الانتقاد الى جاهل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="166,1008 614,1018 711,1041 893,1025 890,965 751,964 716,986 555,954 412,973 168,954"/>
+                <Baseline points="172,1001 207,999 243,998 279,997 315,998 351,999 386,1000 422,1001 458,1003 494,1006 530,1008 565,1010 601,1012 637,1014 673,1015 709,1016 744,1016 780,1016 816,1015 852,1012 888,1010"/>
+                <TextEquiv>
+                    <Unicode>افتكار الأم بزواج ابنتها قبل أو انها يبعدها وافتكارها بعلمها فيقر بها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="94,1081 805,1103 885,1090 887,1033 779,1051 737,1027 693,1050 634,1026 234,1037 96,1015"/>
+                <Baseline points="100,1063 139,1063 178,1062 217,1063 256,1063 295,1064 334,1065 373,1066 412,1068 451,1070 490,1072 529,1073 568,1075 607,1077 646,1078 685,1079 724,1081 763,1082 802,1082 841,1082 880,1082"/>
+                <TextEquiv>
+                    <Unicode>لو ساوت الأم بين ابنها وابنتها لتساوى الرجال والنساء في الحقوق التي يطلبنها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="147,1137 950,1166 951,1124 896,1105 149,1093"/>
+                <Baseline points="153,1121 192,1125 232,1128 271,1131 311,1134 351,1136 390,1138 430,1140 469,1141 509,1143 549,1144 588,1145 628,1146 667,1147 707,1148 747,1149 786,1151 826,1152 865,1153 905,1155 945,1156"/>
+                <TextEquiv>
+                    <Unicode>وربما يحصل عليها بطرق تضرنا ولا تنفعهن بيروت فليب سعد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="280,1272 422,1274 466,1292 626,1276 769,1296 771,1226 678,1233 635,1200 595,1221 548,1202 515,1222 418,1216 377,1194 282,1213"/>
+                <Baseline points="287,1249 312,1248 337,1247 362,1246 387,1246 412,1247 437,1247 463,1249 488,1249 513,1250 538,1252 563,1253 588,1255 614,1256 639,1257 664,1258 689,1259 714,1260 739,1260 765,1259"/>
+                <TextEquiv>
+                    <Unicode>عض المصابين بعمر الهضم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="88,1343 382,1339 429,1361 487,1341 737,1369 845,1363 868,1304 338,1275 285,1303 256,1280 90,1279"/>
+                <Baseline points="94,1327 132,1328 170,1329 208,1329 247,1331 285,1332 323,1334 362,1335 400,1337 438,1338 477,1340 515,1342 553,1344 591,1345 630,1347 668,1348 706,1349 745,1350 783,1351 821,1351 860,1352"/>
+                <TextEquiv>
+                    <Unicode>كثر المصابون بعسر الهضم في هذه الأيام كثرة تستوجب الاهتمام وصار</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="97,1412 358,1402 586,1432 629,1410 702,1443 818,1423 856,1442 929,1438 932,1381 100,1350"/>
+                <Baseline points="103,1393 144,1393 185,1394 226,1396 267,1396 308,1398 349,1399 390,1401 431,1403 472,1405 514,1407 555,1409 596,1411 637,1412 678,1415 719,1416 760,1418 801,1419 842,1420 883,1422 925,1422"/>
+                <TextEquiv>
+                    <Unicode>لبحث في هذا الموضوع مهماً لكل سيدة لأن العادات المدنية التي ينشأ عليها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="82,1462 373,1497 576,1479 675,1513 949,1498 951,1430 687,1456 463,1416 83,1424"/>
+                <Baseline points="87,1458 129,1459 172,1460 215,1461 258,1463 301,1465 344,1467 386,1469 429,1471 472,1473 515,1475 558,1477 601,1479 644,1481 686,1483 729,1484 772,1485 815,1486 858,1486 901,1486 944,1486"/>
+                <TextEquiv>
+                    <Unicode>شبابنا وشاباتنا فيها ما يضر بالمعدة ضرراً بالغاً يعقبه المرض والألم. وقد رأينا في المجلة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>١
+المرأة. ثمرات أفكار
+المرأة
+المرأة ملاك التعزية وملكة القلوب كوز أرملة صيداء. دم لا يقف وفكر لا يعجز
+المرأة. من تكسر أهدابها السعادة لا الغرور والتعاسة. من ترفع قلبها قبل
+رأسها. من تكتم كل شيء عن العالم وتبوح به لزوجها. من لا يسع قلبها اثنين
+من توقظ الأمن تنوم. من تنفخ روح المحبة بكل زوايا مملكتها. من تقول
+لذويها أنا لكم ولستم أنتم لي. من تغتسل كل يوم بغدير الطهارة وطيب الأمانة
+من تشفق ولا تنتقم. من تضمد ولا تجر
+المرأة التي لا تنتصح فيها شيطان لا تسمع ولا أن قام واحد من الأموات نصدق
+دمشق
+ماري عجمي
+ثمرات أفكار
+لتي كان عقل الفتاة قائداً لقلبها أمنت سقوطه عن العرش المعد له
+بإطالة مدة علم الفتاة نقصر مدة جهلنا فمن ينفعها بالعلم ينفعنا بالرقي
+قد ينقاد الشاب المتعلم الى فتاة جاهلة ولكن المتعلمة الانتقاد الى جاهل
+افتكار الأم بزواج ابنتها قبل أو انها يبعدها وافتكارها بعلمها فيقر بها
+لو ساوت الأم بين ابنها وابنتها لتساوى الرجال والنساء في الحقوق التي يطلبنها
+وربما يحصل عليها بطرق تضرنا ولا تنفعهن بيروت فليب سعد
+عض المصابين بعمر الهضم
+كثر المصابون بعسر الهضم في هذه الأيام كثرة تستوجب الاهتمام وصار
+لبحث في هذا الموضوع مهماً لكل سيدة لأن العادات المدنية التي ينشأ عليها
+شبابنا وشاباتنا فيها ما يضر بالمعدة ضرراً بالغاً يعقبه المرض والألم. وقد رأينا في المجلة</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

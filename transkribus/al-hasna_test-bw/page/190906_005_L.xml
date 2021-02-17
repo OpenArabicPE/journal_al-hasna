@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T16:04:43.966+02:00</Created>
+        <LastChange>2020-04-02T16:18:14.785+02:00</LastChange>
+        <TranskribusMetadata docId="362919" pageId="14089866" pageNr="5" tsid="26894942" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=NKGPOKMYDWFZYKNKPKCWPAEA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMABHFWWNFEWFXLEVIENRRTN" imageId="10179588"/>
+    </Metadata>
+    <Page imageFilename="190906_005_L.tif" imageWidth="2472" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585839251536" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="744,1084 744,2516 1839,2516 1839,1084"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="755,1111 772,1107 783,1120 807,1117 818,1126 833,1124 852,1146 861,1149 894,1131 896,1107 873,1099 867,1092 827,1092 808,1078 788,1091 757,1088"/>
+                <Baseline points="761,1107 786,1111 812,1113 838,1115 864,1115 890,1116"/>
+                <TextEquiv>
+                    <Unicode> </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="756,1164 775,1164 784,1173 800,1163 821,1166 873,1191 955,1141 955,1117 925,1137 906,1124 864,1158 851,1145 817,1138 756,1153"/>
+                <Baseline points="761,1173 788,1165 815,1164 842,1168 869,1174 896,1175 923,1171 950,1154"/>
+                <TextEquiv>
+                    <Unicode>ب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="744,1345 749,1341 772,1344 778,1322 787,1320 791,1307 809,1305 831,1282 775,1194 767,1198 737,1318 731,1324"/>
+                <Baseline points="744,1335 772,1307 799,1284 828,1286"/>
+                <TextEquiv>
+                    <Unicode>ي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="778,1350 792,1353 798,1363 805,1361 814,1365 835,1357 840,1363 850,1366 874,1312 866,1310 859,1303 847,1306 834,1289 817,1294 805,1288"/>
+                <Baseline points="794,1326 802,1349 829,1345 845,1365"/>
+                <TextEquiv>
+                    <Unicode>ل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="780,1475 797,1472 812,1454 829,1447 852,1455 865,1445 891,1460 908,1444 936,1443 930,1364 916,1361 893,1373 879,1368 851,1389 806,1365 773,1382"/>
+                <Baseline points="782,1434 811,1434 840,1436 870,1435 899,1430 929,1419"/>
+                <TextEquiv>
+                    <Unicode>الل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="750,1492 791,1499 801,1490 821,1491 832,1502 844,1499 863,1515 888,1492 902,1494 903,1459 885,1465 873,1454 842,1479 824,1462 803,1477 784,1475 775,1467 750,1476"/>
+                <Baseline points="755,1493 783,1490 811,1491 840,1493 868,1493 897,1491"/>
+                <TextEquiv>
+                    <Unicode>ا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1072,1830 1080,1829 1083,1832 1090,1832 1100,1823 1112,1825 1112,1787 1107,1787 1100,1794 1096,1794 1092,1790 1086,1789 1081,1784 1072,1785"/>
+                <Baseline points="1077,1820 1107,1820"/>
+                <TextEquiv>
+                    <Unicode>ب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1229,1852 1242,1853 1262,1844 1296,1862 1304,1858 1313,1861 1328,1849 1343,1849 1350,1785 1334,1776 1328,1781 1324,1776 1315,1782 1311,1778 1256,1822 1232,1828"/>
+                <Baseline points="1236,1835 1261,1844 1287,1847 1312,1848 1338,1847"/>
+                <TextEquiv>
+                    <Unicode>ن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1263,2215 1424,2260 1612,2234 1683,2269 1767,2233 1784,2251 1827,2244 1845,2221 1742,2203 1655,2138 1538,2132 1502,2163 1479,2139 1448,2166 1347,2121 1287,2176 1266,2163"/>
+                <Baseline points="1269,2213 1297,2217 1326,2222 1354,2225 1383,2227 1411,2230 1440,2232 1468,2235 1497,2237 1525,2240 1554,2243 1582,2244 1611,2246 1639,2246 1668,2247 1696,2246 1725,2246 1753,2246 1782,2244 1810,2243 1839,2241"/>
+                <TextEquiv>
+                    <Unicode>ا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="909,2263 924,2264 929,2260 937,2269 946,2272 962,2258 966,2261 985,2260 992,2253 997,2254 998,2222 988,2217 976,2221 971,2218 954,2231 939,2227 920,2244 910,2244"/>
+                <Baseline points="914,2253 940,2255 966,2255 992,2256"/>
+                <TextEquiv>
+                    <Unicode>ل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="772,2266 942,2296 1151,2294 1216,2262 1307,2271 1307,2236 1287,2220 1239,2234 1188,2205 1146,2232 1127,2217 1083,2258 1022,2248 907,2267 854,2249 794,2187 773,2192"/>
+                <Baseline points="777,2247 803,2257 829,2266 855,2272 882,2279 908,2281 934,2284 960,2286 987,2288 1013,2288 1039,2287 1065,2286 1092,2283 1118,2282 1144,2280 1170,2278 1197,2276 1223,2274 1249,2271 1275,2271 1302,2270"/>
+                <TextEquiv>
+                    <Unicode>م</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="985,2487 1061,2520 1102,2496 1327,2504 1371,2543 1412,2502 1503,2495 1548,2522 1643,2469 1560,2457 1462,2480 1422,2446 1385,2483 1252,2484 1164,2444 1122,2482 1059,2438 985,2471"/>
+                <Baseline points="990,2492 1022,2495 1054,2498 1087,2500 1119,2502 1152,2504 1184,2504 1216,2505 1249,2505 1281,2505 1314,2505 1346,2505 1378,2505 1411,2504 1443,2502 1476,2502 1508,2501 1540,2499 1573,2499 1605,2496 1638,2495"/>
+                <TextEquiv>
+                    <Unicode> مر أهم رأى نال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> 
+ب
+ي
+ل
+الل
+ا
+ب
+ن
+ا
+ل
+م
+ مر أهم رأى نال</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

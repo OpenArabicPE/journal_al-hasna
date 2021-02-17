@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:28.433+02:00</Created>
+        <LastChange>2020-04-02T16:25:33.094+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088792" pageNr="204" tsid="26895686" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=ATEKIGDLZRBZOKXRVZTRERBN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DEHQCZLIUYLCRYORCFDCGATC" imageId="10178546"/>
+    </Metadata>
+    <Page imageFilename="190912_003_L.jpg" imageWidth="1000" imageHeight="1508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585855756811" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="99,26 99,1440 933,1440 933,26"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="465,71 493,72 499,68 522,71 532,62 545,60 545,27 534,26 520,19 495,16 465,21"/>
+                <Baseline points="470,55 505,55 540,55"/>
+                <TextEquiv>
+                    <Unicode>هباسيا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="125,73 143,76 150,68 158,69 163,63 181,72 201,66 200,24 192,24 187,29 179,23 169,24 166,21 161,23 152,20 131,30 124,30"/>
+                <Baseline points="130,59 162,57 195,57"/>
+                <TextEquiv>
+                    <Unicode>١٩٥</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="97,152 863,136 862,87 836,81 97,96"/>
+                <Baseline points="102,129 139,129 177,129 215,128 253,128 290,127 328,126 366,126 404,125 441,124 479,124 517,123 555,123 592,122 630,122 668,122 706,122 743,122 781,122 819,123 857,123"/>
+                <TextEquiv>
+                    <Unicode>المؤرخون متفقدون في أن كلية الإسكندرية هذه كانت في زمائها أعظم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="97,219 685,194 936,214 935,157 904,143 96,162"/>
+                <Baseline points="102,199 143,198 184,196 226,195 267,194 309,193 350,192 391,191 433,190 474,189 516,189 557,188 598,187 640,187 681,187 723,186 764,186 805,185 847,185 888,184 930,184"/>
+                <TextEquiv>
+                    <Unicode>معهد للعلم في العالم. كيف لا ومن مرصدها أرصدت النجوم والكواكب التي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="95,271 932,265 932,211 95,226"/>
+                <Baseline points="100,254 141,255 182,256 224,257 265,257 306,257 348,257 389,257 430,256 472,256 513,255 554,254 596,254 637,253 678,252 720,252 761,251 802,250 844,250 885,250 927,250"/>
+                <TextEquiv>
+                    <Unicode>استنار بها فيما بعد علماء أوروبا الفلكيون. كيف لا وفيها وضعت فلسفة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="94,341 936,338 935,278 750,261 645,289 94,284"/>
+                <Baseline points="99,319 140,321 182,322 223,323 265,323 306,323 348,323 389,322 431,321 472,320 514,319 556,318 597,317 639,316 680,316 722,315 763,315 805,315 846,315 888,316 930,317"/>
+                <TextEquiv>
+                    <Unicode>ارسطا طاليس الاستقرائية موضع العمل وكان من ثمارها أن معهد بطلميوس هذا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="94,396 921,407 921,331 658,354 94,341"/>
+                <Baseline points="99,381 139,383 180,385 221,386 262,387 303,387 344,387 384,387 425,386 466,386 507,385 548,384 589,383 630,382 670,382 711,382 752,382 793,382 834,383 875,384 916,386"/>
+                <TextEquiv>
+                    <Unicode>أضحى مهد العلوم الحديثة. ومن من علماء اليوم ينكر فضل أركيدس في الرياضيات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="94,467 855,472 932,454 932,409 235,418 179,396 94,424"/>
+                <Baseline points="100,447 141,448 182,450 223,451 265,452 306,453 347,453 389,453 430,454 471,454 513,454 554,453 595,453 636,453 678,452 719,452 760,451 802,451 843,450 884,450 926,449"/>
+                <TextEquiv>
+                    <Unicode>ومن لا يذكر بطلميوس وأبولونيوس وهباركوس في علم الفلك. ومن لا يعرف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="100,516 646,548 929,516 929,479 904,475 100,473"/>
+                <Baseline points="105,509 148,512 191,514 234,515 277,516 320,516 363,516 406,516 449,515 492,515 536,514 579,513 622,512 665,512 708,511 751,511 794,511 837,511 880,511 924,513"/>
+                <TextEquiv>
+                    <Unicode>أقليدس ومبادئه في الهندسة التي يتعلمها الطلبة في المدارس حتى اليوم. وقد لا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="95,584 669,606 735,583 844,608 930,596 930,530 725,554 410,528 95,543"/>
+                <Baseline points="100,576 141,575 182,575 223,576 265,576 306,576 347,577 388,577 430,578 471,579 512,579 553,580 595,580 636,580 677,581 718,581 760,581 801,580 842,580 883,579 925,578"/>
+                <TextEquiv>
+                    <Unicode>تعلمين أن إراتوستينس وهو من علماء هذا المعها أيضاً قاس الأرض قبل علماء المأمون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="101,654 927,664 939,588 380,617 102,599"/>
+                <Baseline points="106,631 147,634 188,637 230,639 271,641 312,642 354,644 395,645 436,646 478,646 519,647 560,647 602,647 643,647 684,647 726,646 767,646 808,645 850,644 891,643 933,642"/>
+                <TextEquiv>
+                    <Unicode>واكتشف شكلها الكروي قبل كوبرنكوس وغاليليو. وإن هيرو اخترع آلتبخارية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="97,717 335,710 509,747 564,719 928,733 920,672 98,671"/>
+                <Baseline points="103,694 144,697 185,700 226,702 267,704 308,706 349,707 390,708 431,709 472,710 513,711 554,711 595,711 636,712 677,712 718,712 759,712 800,713 841,713 882,714 923,714"/>
+                <TextEquiv>
+                    <Unicode>قبل جون وائس الانكليزي. وأن تيزيبوس أول من اخترع ساعة مائية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="100,784 881,801 933,789 934,736 101,740"/>
+                <Baseline points="105,771 146,769 187,768 228,767 269,767 310,767 351,768 393,768 434,769 475,770 516,771 557,773 598,774 639,775 681,776 722,777 763,778 804,778 845,779 886,779 928,778"/>
+                <TextEquiv>
+                    <Unicode>وأن يوليوس القيصر بعث يطلب من هذا المعهد الإسكندري سوسيجينوس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="101,846 930,859 931,803 894,794 102,793"/>
+                <Baseline points="107,825 147,826 188,827 229,828 270,829 311,830 352,831 393,832 434,833 475,834 516,835 556,835 597,836 638,837 679,837 720,838 761,838 802,838 843,838 884,838 925,838"/>
+                <TextEquiv>
+                    <Unicode>الفلكي ليصلح له الروزنامة الرومانية على الحساب الشمسي. فالمعهد الذي ينبغ فيه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="97,920 144,902 917,930 918,874 98,855"/>
+                <Baseline points="103,883 143,887 183,891 224,894 264,897 305,899 345,899 386,900 426,900 467,901 507,901 547,901 588,900 628,901 669,901 709,901 750,902 790,904 831,906 871,908 912,912"/>
+                <TextEquiv>
+                    <Unicode>مثل هؤلاء العلماء العاملين لا شك عظيم والذين يلقون الدروس فيه هم أيضاً عظام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="409,1035 495,1037 535,1055 579,1044 618,1052 620,990 595,981 574,992 527,987 509,996 445,984 411,993"/>
+                <Baseline points="415,1026 443,1024 471,1023 499,1024 528,1025 556,1026 584,1028 613,1030"/>
+                <TextEquiv>
+                    <Unicode>الفيلسوفة العذراء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="105,1109 875,1109 872,1063 107,1047"/>
+                <Baseline points="111,1085 150,1085 190,1086 230,1086 270,1087 310,1088 350,1089 390,1090 430,1090 470,1091 510,1092 550,1093 590,1095 630,1096 670,1097 710,1098 750,1100 790,1101 830,1102 870,1104"/>
+                <TextEquiv>
+                    <Unicode>ومن هؤلاء سيدتي الفيلسوف ثيون الذي درس الرياضيات في القرن الرابع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="95,1151 853,1191 929,1188 931,1129 862,1149 744,1110 709,1131 96,1108"/>
+                <Baseline points="101,1141 142,1142 183,1143 224,1144 265,1145 307,1147 348,1148 389,1149 430,1151 471,1153 513,1154 554,1156 595,1158 636,1159 677,1160 719,1162 760,1163 801,1164 842,1165 883,1166 925,1167"/>
+                <TextEquiv>
+                    <Unicode>(ب م) وراقب كسوفاً سنة ٦٥ وألف في الفلك والطبيعيات تأليف درست</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="99,1227 907,1249 909,1193 815,1177 646,1205 102,1156"/>
+                <Baseline points="105,1200 144,1202 184,1204 224,1205 264,1207 304,1209 344,1211 384,1213 424,1215 464,1216 504,1218 543,1221 583,1222 623,1224 663,1225 703,1227 743,1228 783,1229 823,1230 863,1230 903,1231"/>
+                <TextEquiv>
+                    <Unicode>كلها. ولكن أعظم تأليف ثيون وأعماله ابنته البارعة هباسياً. ولدت هذه الفتاة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="100,1275 189,1304 277,1282 661,1326 807,1297 926,1312 928,1246 654,1262 102,1226"/>
+                <Baseline points="106,1263 146,1267 187,1271 228,1274 269,1277 309,1279 350,1281 391,1283 432,1284 472,1286 513,1287 554,1288 595,1289 635,1289 676,1290 717,1290 758,1291 798,1292 839,1293 880,1294 921,1295"/>
+                <TextEquiv>
+                    <Unicode>في الإسكندرية وقرأت العلوم على أبيها وكان لها ميل خاص في الرياضيات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="96,1339 368,1376 475,1350 666,1380 930,1371 921,1323 98,1296"/>
+                <Baseline points="102,1328 143,1329 184,1331 225,1333 266,1335 307,1338 348,1340 390,1343 431,1345 472,1347 513,1349 554,1352 595,1353 636,1355 678,1357 719,1358 760,1359 801,1360 842,1360 883,1359 925,1359"/>
+                <TextEquiv>
+                    <Unicode>والميكانيكيات. وقبل أن وقفت حياتها على العلم والتعليم سافرت الى آنينا وتلقت هناك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="96,1404 274,1437 402,1419 437,1443 509,1426 625,1455 914,1454 917,1390 874,1382 98,1362"/>
+                <Baseline points="102,1391 142,1392 182,1395 223,1397 263,1399 304,1401 344,1403 385,1405 425,1408 466,1410 506,1412 546,1414 587,1416 627,1418 668,1419 708,1421 749,1422 789,1424 830,1424 870,1425 911,1426"/>
+                <TextEquiv>
+                    <Unicode>الشريعة والفلسفة ورافعت في المحاكم ونشأت نشاة عجيبة دلت على مقدرة عقلية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هباسيا
+١٩٥
+المؤرخون متفقدون في أن كلية الإسكندرية هذه كانت في زمائها أعظم
+معهد للعلم في العالم. كيف لا ومن مرصدها أرصدت النجوم والكواكب التي
+استنار بها فيما بعد علماء أوروبا الفلكيون. كيف لا وفيها وضعت فلسفة
+ارسطا طاليس الاستقرائية موضع العمل وكان من ثمارها أن معهد بطلميوس هذا
+أضحى مهد العلوم الحديثة. ومن من علماء اليوم ينكر فضل أركيدس في الرياضيات
+ومن لا يذكر بطلميوس وأبولونيوس وهباركوس في علم الفلك. ومن لا يعرف
+أقليدس ومبادئه في الهندسة التي يتعلمها الطلبة في المدارس حتى اليوم. وقد لا
+تعلمين أن إراتوستينس وهو من علماء هذا المعها أيضاً قاس الأرض قبل علماء المأمون
+واكتشف شكلها الكروي قبل كوبرنكوس وغاليليو. وإن هيرو اخترع آلتبخارية
+قبل جون وائس الانكليزي. وأن تيزيبوس أول من اخترع ساعة مائية
+وأن يوليوس القيصر بعث يطلب من هذا المعهد الإسكندري سوسيجينوس
+الفلكي ليصلح له الروزنامة الرومانية على الحساب الشمسي. فالمعهد الذي ينبغ فيه
+مثل هؤلاء العلماء العاملين لا شك عظيم والذين يلقون الدروس فيه هم أيضاً عظام
+الفيلسوفة العذراء
+ومن هؤلاء سيدتي الفيلسوف ثيون الذي درس الرياضيات في القرن الرابع
+(ب م) وراقب كسوفاً سنة ٦٥ وألف في الفلك والطبيعيات تأليف درست
+كلها. ولكن أعظم تأليف ثيون وأعماله ابنته البارعة هباسياً. ولدت هذه الفتاة
+في الإسكندرية وقرأت العلوم على أبيها وكان لها ميل خاص في الرياضيات
+والميكانيكيات. وقبل أن وقفت حياتها على العلم والتعليم سافرت الى آنينا وتلقت هناك
+الشريعة والفلسفة ورافعت في المحاكم ونشأت نشاة عجيبة دلت على مقدرة عقلية</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
