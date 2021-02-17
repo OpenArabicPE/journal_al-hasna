@@ -17,6 +17,8 @@
                         </sourceDesc>
                 </fileDesc>
                 <revisionDesc>
+                        <tei:change when="2021-02-17" who="#pers_TG" xml:lang="en"
+                                >Automatically marked up references to periodicals with <tag>bibl type="periodical"</tag> and <tag>title level="j"</tag>.</tei:change>
                         <tei:change when="2021-02-17" who="#pers_TG" xml:id="d2e41"
                                 >Added automated attributes <tei:att>ed</tei:att> and <tei:att>edRef</tei:att> on all milestone elements.</tei:change>
                         <change when="2021-02-17" xml:lang="en">This file was created by automatic conversion of METS/Page XML to TEI P5 xml.</change>
@@ -7156,121 +7158,120 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l3" n="N003"/>الفهرس
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l4"
                                         n="N004"/>ا
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l5" n="N005"/>فهرس المجلد الأول من مجلة الحسناء
-            <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l6" n="N006"/>صفة
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l5" n="N005"/>فهرس المجلد الأول من <bibl change="#d2e50" subtype="journal"
+                                        type="periodical">مجلة <title change="#d2e50" level="j">الحسناء</title></bibl> <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l6" n="N006"
+                                        />صفة
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l7" n="N007"/>فة
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l8" n="N008"
+                                        />٨٧
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l9" n="N009"/>أثار أدبية (مطبوعات حديثة) ٦٢
+            <lb ed="print" edRef="#edition_1"
+                                        facs="#facs_2_r1l10" n="N010"/>قبل التربية
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l11" n="N011"/>م
             <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l8" n="N008"/>٨٧
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l9" n="N009"
-                                        />أثار أدبية (مطبوعات حديثة) ٦٢
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l10" n="N010"/>قبل التربية
+                                        edRef="#edition_1" facs="#facs_2_r1l12" n="N012"/>و ٩٥ و ١٢٥ و ١٥٩ و ١٩١ و ٢٢٢
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l13" n="N013"
+                                        />لماذا ترهبت
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l14" n="N014"/>و ٢٥٤ و ٢٨٦ و ٣١٨ و ٣٥٠ و ٣٨٢
             <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l11" n="N011"/>م
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l12" n="N012"
-                                        />و ٩٥ و ١٢٥ و ١٥٩ و ١٩١ و ٢٢٢
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l13" n="N013"/>لماذا ترهبت
-            <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l14" n="N014"/>و ٢٥٤ و ٢٨٦ و ٣١٨ و ٣٥٠ و ٣٨٢
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l15" n="N015"
-                                        />تقدمي ولا تخافي أيتها الحسناء ١٤٩
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l16" n="N016"/>٣٢٧
-            <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l17" n="N017"/>شجاعة الأسبرطيات
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l18" n="N018"
-                                        />كلمة في التمدن
+                                        edRef="#edition_1" facs="#facs_2_r1l15" n="N015"/>تقدمي ولا تخافي أيتها الحسناء ١٤٩
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l16" n="N016"
+                                        />٣٢٧
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l17" n="N017"/>شجاعة الأسبرطيات
+            <lb ed="print" edRef="#edition_1"
+                                        facs="#facs_2_r1l18" n="N018"/>كلمة في التمدن
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l19" n="N019"/>٣٧٤
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l20" n="N020"/>٢٩٦
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l21" n="N021"/>وطنية إلا لزاسيات
             <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l22" n="N022"/>جمعية تهذيب الفتاة السورية ٢٤٣
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l23" n="N023"
-                                        />و ٢٨٤ و ٣٤٥ و ٣٧٨
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l24" n="N024"/>٢٢٥
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l25" n="N025"/>جورج اليوت
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l26" n="N026"/>٣٤٦
+                                        edRef="#edition_1" facs="#facs_2_r1l20" n="N020"/>٢٩٦
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l21" n="N021"
+                                        />وطنية إلا لزاسيات
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l22" n="N022"/>جمعية تهذيب الفتاة السورية ٢٤٣
             <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l27" n="N027"/>١٥
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l28" n="N028"
-                                        />الى الإمام الى العلى
+                                        edRef="#edition_1" facs="#facs_2_r1l23" n="N023"/>و ٢٨٤ و ٣٤٥ و ٣٧٨
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l24" n="N024"
+                                        />٢٢٥
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l25" n="N025"/>جورج اليوت
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l26"
+                                        n="N026"/>٣٤٦
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l27" n="N027"/>١٥
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l28"
+                                        n="N028"/>الى الإمام الى العلى
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l29" n="N029"/>نادي الجمال
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l30" n="N030"/>١٤٥
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l31" n="N031"/>الجنس الحسن واللطيف ٢٤٨ و ٣١٢
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_2_r1l30" n="N030"/>١٤٥
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l31" n="N031"
+                                        />الجنس الحسن واللطيف ٢٤٨ و ٣١٢
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l32" n="N032"/>الى الرصافي ويكن
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_2_r1l33" n="N033"/>٢٨٥
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l34" n="N034"
+                                        />جوابات السولات ٢٤٨ و ٢٨٠
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l35" n="N035"/>أمثال وحكم برازيلية
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_2_r1l36" n="N036"/>١١٦
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l37" n="N037"/>٣٧٩
             <lb
-                                        ed="print" edRef="#edition_1" facs="#facs_2_r1l32" n="N032"/>الى الرصافي ويكن
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l33" n="N033"
-                                        />٢٨٥
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l34" n="N034"/>جوابات السولات ٢٤٨ و ٢٨٠
+                                        ed="print" edRef="#edition_1" facs="#facs_2_r1l38" n="N038"/> حسنه
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l39" n="N039"
+                                        />أم اليتيم
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l40" n="N040"/>١٦٩ و ٢٠٧
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l35" n="N035"/>أمثال وحكم برازيلية
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l36" n="N036"/>١١٦
+                                        facs="#facs_2_r1l41" n="N041"/>مسبولية الأمهات
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l42" n="N042"/>٣٠٨
             <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l37" n="N037"/>٣٧٩
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l38" n="N038"/> حسنه
-            <lb
-                                        ed="print" edRef="#edition_1" facs="#facs_2_r1l39" n="N039"/>أم اليتيم
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l40" n="N040"
-                                        />١٦٩ و ٢٠٧
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l41" n="N041"/>مسبولية الأمهات
+                                        edRef="#edition_1" facs="#facs_2_r1l43" n="N043"/>رأي في الحجاب
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l44" n="N044"
+                                        />أنا أكبر منك سناً وعقلا
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l45" n="N045"/>٣٤٤
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l42" n="N042"/>٣٠٨
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l43" n="N043"/>رأي في الحجاب
+                                        facs="#facs_2_r1l46" n="N046"/>حديث مع حسناء
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l47" n="N047"/>٨١
             <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l44" n="N044"/>أنا أكبر منك سناً وعقلا
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l45" n="N045"
-                                        />٣٤٤
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l46" n="N046"/>حديث مع حسناء
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l47" n="N047"/>٨١
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l48" n="N048"/>٣٦١
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l49" n="N049"/>٧٤
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l50" n="N050"/>حذار يا ذات السوار
+                                        edRef="#edition_1" facs="#facs_2_r1l48" n="N048"/>٣٦١
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l49" n="N049"/>٧٤
             <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l51" n="N051"/>أن الحياة عبر
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l52" n="N052"
-                                        />الخستاء
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l53" n="N053"/>٣١٥
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l54"
-                                        n="N054"/>٩
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l55" n="N055"/>ايات الشعور
+                                        edRef="#edition_1" facs="#facs_2_r1l50" n="N050"/>حذار يا ذات السوار
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l51" n="N051"
+                                        />أن الحياة عبر
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l52" n="N052"/>الخستاء
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l56" n="N056"/>٥
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l57" n="N057"/>كلمة الى الحسناء
+                                        facs="#facs_2_r1l53" n="N053"/>٣١٥
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l54" n="N054"/>٩
+            <lb ed="print" edRef="#edition_1"
+                                        facs="#facs_2_r1l55" n="N055"/>ايات الشعور
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l56" n="N056"/>٥
             <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l58" n="N058"/>١٦١
+                                        edRef="#edition_1" facs="#facs_2_r1l57" n="N057"/>كلمة الى الحسناء
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l58" n="N058"
+                                        />١٦١
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l59" n="N059"/>سن بروت
-            <lb
-                                        ed="print" edRef="#edition_1" facs="#facs_2_r1l60" n="N060"/>الحصاة الصائبة
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l61" n="N061"
-                                        />٢٥٣
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l62" n="N062"/>١٠٥
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l63"
-                                        n="N063"/>البيص
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l64" n="N064"/>حفظ الصحة
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l60"
+                                        n="N060"/>الحصاة الصائبة
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l61" n="N061"/>٢٥٣
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l65" n="N065"/>٢٦
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l66" n="N066"/>٢٥
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l67" n="N067"/>تدبير المنزل
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l68" n="N068"
-                                        />حكم وآراء ٣١و ٤ و ٩٦ و ١٢٨ و ١٦٠
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l69" n="N069"/>٩
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l70" n="N070"/>التركيب
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l71" n="N071"
-                                        />١٩٢ و٢٢٤ و ٢٥٦ و ٢٨٨ و ٣٣١ و ٣٥٢ و٣٨٤
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l72" n="N072"/>٢٢
+                                        facs="#facs_2_r1l62" n="N062"/>١٠٥
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l63" n="N063"/>البيص
             <lb ed="print"
-                                        edRef="#edition_1" facs="#facs_2_r1l73" n="N073"/>التربية والأمهات
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l74" n="N074"
-                                        />حمد ودعاء وبيان
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l75" n="N075"/>٢٠
+                                        edRef="#edition_1" facs="#facs_2_r1l64" n="N064"/>حفظ الصحة
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l65" n="N065"/>٢٦
+            <lb
+                                        ed="print" edRef="#edition_1" facs="#facs_2_r1l66" n="N066"/>٢٥
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l67" n="N067"
+                                        />تدبير المنزل
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l68" n="N068"/>حكم وآراء ٣١و ٤ و ٩٦ و ١٢٨ و ١٦٠
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_2_r1l69" n="N069"/>٩
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l70" n="N070"/>التركيب
+            <lb
+                                        ed="print" edRef="#edition_1" facs="#facs_2_r1l71" n="N071"/>١٩٢ و٢٢٤ و ٢٥٦ و ٢٨٨ و ٣٣١ و ٣٥٢ و٣٨٤
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_2_r1l76" n="N076"/>تمهيد في التربية</ab>
+                                        facs="#facs_2_r1l72" n="N072"/>٢٢
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l73" n="N073"/>التربية والأمهات
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_2_r1l74" n="N074"/>حمد ودعاء وبيان
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l75" n="N075"
+                                        />٢٠
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l76" n="N076"/>تمهيد في التربية</ab>
                                 <pb ed="print" edRef="#edition_1" facs="#facs_3" n="3" xml:id="img_0003"/>
                                 <ab facs="#facs_3_r1"> <lb ed="print" edRef="#edition_1" facs="#facs_3_r1l1" n="N001"/>الفرس
             <lb ed="print" edRef="#edition_1" facs="#facs_3_r1l2" n="N002"
@@ -8168,7 +8169,8 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_19_r1l5" n="N005"
                                         />جان ديريو في الجزائر من سنتين مجلة إسلامية أدبية إخبارية سمتها الأحياء ولم
             <lb ed="print" edRef="#edition_1" facs="#facs_19_r1l6" n="N006"
-                                        />تختصبها بالنساء. وعزم محمود بك حسيب منشيء مجلة المجلات العربية في مصر.
+                                        />تختصبها بالنساء. وعزم محمود بك حسيب منشيء <bibl change="#d2e50" subtype="journal" type="periodical">مجلة <title change="#d2e50" level="j"
+                                        >المجلات</title></bibl> العربية في مصر.
             <lb ed="print" edRef="#edition_1" facs="#facs_19_r1l7" n="N007"
                                         />في ختام سنتها الثانية أي من ستة أعوام على إنشاء مجلة نسائية ولم ينفذ عن مه
             <lb ed="print" edRef="#edition_1" facs="#facs_19_r1l8" n="N008"
@@ -8231,12 +8233,13 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l14" n="N014"
                                         />من البحث في الشوون النسائية واشتهرت في ذلك كثيراً كالمقتطف والجامعة
             <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l15" n="N015"
-                                        />والهلال والتريا والمحيط ومجلة المحلات والمحبة والهدى ولسان الحال والنصير
-            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l16" n="N016"
-                                        />ا
-            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l17" n="N017"/>لى الإمام الى العلي
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_20_r1l18" n="N018"/>للكاتبة التركية الشهيرة فريدة هانم
+                                        />والهلال والتريا والمحيط و<bibl change="#d2e50" subtype="journal" type="periodical">مجلة <title change="#d2e50" level="j"
+                                        >المحلات</title></bibl> والمحبة والهدى ولسان الحال والنصير
+            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l16" n="N016"/>ا
+            <lb
+                                        ed="print" edRef="#edition_1" facs="#facs_20_r1l17" n="N017"/>لى الإمام الى العلي
+            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l18" n="N018"
+                                        />للكاتبة التركية الشهيرة فريدة هانم
             <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l19" n="N019"
                                         />ترجمها عن اللغة الفرنسوية الكاتب المحيد انطون أفندي جميل
             <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l20" n="N020"
@@ -9101,9 +9104,10 @@
             <lb ed="print" edRef="#edition_1"
                                         facs="#facs_37_r1l11" n="N011"/>والعامي فإننن جمعة النبضة النسائية وأقدمت الأنسة أدال سمعون على الكتابة في
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_37_r1l12" n="N012"/>جريدة السلاه وتفاوضن في وجوب إنشاء مدرسة للبنات. وشرعت جمعية بعيم
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_37_r1l13" n="N013"/>نائس بتخصيص قسم من مدرستها عن
+                                        facs="#facs_37_r1l12" n="N012"/><bibl change="#d2e50" subtype="newspaper" type="periodical">جريدة <title change="#d2e50" level="j"
+                                        >السلاه</title></bibl> وتفاوضن في وجوب إنشاء مدرسة للبنات. وشرعت جمعية بعيم
+            <lb ed="print" edRef="#edition_1" facs="#facs_37_r1l13" n="N013"
+                                        />نائس بتخصيص قسم من مدرستها عن
             <lb ed="print" edRef="#edition_1" facs="#facs_37_r1l14" n="N014"
                                         />عقدت نساء أوروبا المطالبات بمساواة الرجال في الحقوق السياسية موتمراً
             <lb ed="print" edRef="#edition_1" facs="#facs_37_r1l15" n="N015"
@@ -9618,11 +9622,12 @@
             <lb ed="print" edRef="#edition_1"
                                         facs="#facs_50_r1l12" n="N012"/>بإيمانها شدة الحجودة ولكم من مذهب ما عاش لولاها ومن عقبه قدونها لم تكن
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_50_r1l13" n="N013"/>قالت مجلة المقتطف تنقلاً عن الأمير علي أحد علماء المهند ود. انتها المشاهير
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_50_r1l14" n="N014"/>ما جت أحد عن أصا الأديان إلا ورأى ان عند ينبوع كل ديانة روحبه
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_50_r1l15" n="N015"/>ثث الحياة في ذوبه
+                                        facs="#facs_50_r1l13" n="N013"/>قالت <bibl change="#d2e50" subtype="journal" type="periodical">مجلة <title change="#d2e50" level="j"
+                                        >المقتطف</title></bibl> تنقلاً عن الأمير علي أحد علماء المهند ود. انتها المشاهير
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l14" n="N014"
+                                        />ما جت أحد عن أصا الأديان إلا ورأى ان عند ينبوع كل ديانة روحبه
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l15" n="N015"
+                                        />ثث الحياة في ذوبه
             <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l16" n="N016"
                                         />وقد عرف الباحثون هذا الأمر وتأكدود ولم يبق مجال للريب فيه
             <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l17" n="N017"
@@ -11881,7 +11886,8 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_99_r1l18" n="N018"
                                         />عجمي واستماسيور. فافتتح الاحتفال فارس أفندي مشرق مدير المعرض وصاحب
             <lb ed="print" edRef="#edition_1" facs="#facs_99_r1l19" n="N019"
-                                        />امتيازه بطل النهضة اللبنانة كما وصفته جريدة المهذبت وتوال بعده الأدباء
+                                        />امتيازه بطل النهضة اللبنانة كما وصفته <bibl change="#d2e50" subtype="newspaper" type="periodical">جريدة <title change="#d2e50" level="j"
+                                        >المهذبت</title></bibl> وتوال بعده الأدباء
             <lb ed="print" edRef="#edition_1" facs="#facs_99_r1l20" n="N020"
                                         />يتكلمون شعراً ونثراً بالعربية والتركة والفرنسية وخطب الأرثوذكسي الحر
             <lb ed="print" edRef="#edition_1" facs="#facs_99_r1l21" n="N021"
@@ -12004,20 +12010,20 @@
                                         />السيد حسين وصفي رضا ومنشئ الحسناء شعارها الحرية حزب للحق على
             <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l13" n="N013"
                                         />كل حزب. وكفى به تعريفاً لها
-            <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l14" n="N014"
-                                        />المحكمة جريدة البنانية أسبوعية كبيرة الحجم مختلفة المواضيع أنشأها
-            <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l15" n="N015"
-                                        />افي جميل الكافاليير سليم أفندي وهنه منسى الميتم اللناني في صمشت محررها
-            <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l16" n="N016"
-                                        />العارون أفندي عبود محرر الروضة والنصير سابقاً وهي أول جريدة أصدرها غني لبناني
-            <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l17" n="N017"
-                                        />للالي القطوف ـ كتاب كبير يتصمن تاريخ الأسر السورية أخصها
-            <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l18" n="N018"
-                                        />الطالمالية التأليف الأستاذ عيسى أفندي إسكندر المعلوف حوى من الأمور
-            <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l19" n="N019"
-                                        />اللاليكية واللبية ما لم يحوه كتاب بعد. وهو يطلب بمن زهيد من مؤلفه
-            <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l20" n="N020"
-                                        />ومن كل المكاتب
+            <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l14" n="N014"/>المحكمة <bibl change="#d2e50" subtype="newspaper"
+                                        type="periodical">جريدة <title change="#d2e50" level="j">البنانية</title></bibl> أسبوعية كبيرة الحجم مختلفة المواضيع أنشأها
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_102_r1l15" n="N015"/>افي جميل الكافاليير سليم أفندي وهنه منسى الميتم اللناني في صمشت محررها
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_102_r1l16" n="N016"/>العارون أفندي عبود محرر الروضة والنصير سابقاً وهي أول جريدة أصدرها غني لبناني
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_102_r1l17" n="N017"/>للالي القطوف ـ كتاب كبير يتصمن تاريخ الأسر السورية أخصها
+            <lb ed="print" edRef="#edition_1"
+                                        facs="#facs_102_r1l18" n="N018"/>الطالمالية التأليف الأستاذ عيسى أفندي إسكندر المعلوف حوى من الأمور
+            <lb ed="print" edRef="#edition_1"
+                                        facs="#facs_102_r1l19" n="N019"/>اللاليكية واللبية ما لم يحوه كتاب بعد. وهو يطلب بمن زهيد من مؤلفه
+            <lb ed="print" edRef="#edition_1"
+                                        facs="#facs_102_r1l20" n="N020"/>ومن كل المكاتب
             <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l21" n="N021"
                                         />الله اللي تبين مصدر يوم عيد المستور تبعنا وفيها كما في الكتاب
             <lb ed="print" edRef="#edition_1" facs="#facs_102_r1l22" n="N022"
@@ -12246,7 +12252,8 @@
             <lb ed="print" edRef="#edition_1"
                                         facs="#facs_108_r1l2" n="N002"/>الشرفني بقتلهم وأرجو من ربي أن يجمعني بهم
             <lb ed="print" edRef="#edition_1" facs="#facs_108_r1l3" n="N003"
-                                        />وما انسب ما قرأناه في هذا المعنى في جريدة الشعب من مقالة لفرج الله أفندي خداي
+                                        />وما انسب ما قرأناه في هذا المعنى في <bibl change="#d2e50" subtype="newspaper" type="periodical">جريدة <title change="#d2e50" level="j"
+                                        >الشعب</title></bibl> من مقالة لفرج الله أفندي خداي
             <lb ed="print" edRef="#edition_1" facs="#facs_108_r1l4" n="N004"
                                         />على وطني العزيز وقفت بعسي وخدمة اله أبناء جنسي
             <lb ed="print" edRef="#edition_1" facs="#facs_108_r1l5" n="N005"
@@ -12842,9 +12849,10 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_121_r1l9" n="N009"
                                         />والهفاه في سعة العباء وجرت عليهما أذيال الفناء بعد أن إدارتا كووس البلاغة
             <lb ed="print" edRef="#edition_1" facs="#facs_121_r1l10" n="N010"
-                                        />على الأدباء وبثتاً في مقالاتهما ضياء الذكاء وتركتاً في مجلة المقتطف الرفيعة المقام
-            <lb ed="print" edRef="#edition_1" facs="#facs_121_r1l11"
-                                        n="N011"/> في بعض جرائد الشام فصولاً سرى فيها نور البيان وصارت كالمصابيح
+                                        />على الأدباء وبثتاً في مقالاتهما ضياء الذكاء وتركتاً في <bibl change="#d2e50" subtype="journal" type="periodical">مجلة <title change="#d2e50" level="j"
+                                        >المقتطف</title></bibl> الرفيعة المقام
+            <lb ed="print" edRef="#edition_1" facs="#facs_121_r1l11" n="N011"
+                                        /> في بعض جرائد الشام فصولاً سرى فيها نور البيان وصارت كالمصابيح
             <lb ed="print" edRef="#edition_1" facs="#facs_121_r1l12" n="N012"
                                         />الأديبات الزمان فهذه المقالات قضت لهما بعلوا الطبقة عند الكتاب وسمو الرتبة
             <lb ed="print" edRef="#edition_1" facs="#facs_121_r1l13" n="N013"
@@ -12911,8 +12919,9 @@
                                         />اليازجي في ولد زكي نجيب هات صغيراً
             <lb ed="print" edRef="#edition_1" facs="#facs_123_r1l8" n="N008"
                                         />ما زال ينحب دهنه من جسمه حتى براه فكان شر عدائه
-            <lb ed="print" edRef="#edition_1" facs="#facs_123_r1l9" n="N009"
-                                        />فاندفعت للتنوية بفضلهما في مجلة (الحسناء) التي لو كانتا بعد في قيد الحياة
+            <lb ed="print" edRef="#edition_1" facs="#facs_123_r1l9" n="N009"/>فاندفعت للتنوية بفضلهما في <bibl
+                                        change="#d2e50" subtype="journal" type="periodical">مجلة (<title change="#d2e50" level="j"
+                                        >الحسناء</title>)</bibl> التي لو كانتا بعد في قيد الحياة
             <lb ed="print" edRef="#edition_1" facs="#facs_123_r1l10" n="N010"
                                         />لرفلت بحلل من بدائعها وتزين جيدها بقلائد من كلامهما. . وارى ان صاحب
             <lb ed="print" edRef="#edition_1" facs="#facs_123_r1l11" n="N011"
@@ -13418,13 +13427,14 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l13" n="N013"
                                         />وغايتها ولغاتها وعلومها وسائر شروطها وشوونها مما يدل على فضل مؤسسها
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l14" n="N014"
-                                        />ورئيسها الأستاذ الشيخ أحمد عباس الأزهري منشيء جريدة الحقيقة
-            <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l15" n="N015"
+                                        />ورئيسها الأستاذ الشيخ أحمد عباس الأزهري منشيء <bibl change="#d2e50" subtype="newspaper" type="periodical">جريدة <title change="#d2e50" level="j"
+                                        >الحقيقة</title></bibl> <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l15" n="N015"
                                         />الشعب جريدة يومية سياسية أدبية تجارية تصدر في حلب صاحب
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l16" n="N016"
                                         />امتيازها ليون أفندي شوكتلي ومديرها ورئيس تحريرها فتح الله أفندي
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l17" n="N017"
-                                        />وسطون ويظهر مما طالعناه من أعدادها انها كشقيقتها جريدة التقدم دستورية لا ريب
+                                        />وسطون ويظهر مما طالعناه من أعدادها انها كشقيقتها <bibl change="#d2e50" subtype="newspaper" type="periodical">جريدة <title change="#d2e50" level="j"
+                                        >التقدم</title></bibl> دستورية لا ريب
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l18" n="N018"
                                         />فيها وشعارها انها وطنية حرة من الشعب وللشعب ومع الشعب
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l19" n="N019"
@@ -13432,7 +13442,8 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l20" n="N020"
                                         />نيويورك الى الإسكندرية حيث يعود الى إصدار محلته الجامعة وبما أن شقيقته
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l21" n="N021"
-                                        />الكاتبة الفاضلة الأنسة روزاً منشئة مجلة السيدات والبنات عائدة معه قد صرنا
+                                        />الكاتبة الفاضلة الأنسة روزاً منشئة <bibl change="#d2e50" subtype="journal" type="periodical">مجلة <title change="#d2e50" level="j"
+                                        >السيدات</title></bibl> والبنات عائدة معه قد صرنا
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l22" n="N022"
                                         />تأمل بعود رصيفتنا محلتها الكريمة الى عالم الظهور فتتحفنا بما عودتنا عليه من
             <lb ed="print" edRef="#edition_1" facs="#facs_133_r1l23" n="N023"
@@ -16079,8 +16090,8 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_193_r1l10" n="N010"
                                         />كتبت محلة الرأي العام الإنكليزية فصلاً عن محظيات عبد الحميد السلطان
             <lb ed="print" edRef="#edition_1" facs="#facs_193_r1l11" n="N011"
-                                        />السابق بعد خلعه وكيف كان اجتماعهن بأهلهن وانسبائهن ترجمته عنها جريدة المحروسة
-            <lb ed="print" edRef="#edition_1" facs="#facs_193_r1l12" n="N012"
+                                        />السابق بعد خلعه وكيف كان اجتماعهن بأهلهن وانسبائهن ترجمته عنها <bibl change="#d2e50" subtype="newspaper" type="periodical">جريدة <title change="#d2e50"
+                                        level="j">المحروسة</title></bibl> <lb ed="print" edRef="#edition_1" facs="#facs_193_r1l12" n="N012"
                                         />ومما قالته أن الحكومة لما أرسلت الأنباء البرقية الى ولايات الأناضول حيث يقطن
             <lb ed="print" edRef="#edition_1" facs="#facs_193_r1l13" n="N013"
                                         />الشركس الذين يظن أن لهم بنات وشقيقات بين حرم عبد الحمد ورغبت الى
@@ -16134,7 +16145,8 @@
             <lb ed="print" edRef="#edition_1"
                                         facs="#facs_194_r1l15" n="N015"/>النصير والبرق عن رجل الشعب الذي يرجى مند إصلاح لبنان ولم يجداه فدلتهما
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_194_r1l16" n="N016"/>عليه جريدة المهاجر النيويوركية بما يأتي
+                                        facs="#facs_194_r1l16" n="N016"/>عليه <bibl change="#d2e50" subtype="newspaper" type="periodical">جريدة <title change="#d2e50" level="j"
+                                        >المهاجر</title></bibl> النيويوركية بما يأتي
             <lb ed="print" edRef="#edition_1" facs="#facs_194_r1l17" n="N017"
                                         />رجل الشعب السوري باعتقادنا لم يولد بعد وإذا كان مولوداً فهو غير ظاهر
             <lb ed="print" edRef="#edition_1" facs="#facs_194_r1l18" n="N018"
@@ -16364,7 +16376,8 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_199_r1l15" n="N015"
                                         />لآن فتاة فرنسوية مقيمة في الجزائر تدرس بنات المسلمين لغة القرآن وهي
             <lb ed="print" edRef="#edition_1" facs="#facs_199_r1l16" n="N016"
-                                        />صديقة الحسناء الأنسة جان دير يو منشئة مجلة الأحياء ومؤلفة كتاب حلية
+                                        />صديقة الحسناء الأنسة جان دير يو منشئة <bibl change="#d2e50" subtype="journal" type="periodical">مجلة <title change="#d2e50" level="j"
+                                        >الأحياء</title></bibl> ومؤلفة كتاب حلية
             <lb ed="print" edRef="#edition_1" facs="#facs_199_r1l17" n="N017"
                                         />الأذهان في تعليم القراءة العربية
             <lb ed="print" edRef="#edition_1" facs="#facs_199_r1l18" n="N018"
@@ -16806,47 +16819,47 @@
             <lb ed="print" edRef="#edition_1"
                                         facs="#facs_209_r1l16" n="N016"/>وقد كان للمرأة الأميركية يد طولى في هذه السبل المباركة فاقت بها على
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_209_r1l17" n="N017"/>غيرها من بنات جنسها إلا بعض الفرنسويات كالبارونة هرس التي جمعت مجلة المقتطف
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_209_r1l18" n="N018"/>مرة قائمة واحدة مما أحسنت به الى المشاريع العمومية فبلغت مليونين وثلاثين ألف
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_209_r1l19" n="N019"/>ليرة وقدرت أن ما انفقته وزوجها في سبيل الإحسان يبلغ ٢٥ مليون ليرة. أو
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_209_r1l20" n="N020"/>البارونة نثنائيل روتشيلد التي وهبت أمتها أكثر ما جمعته من الصور النفيسة منها
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_209_r1l21" n="N021"/>صورة ثمنها ٢٤ ألف ليرة عدا عن هباتها المالية العديدة. أو مدام أو ديعره التي
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_209_r1l22" n="N022"/>وقفت مبلغاً وافراً يعطى ريعه جوائز للمشتغلين باكتشاف علاج للسل. أو أمثالهن
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_209_r1l23" n="N023"/>من الإنكليزيات والألمانيات</ab>
+                                        facs="#facs_209_r1l17" n="N017"/>غيرها من بنات جنسها إلا بعض الفرنسويات كالبارونة هرس التي جمعت <bibl change="#d2e50" subtype="journal" type="periodical"
+                                        >مجلة <title change="#d2e50" level="j">المقتطف</title></bibl> <lb ed="print" edRef="#edition_1" facs="#facs_209_r1l18" n="N018"
+                                        />مرة قائمة واحدة مما أحسنت به الى المشاريع العمومية فبلغت مليونين وثلاثين ألف
+            <lb ed="print" edRef="#edition_1" facs="#facs_209_r1l19" n="N019"
+                                        />ليرة وقدرت أن ما انفقته وزوجها في سبيل الإحسان يبلغ ٢٥ مليون ليرة. أو
+            <lb ed="print" edRef="#edition_1" facs="#facs_209_r1l20" n="N020"
+                                        />البارونة نثنائيل روتشيلد التي وهبت أمتها أكثر ما جمعته من الصور النفيسة منها
+            <lb ed="print" edRef="#edition_1" facs="#facs_209_r1l21" n="N021"
+                                        />صورة ثمنها ٢٤ ألف ليرة عدا عن هباتها المالية العديدة. أو مدام أو ديعره التي
+            <lb ed="print" edRef="#edition_1" facs="#facs_209_r1l22" n="N022"
+                                        />وقفت مبلغاً وافراً يعطى ريعه جوائز للمشتغلين باكتشاف علاج للسل. أو أمثالهن
+            <lb ed="print" edRef="#edition_1" facs="#facs_209_r1l23" n="N023"
+                                        />من الإنكليزيات والألمانيات</ab>
                                 <pb ed="print" edRef="#edition_1" facs="#facs_210" n="210" xml:id="img_0210"/>
                                 <ab facs="#facs_210_r1"> <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l1" n="N001"/>المرأة والإحسان
             <lb ed="print" edRef="#edition_1"
                                         facs="#facs_210_r1l2" n="N002"/>٢٠١
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l3" n="N003"
-                                        />فمن المحسنات الأمير يكيات على ما قالت جريدة الهدى النيويوركية مسز
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l4" n="N004"
-                                        />ريان زوجة توماس ريان الغني الكبير الذي يسميه أصحابه كما يعرفونه ـ الرجل
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l5" n="N005"
-                                        />الفاقد القلب) كما يسمون زوجته ـ السيدة الكبيرة الفؤاد) وذلك لكرمها
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l6" n="N006"
-                                        />وبخله. فإنها تسخو على الأديار والكنائس وتهتم بمحاربة السل وتشييد المستشفيات
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l7" n="N007"
-                                        />للمسلولين وتعطف على الفقراء والضعفاء والبائسين. زارها الكر دينال غيبون
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l8" n="N008"
-                                        />مرة فرآها تخيط ثوباً لطفل صغير فنهضب وحيته وقالت تعذرتي يا سيد فقد
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l9" n="N009"
-                                        />وعدت بإتمام هذا الثوب غداً) وتناولت الثوب لتتمم خياطته. وفي كثيرة
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l10" n="N010"
-                                        />الأسفار والتنقل في البلدان تسافر في قطارها الخصوصي وهو ثاني قطار في العالم
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l11" n="N011"
-                                        />بعد قطار ملكة الأسبان جعلت فيه مذبحاً وفسحة لإقامة القداس خيثماً تصل
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l12" n="N012"
-                                        />تفتح أبوابه للعموم مدة الصلاة. وقد وهبها قداسة البابا لقب كوننس جزاء
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l13" n="N013"
-                                        />إحساناتها التي بلغت الخمسة ملايين ريال وفي تفضل أن تدعى بلقبها الذي عرفها
-            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l14" n="N014"
-                                        />به من أحسنت إليهم
+            <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l3" n="N003"/>فمن المحسنات الأمير يكيات على ما قالت <bibl
+                                        change="#d2e50" subtype="newspaper" type="periodical">جريدة <title change="#d2e50" level="j">الهدى</title></bibl> النيويوركية مسز
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l4" n="N004"/>ريان زوجة توماس ريان الغني الكبير الذي يسميه أصحابه كما يعرفونه ـ الرجل
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l5" n="N005"/>الفاقد القلب) كما يسمون زوجته ـ السيدة الكبيرة الفؤاد) وذلك لكرمها
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l6" n="N006"/>وبخله. فإنها تسخو على الأديار والكنائس وتهتم بمحاربة السل وتشييد المستشفيات
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l7" n="N007"/>للمسلولين وتعطف على الفقراء والضعفاء والبائسين. زارها الكر دينال غيبون
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l8" n="N008"/>مرة فرآها تخيط ثوباً لطفل صغير فنهضب وحيته وقالت تعذرتي يا سيد فقد
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l9" n="N009"/>وعدت بإتمام هذا الثوب غداً) وتناولت الثوب لتتمم خياطته. وفي كثيرة
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l10" n="N010"/>الأسفار والتنقل في البلدان تسافر في قطارها الخصوصي وهو ثاني قطار في العالم
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l11" n="N011"/>بعد قطار ملكة الأسبان جعلت فيه مذبحاً وفسحة لإقامة القداس خيثماً تصل
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l12" n="N012"/>تفتح أبوابه للعموم مدة الصلاة. وقد وهبها قداسة البابا لقب كوننس جزاء
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l13" n="N013"/>إحساناتها التي بلغت الخمسة ملايين ريال وفي تفضل أن تدعى بلقبها الذي عرفها
+            <lb ed="print"
+                                        edRef="#edition_1" facs="#facs_210_r1l14" n="N014"/>به من أحسنت إليهم
             <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l15" n="N015"
                                         />ومنهن مسز فندر بلت الكبرى رفيقة مسز ريان في محاربة السل فإنها
             <lb ed="print" edRef="#edition_1" facs="#facs_210_r1l16" n="N016"
@@ -17825,7 +17838,8 @@
             <lb ed="print" edRef="#edition_1"
                                         facs="#facs_231_r1l22" n="N022"/>المحيط الغربي * السمير الصغير محلة عمومية مصورة وجريدة هزلية عزم على
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_231_r1l23" n="N023"/>أصدراهما في طرابلس الغرب محمد علي أفندي البارودي صاحب جريدة العصر الجديد</ab>
+                                        facs="#facs_231_r1l23" n="N023"/>أصدراهما في طرابلس الغرب محمد علي أفندي البارودي صاحب <bibl change="#d2e50" subtype="newspaper" type="periodical">جريدة <title
+                                        change="#d2e50" level="j">العصر</title></bibl> الجديد</ab>
                                 <pb ed="print" edRef="#edition_1" facs="#facs_232" n="232" xml:id="img_0232"/>
                                 <ab facs="#facs_232_r1"> <lb ed="print" edRef="#edition_1" facs="#facs_232_r1l1" n="N001"/>٢٢٣
             <lb ed="print" edRef="#edition_1" facs="#facs_232_r1l2"
@@ -17850,13 +17864,14 @@
             <lb ed="print" edRef="#edition_1"
                                         facs="#facs_232_r1l12" n="N012"/>هذا الحق دون أن تتلعثم ووزير العدلية حاضراً مصغياً لم يعترضها ولا مرة واحدة
             <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_232_r1l13" n="N013"/>اقترحت الكاتبة السورية السيدة رحمة صروف في جريدة المقطم في مصر
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_232_r1l14" n="N014"/>عقد موتمر نسائي يبحث في شوون النساء وإصلاح أحوالهن. فالحسناء تضم
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_232_r1l15" n="N015"/>صوتها الى صوت الكاتبة وتقول معها بوجوب عقد هذا المؤتمر لأنه من أفضل
-            <lb ed="print" edRef="#edition_1"
-                                        facs="#facs_232_r1l16" n="N016"/>الوسائل للبحث في كيفية هذا الإصلاح
+                                        facs="#facs_232_r1l13" n="N013"/>اقترحت الكاتبة السورية السيدة رحمة صروف في <bibl change="#d2e50" subtype="newspaper" type="periodical">جريدة <title
+                                        change="#d2e50" level="j">المقطم</title></bibl> في مصر
+            <lb ed="print" edRef="#edition_1" facs="#facs_232_r1l14" n="N014"
+                                        />عقد موتمر نسائي يبحث في شوون النساء وإصلاح أحوالهن. فالحسناء تضم
+            <lb ed="print" edRef="#edition_1" facs="#facs_232_r1l15" n="N015"
+                                        />صوتها الى صوت الكاتبة وتقول معها بوجوب عقد هذا المؤتمر لأنه من أفضل
+            <lb ed="print" edRef="#edition_1" facs="#facs_232_r1l16" n="N016"
+                                        />الوسائل للبحث في كيفية هذا الإصلاح
             <lb ed="print" edRef="#edition_1" facs="#facs_232_r1l17" n="N017"
                                         />وهيت مدام باباً نيقولاً من أزمير ٦٥٠٠ ليرة للإصلاح في جيش اليونان
             <lb ed="print" edRef="#edition_1" facs="#facs_232_r1l18" n="N018"
