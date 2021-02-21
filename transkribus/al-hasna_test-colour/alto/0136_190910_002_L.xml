@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-02-21T23:23:27.735+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1563" WIDTH="1000">
+         <TopMargin HEIGHT="0" WIDTH="1000" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1563" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1563" WIDTH="0" VPOS="0" HPOS="1000"/>
+         <BottomMargin HEIGHT="0" WIDTH="1000" VPOS="1563" HPOS="0"/>
+         <PrintSpace HEIGHT="1563" WIDTH="1000" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="115" WIDTH="348" VPOS="1061" HPOS="297">
+               <Shape>
+                  <Polygon POINTS="297,1061 297,1176 645,1176 645,1061"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1104"
+                         HEIGHT="61"
+                         WIDTH="213"
+                         VPOS="1043"
+                         HPOS="373">
+                  <String HEIGHT="61" WIDTH="85" VPOS="1043" HPOS="359" CONTENT="مر"/>
+                  <SP HEIGHT="61" WIDTH="14" VPOS="1043" HPOS="444"/>
+                  <String HEIGHT="61" WIDTH="99" VPOS="1043" HPOS="401" CONTENT="أهم"/>
+                  <SP HEIGHT="61" WIDTH="14" VPOS="1043" HPOS="501"/>
+                  <String HEIGHT="61" WIDTH="99" VPOS="1043" HPOS="458" CONTENT="زفى"/>
+                  <SP HEIGHT="61" WIDTH="14" VPOS="1043" HPOS="558"/>
+                  <String HEIGHT="61"
+                          WIDTH="85"
+                          VPOS="1043"
+                          HPOS="501"
+                          CONTENT="سهمه"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1151"
+                         HEIGHT="38"
+                         WIDTH="47"
+                         VPOS="1113"
+                         HPOS="376">
+                  <String HEIGHT="38" WIDTH="141" VPOS="1113" HPOS="282" CONTENT="ر"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="1194"
+                         HEIGHT="90"
+                         WIDTH="358"
+                         VPOS="1104"
+                         HPOS="292">
+                  <String HEIGHT="90" WIDTH="895" VPOS="1104" HPOS="113" CONTENT="ر"/>
+                  <SP HEIGHT="90" WIDTH="179" VPOS="1104" HPOS="1008"/>
+                  <String HEIGHT="90" WIDTH="358" VPOS="1104" HPOS="292" CONTENT=""/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

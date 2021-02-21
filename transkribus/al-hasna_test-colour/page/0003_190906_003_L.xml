@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:22.903+02:00</Created>
+        <LastChange>2020-04-02T15:44:14.980+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088518" pageNr="3" tsid="26891299" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=BPNFPFANFMLMJNEDQXCFYUOC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ADCGBVBZPYXGLDNHXHWIDZBU" imageId="10178272"/>
+    </Metadata>
+    <Page imageFilename="0003_190906_003_L.jpg" imageWidth="1000" imageHeight="1453">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613946195522" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="103,42 103,1416 960,1416 960,42"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="512,84 522,86 528,82 547,91 555,85 559,86 564,79 573,80 579,75 587,74 584,44 567,47 554,43 546,48 541,44 536,46 530,43 525,48 519,46 514,51 509,51"/>
+                <Baseline points="516,76 548,78 581,70"/>
+                <TextEquiv>
+                    <Unicode>الفرس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="145,113 151,113 154,117 161,120 185,117 188,69 182,69 180,71 177,68 166,68 161,65 155,68 148,67"/>
+                <Baseline points="151,96 181,98"/>
+                <TextEquiv>
+                    <Unicode>ف</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="544,159 558,163 560,161 567,168 572,164 578,165 584,160 598,170 609,170 609,125 601,128 587,117 581,121 564,120 560,117 554,122 544,121"/>
+                <Baseline points="549,141 576,143 604,141"/>
+                <TextEquiv>
+                    <Unicode>٣٦٩</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="645,161 668,167 691,154 745,175 830,147 932,158 950,154 949,94 780,99 762,113 725,113 683,133 644,128"/>
+                <Baseline points="649,149 675,146 702,143 729,141 756,139 783,139 810,138 837,138 864,138 891,139 918,141 945,142"/>
+                <TextEquiv>
+                    <Unicode>الجيماة والكنة في الصي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="129,162 225,151 345,174 386,154 437,154 480,167 508,159 508,126 394,116 369,128 355,115 318,115 254,118 186,143 160,131 129,139"/>
+                <Baseline points="134,153 160,153 186,153 213,152 239,152 265,151 292,151 318,150 344,150 371,150 397,150 423,150 450,152 476,153 503,156"/>
+                <TextEquiv>
+                    <Unicode>من سلانيك الى الأستانة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="758,207 781,215 791,206 801,212 810,205 826,211 846,204 894,221 909,210 921,217 948,217 949,167 931,163 918,172 912,167 884,172 872,163 842,163 816,180 798,169 759,179"/>
+                <Baseline points="763,202 788,201 814,201 840,200 865,201 891,202 917,204 943,207"/>
+                <TextEquiv>
+                    <Unicode>الرفق بالخادمات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="552,234 557,235 572,223 589,233 597,227 609,227 611,180 597,178 585,183 581,179 577,179 566,183 562,179 560,181 554,179"/>
+                <Baseline points="558,204 605,205"/>
+                <TextEquiv>
+                    <Unicode>٢٤٦</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="411,220 428,222 442,213 455,218 461,212 476,225 495,217 518,215 518,186 513,186 497,172 450,177 445,173 430,176 411,169"/>
+                <Baseline points="416,211 448,210 480,212 513,210"/>
+                <TextEquiv>
+                    <Unicode>سؤالات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="110,212 119,213 130,223 149,224 161,218 170,228 182,229 185,162 154,174 148,170 129,180 112,175"/>
+                <Baseline points="115,215 146,215 177,218"/>
+                <TextEquiv>
+                    <Unicode>٢٢١</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="540,265 597,268 628,256 649,269 665,255 678,255 725,283 736,281 735,224 691,225 679,232 597,227 577,238 539,234"/>
+                <Baseline points="544,254 570,255 597,256 623,255 650,254 676,253 703,252 730,252"/>
+                <TextEquiv>
+                    <Unicode>٣٦ و ٦٣ ٢٧ و ٥٨</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="771,267 820,257 836,270 879,265 902,276 914,271 947,283 949,221 927,222 910,211 877,227 850,227 841,236 821,238 809,230 784,242 771,239"/>
+                <Baseline points="776,255 803,253 831,254 859,255 887,257 915,258 943,256"/>
+                <TextEquiv>
+                    <Unicode>من كل فن خبر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="370,282 387,290 410,279 436,288 461,273 488,277 515,274 515,248 501,244 482,253 463,238 438,240 421,248 398,237 370,240"/>
+                <Baseline points="375,271 402,270 429,270 456,270 483,271 510,271"/>
+                <TextEquiv>
+                    <Unicode>شجاعة ومحبة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="114,289 120,289 133,282 139,285 145,283 148,286 160,276 169,279 179,278 179,256 170,258 153,250 146,252 140,246 131,253 122,249 114,249"/>
+                <Baseline points="119,273 146,273 174,273"/>
+                <TextEquiv>
+                    <Unicode>٢٧٠</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="538,315 612,307 635,320 663,305 756,320 782,301 819,314 862,305 887,320 941,301 940,278 918,274 725,283 683,256 638,285 586,269 537,280"/>
+                <Baseline points="543,307 569,306 595,305 621,304 647,303 674,302 700,302 726,301 752,300 778,299 805,298 831,298 857,297 883,297 909,297 936,297"/>
+                <TextEquiv>
+                    <Unicode>١٩٠ و٢٢٣ و٣٥٥ و ٢٨٧ و ٣١٩ و ٣٥١ و٨٣.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="377,347 390,348 409,338 433,336 466,351 487,346 509,351 509,303 478,301 453,307 426,303 414,308 403,301 387,314 377,310"/>
+                <Baseline points="382,335 412,334 443,334 473,335 504,334"/>
+                <TextEquiv>
+                    <Unicode>شرف العذرا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="98,347 148,347 161,354 194,345 213,357 223,352 264,360 286,343 314,344 313,301 294,307 276,299 246,315 222,305 211,313 152,322 141,311 97,315"/>
+                <Baseline points="103,343 128,341 154,340 180,338 206,337 231,337 257,336 283,336 309,335"/>
+                <TextEquiv>
+                    <Unicode>١٤١ و ١٧٨ و ٢١١</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="550,370 562,370 573,378 577,374 587,373 596,366 598,368 605,367 605,321 597,321 588,327 582,326 574,332 568,332 563,328 557,333 550,331"/>
+                <Baseline points="555,360 600,360"/>
+                <TextEquiv>
+                    <Unicode>٣٣٧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="781,380 805,383 814,377 828,385 855,370 872,368 885,380 900,371 926,378 945,369 943,315 913,323 898,314 878,333 857,324 828,348 779,352"/>
+                <Baseline points="785,365 810,364 836,363 862,363 888,362 914,359 940,357"/>
+                <TextEquiv>
+                    <Unicode>الخطر الأبيص</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="346,398 406,400 442,413 498,399 515,404 515,365 492,348 445,372 429,366 422,371 397,364 384,363 374,370 346,365"/>
+                <Baseline points="351,395 377,395 404,396 430,396 457,395 483,395 510,393"/>
+                <TextEquiv>
+                    <Unicode>شكوى لطيفة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="123,413 130,413 139,406 148,411 155,404 162,409 165,405 179,405 176,365 161,371 157,368 153,370 150,368 145,369 134,364 119,367"/>
+                <Baseline points="127,404 174,400"/>
+                <TextEquiv>
+                    <Unicode>١</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="730,440 804,428 857,441 892,425 924,431 953,416 952,373 915,378 899,372 881,389 848,401 793,381 748,401 730,396"/>
+                <Baseline points="735,424 761,422 788,421 814,421 841,421 868,422 894,421 921,420 948,418"/>
+                <TextEquiv>
+                    <Unicode>الأخلاق والعادات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="547,440 563,440 567,436 574,438 588,426 594,431 604,428 604,402 590,404 582,412 575,405 564,407 554,403 547,405"/>
+                <Baseline points="552,424 599,424"/>
+                <TextEquiv>
+                    <Unicode>٣٤٠</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="122,481 130,482 145,472 162,468 166,464 174,465 180,459 191,458 186,417 175,421 165,418 158,427 145,417 136,426 125,423 114,424"/>
+                <Baseline points="125,466 155,459 186,458"/>
+                <TextEquiv>
+                    <Unicode>١٧٣</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="395,478 419,486 436,473 453,481 464,475 477,480 484,474 492,479 507,476 506,408 489,408 468,429 464,427 457,433 452,430 435,445 430,441 421,447 415,442 407,448 394,446"/>
+                <Baseline points="399,470 424,470 450,468 476,468 502,469"/>
+                <TextEquiv>
+                    <Unicode>ي صبي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="781,497 801,501 833,487 961,491 960,461 936,453 923,459 886,457 870,448 861,457 832,450 821,458 810,449 797,456 778,455"/>
+                <Baseline points="785,490 813,485 842,482 870,481 899,480 927,480 956,480"/>
+                <TextEquiv>
+                    <Unicode>فساد الأخلاق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="551,501 568,497 571,494 579,495 585,490 593,496 605,497 605,461 592,464 582,456 576,460 572,457 564,458 561,461 551,460"/>
+                <Baseline points="556,487 600,487"/>
+                <TextEquiv>
+                    <Unicode>١١٩</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="363,518 402,522 459,542 476,540 496,526 519,531 518,479 493,490 462,482 456,488 438,484 403,496 385,486 363,486"/>
+                <Baseline points="368,515 397,515 426,515 455,515 484,514 513,513"/>
+                <TextEquiv>
+                    <Unicode>نصائح صحبة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="105,534 144,531 154,524 165,531 198,525 217,532 222,528 233,538 253,539 252,492 225,494 209,485 184,489 173,479 163,485 103,479"/>
+                <Baseline points="110,524 137,523 165,522 192,520 220,519 248,521"/>
+                <TextEquiv>
+                    <Unicode>١٢١ و٠</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="876,567 883,567 892,559 905,559 908,556 916,558 939,547 949,547 948,518 937,520 931,516 918,523 900,509 895,512 885,510 882,513 871,512"/>
+                <Baseline points="879,547 912,547 945,542"/>
+                <TextEquiv>
+                    <Unicode>خواطر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="566,579 583,578 593,573 598,576 606,574 606,525 599,526 588,521 582,524 566,521"/>
+                <Baseline points="571,548 601,548"/>
+                <TextEquiv>
+                    <Unicode>٨٤</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="389,593 415,596 426,603 442,597 454,586 469,583 483,588 498,585 504,579 514,581 514,544 482,537 469,542 447,542 437,535 389,549"/>
+                <Baseline points="394,575 422,576 451,575 480,575 509,575"/>
+                <TextEquiv>
+                    <Unicode>الى الطبيعة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="99,584 117,590 131,582 181,595 195,584 224,587 232,580 241,581 241,564 217,560 202,564 193,558 163,568 158,563 129,564 110,556 99,557"/>
+                <Baseline points="104,578 130,580 156,581 183,581 209,580 236,579"/>
+                <TextEquiv>
+                    <Unicode>١٨ و٣٠٥</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="758,624 798,621 814,630 891,613 916,631 957,618 957,566 916,566 899,577 871,579 853,572 839,577 824,568 803,579 799,575 787,587 758,583"/>
+                <Baseline points="763,610 790,607 817,605 844,605 871,606 898,607 925,607 952,608"/>
+                <TextEquiv>
+                    <Unicode>ذكرى الشقيقتين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="551,636 556,636 563,640 577,628 588,631 590,628 595,629 607,623 604,586 597,588 588,586 581,589 573,581 569,584 561,580 558,584 548,585"/>
+                <Baseline points="555,611 601,608"/>
+                <TextEquiv>
+                    <Unicode>١١٥</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="356,653 373,655 386,646 422,647 446,637 455,643 492,637 512,640 509,590 471,587 460,597 437,598 418,619 391,619 376,611 353,619"/>
+                <Baseline points="360,646 389,640 418,638 448,636 477,635 507,634"/>
+                <TextEquiv>
+                    <Unicode>عاطفة الصدق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="123,646 129,647 135,653 141,649 165,669 175,664 184,665 186,621 178,620 173,614 156,622 143,623 139,620 132,622 124,619"/>
+                <Baseline points="128,642 154,642 180,644"/>
+                <TextEquiv>
+                    <Unicode>٢٣٦</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;}">
+                <Coords points="809,675 837,677 845,672 860,680 878,675 893,687 909,687 929,678 950,679 957,677 957,640 933,644 905,630 887,637 873,633 851,648 831,641 821,649 809,649"/>
+                <Baseline points="814,669 841,665 869,666 896,669 924,669 952,665"/>
+                <TextEquiv>
+                    <Unicode>رجل الشعب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:37;}">
+                <Coords points="555,683 573,681 582,687 590,682 604,681 603,648 596,649 593,647 583,652 571,643 566,648 561,645 554,646"/>
+                <Baseline points="559,669 598,668"/>
+                <TextEquiv>
+                    <Unicode>١٨٥</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:38;}">
+                <Coords points="380,704 411,717 433,709 440,714 448,707 472,702 494,714 520,705 519,666 469,666 447,657 434,664 416,664 404,676 394,668 379,668"/>
+                <Baseline points="385,696 411,696 437,696 463,696 489,695 515,694"/>
+                <TextEquiv>
+                    <Unicode>عاطفة كريمة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:39;}">
+                <Coords points="110,729 120,729 126,723 145,725 159,711 164,716 184,713 200,721 225,711 239,717 249,714 248,677 238,680 229,671 207,676 199,670 172,686 156,676 134,683 124,678 108,680"/>
+                <Baseline points="114,704 140,705 166,705 192,703 218,702 244,701"/>
+                <TextEquiv>
+                    <Unicode>١٢٤ و ٢٥١</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:40;}">
+                <Coords points="553,739 558,739 563,744 571,741 580,749 586,745 595,744 600,740 608,740 608,706 601,706 596,700 586,704 576,699 570,702 567,697 564,698 560,694 555,694"/>
+                <Baseline points="558,727 603,729"/>
+                <TextEquiv>
+                    <Unicode>٢١٧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:41;}">
+                <Coords points="764,738 785,747 808,738 838,742 849,734 884,738 895,732 917,743 939,731 955,734 955,701 920,706 892,698 879,707 849,694 822,710 796,694 764,699"/>
+                <Baseline points="769,732 794,729 820,727 846,727 872,727 898,727 924,728 950,729"/>
+                <TextEquiv>
+                    <Unicode>معروف الرصافي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:42;}">
+                <Coords points="339,775 380,779 387,773 407,779 427,770 444,777 462,773 473,781 517,764 516,729 507,725 479,736 458,727 447,738 404,742 391,742 359,723 338,726"/>
+                <Baseline points="344,759 372,760 400,760 428,760 456,759 484,757 512,755"/>
+                <TextEquiv>
+                    <Unicode>عفيرة بنت عباد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:43;}">
+                <Coords points="559,795 566,797 585,795 592,797 597,793 602,797 613,796 616,759 611,759 608,762 600,760 597,763 594,761 590,764 583,762 577,767 561,763"/>
+                <Baseline points="565,785 609,788"/>
+                <TextEquiv>
+                    <Unicode>٣٣</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:44;}">
+                <Coords points="818,802 844,794 873,795 900,811 933,790 962,791 961,763 951,763 943,770 933,760 910,755 885,773 852,750 843,756 836,752 817,763"/>
+                <Baseline points="823,790 849,788 876,787 902,786 929,785 956,785"/>
+                <TextEquiv>
+                    <Unicode>مدام رولان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:45;}">
+                <Coords points="441,823 473,835 483,825 491,824 495,827 509,822 521,822 519,781 503,785 498,782 485,782 469,796 458,793 452,795 439,789"/>
+                <Baseline points="446,820 481,819 516,816"/>
+                <TextEquiv>
+                    <Unicode>علموها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:46;}">
+                <Coords points="123,828 130,827 136,832 146,828 152,833 166,835 177,827 190,830 189,784 182,784 172,779 164,786 150,785 137,773 122,775"/>
+                <Baseline points="128,823 156,821 185,822"/>
+                <TextEquiv>
+                    <Unicode>٣٤٣</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:47;}">
+                <Coords points="853,862 885,856 897,864 905,862 916,870 943,857 954,856 955,814 945,814 930,822 924,818 919,820 908,809 892,821 879,820 873,815 854,819"/>
+                <Baseline points="859,843 889,845 919,846 950,845"/>
+                <TextEquiv>
+                    <Unicode>الرياضة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l49" custom="readingOrder {index:48;}">
+                <Coords points="562,857 582,859 587,854 595,859 604,859 604,816 597,817 593,813 589,813 587,815 581,815 576,819 573,818 567,824 562,824"/>
+                <Baseline points="567,850 599,850"/>
+                <TextEquiv>
+                    <Unicode>٨٩</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l50" custom="readingOrder {index:49;}">
+                <Coords points="124,914 249,911 289,890 385,911 439,884 505,888 518,884 517,833 459,850 383,849 371,861 281,845 241,863 123,862"/>
+                <Baseline points="128,888 153,887 179,887 205,886 230,885 256,885 282,884 307,883 333,883 359,882 384,881 410,880 436,879 461,878 487,876 513,875"/>
+                <TextEquiv>
+                    <Unicode>العناية بالحامل وبالأطفال ١٨٧ و١</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l51" custom="readingOrder {index:50;}">
+                <Coords points="755,932 820,913 847,921 862,912 881,928 929,927 946,910 955,911 954,874 914,876 890,894 864,877 834,883 817,874 754,902"/>
+                <Baseline points="760,914 787,910 814,908 841,908 868,908 895,909 922,909 950,908"/>
+                <TextEquiv>
+                    <Unicode>الزهر وفتاة العصر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:51;}">
+                <Coords points="552,918 558,918 569,924 572,920 578,920 581,917 595,918 599,922 606,920 604,868 587,870 579,876 570,874 563,876 559,872 550,872"/>
+                <Baseline points="557,911 601,910"/>
+                <TextEquiv>
+                    <Unicode>٣٤٣</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l53" custom="readingOrder {index:52;}">
+                <Coords points="394,947 425,945 435,950 442,945 460,947 465,943 475,947 480,943 501,947 520,943 520,911 492,908 481,915 470,908 444,918 433,912 417,914 410,908 394,912"/>
+                <Baseline points="399,939 428,940 457,939 486,938 515,938"/>
+                <TextEquiv>
+                    <Unicode>غادة البنانية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l54" custom="readingOrder {index:53;}">
+                <Coords points="124,968 131,967 141,956 145,956 149,952 154,954 161,951 176,952 181,951 184,947 189,947 188,914 176,916 156,929 135,915 123,914"/>
+                <Baseline points="129,945 156,945 184,944"/>
+                <TextEquiv>
+                    <Unicode>٣٧٢</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l55" custom="readingOrder {index:54;}">
+                <Coords points="798,987 838,977 872,992 884,981 909,987 928,976 953,979 952,933 943,935 934,926 926,927 901,943 876,939 859,952 847,942 827,937 798,953"/>
+                <Baseline points="803,973 832,970 861,969 890,970 919,970 948,969"/>
+                <TextEquiv>
+                    <Unicode>زهرة في القفر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l56" custom="readingOrder {index:55;}">
+                <Coords points="552,982 564,982 576,975 584,983 595,974 599,979 615,980 619,930 612,931 601,925 595,927 581,920 572,924 557,923"/>
+                <Baseline points="558,970 584,971 611,974"/>
+                <TextEquiv>
+                    <Unicode>٣٦٨</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l57" custom="readingOrder {index:56;}">
+                <Coords points="116,1027 170,1033 245,1004 289,1020 332,1010 389,1035 426,1009 456,1023 509,1013 520,969 483,979 441,966 417,984 388,971 372,987 307,970 264,995 229,979 115,979"/>
+                <Baseline points="120,1008 146,1007 172,1006 199,1005 225,1004 251,1004 278,1004 304,1004 330,1004 357,1004 383,1004 409,1004 436,1003 462,1002 488,1000 515,998"/>
+                <TextEquiv>
+                    <Unicode>الغسل ونصائح للغسالات ٣٤٧ و٣٤٨</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l58" custom="readingOrder {index:57;}">
+                <Coords points="785,1041 801,1038 827,1051 875,1037 889,1047 914,1038 929,1042 943,1031 958,1038 959,990 939,990 916,1009 889,997 871,1002 846,995 822,1004 786,1005"/>
+                <Baseline points="790,1031 817,1029 844,1028 871,1029 898,1029 925,1030 953,1030"/>
+                <TextEquiv>
+                    <Unicode>الزوجة العتيدة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l59" custom="readingOrder {index:58;}">
+                <Coords points="552,1042 559,1042 564,1037 567,1039 571,1036 576,1041 580,1041 593,1033 599,1040 614,1040 615,1015 607,1017 599,1009 581,1011 575,1014 567,1009 563,1011 553,1010"/>
+                <Baseline points="558,1030 584,1032 610,1032"/>
+                <TextEquiv>
+                    <Unicode>٣٧٦</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l60" custom="readingOrder {index:59;}">
+                <Coords points="147,1076 156,1077 173,1093 181,1089 184,1092 189,1092 191,1047 185,1047 180,1043 170,1042 163,1038 156,1045 148,1044"/>
+                <Baseline points="152,1065 185,1066"/>
+                <TextEquiv>
+                    <Unicode>٢٧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l61" custom="readingOrder {index:60;}">
+                <Coords points="411,1083 424,1081 430,1073 439,1078 445,1075 458,1079 482,1096 515,1066 520,1066 519,1033 505,1029 486,1036 479,1043 458,1036 450,1041 439,1034 425,1043 417,1038 409,1039"/>
+                <Baseline points="415,1074 440,1063 465,1063 490,1066 515,1065"/>
+                <TextEquiv>
+                    <Unicode>فزع سلم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l62" custom="readingOrder {index:61;}">
+                <Coords points="785,1110 844,1100 867,1112 889,1102 914,1115 937,1096 960,1091 959,1073 934,1072 923,1062 883,1070 870,1067 845,1082 802,1052 784,1051"/>
+                <Baseline points="790,1093 817,1092 845,1092 872,1093 900,1093 927,1091 955,1087"/>
+                <TextEquiv>
+                    <Unicode>مدام دي ستال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l63" custom="readingOrder {index:62;}">
+                <Coords points="590,1097 595,1097 603,1106 604,1105 609,1105 610,1106 615,1072 608,1070 606,1071 604,1069 601,1070 594,1069"/>
+                <Baseline points="596,1095 606,1096"/>
+                <TextEquiv>
+                    <Unicode>٣</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l64" custom="readingOrder {index:63;}">
+                <Coords points="271,1159 312,1150 368,1157 405,1138 432,1146 452,1134 486,1139 523,1126 522,1081 511,1079 479,1098 447,1081 411,1101 356,1099 328,1086 315,1094 270,1093"/>
+                <Baseline points="276,1125 302,1125 329,1125 356,1125 383,1125 410,1125 437,1125 464,1124 491,1122 518,1121"/>
+                <TextEquiv>
+                    <Unicode>تأثير الكحل والخطوط</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l65" custom="readingOrder {index:64;}">
+                <Coords points="136,1134 145,1132 152,1139 160,1138 166,1132 181,1134 190,1126 195,1126 195,1100 179,1104 175,1102 169,1107 163,1106 156,1100 152,1104 136,1101"/>
+                <Baseline points="141,1127 190,1127"/>
+                <TextEquiv>
+                    <Unicode>٢١٤</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l66" custom="readingOrder {index:65;}">
+                <Coords points="552,1159 559,1160 567,1156 573,1160 586,1154 588,1156 590,1155 596,1162 604,1161 606,1130 601,1130 596,1133 590,1131 585,1134 576,1134 568,1129 564,1129 559,1133 553,1133"/>
+                <Baseline points="557,1151 600,1153"/>
+                <TextEquiv>
+                    <Unicode>٣٥</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l67" custom="readingOrder {index:66;}">
+                <Coords points="723,1162 743,1160 757,1172 787,1176 810,1163 844,1171 868,1157 902,1173 948,1175 945,1118 899,1135 880,1123 870,1131 850,1129 826,1146 781,1128 740,1144 722,1142"/>
+                <Baseline points="728,1168 754,1160 781,1156 808,1154 835,1153 861,1153 888,1154 915,1154 942,1153"/>
+                <TextEquiv>
+                    <Unicode>لادي استير ستتهوت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l68" custom="readingOrder {index:67;}">
+                <Coords points="130,1194 149,1193 158,1199 173,1190 186,1199 197,1198 197,1157 191,1156 180,1162 174,1160 168,1166 162,1163 156,1165 138,1161 130,1163"/>
+                <Baseline points="135,1186 163,1187 192,1186"/>
+                <TextEquiv>
+                    <Unicode>٢٤٧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l69" custom="readingOrder {index:68;}">
+                <Coords points="445,1198 467,1184 489,1198 503,1189 517,1188 515,1143 494,1150 475,1165 453,1160 449,1156 443,1157"/>
+                <Baseline points="450,1189 481,1185 512,1186"/>
+                <TextEquiv>
+                    <Unicode>كرد علم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l70" custom="readingOrder {index:69;}">
+                <Coords points="847,1229 857,1231 879,1220 892,1224 900,1221 914,1231 917,1228 943,1230 952,1227 952,1196 931,1201 923,1195 912,1194 904,1200 897,1199 887,1190 862,1185 855,1192 847,1192"/>
+                <Baseline points="852,1217 883,1215 915,1215 947,1215"/>
+                <TextEquiv>
+                    <Unicode>هر ستو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l71" custom="readingOrder {index:70;}">
+                <Coords points="556,1241 569,1241 578,1247 584,1243 587,1245 594,1242 604,1247 614,1244 617,1193 609,1194 603,1190 593,1194 582,1188 576,1189 569,1183 560,1182"/>
+                <Baseline points="563,1214 611,1217"/>
+                <TextEquiv>
+                    <Unicode>٣٢١</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l72" custom="readingOrder {index:71;}">
+                <Coords points="127,1271 139,1272 142,1270 147,1275 158,1271 166,1278 184,1269 189,1269 191,1227 178,1228 172,1224 165,1229 156,1229 153,1226 150,1228 143,1219 131,1216"/>
+                <Baseline points="134,1246 159,1248 185,1249"/>
+                <TextEquiv>
+                    <Unicode>٢٨٩</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l73" custom="readingOrder {index:72;}">
+                <Coords points="419,1265 438,1267 456,1257 462,1262 467,1258 486,1271 492,1271 511,1249 519,1247 517,1217 504,1218 496,1214 487,1219 468,1205 462,1212 458,1210 450,1217 437,1219 426,1232 416,1233"/>
+                <Baseline points="422,1250 452,1251 483,1248 514,1242"/>
+                <TextEquiv>
+                    <Unicode>هلن كر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l74" custom="readingOrder {index:73;}">
+                <Coords points="770,1288 806,1297 844,1278 878,1301 890,1294 903,1300 928,1286 951,1292 964,1288 965,1261 932,1254 918,1243 900,1256 875,1249 850,1256 820,1243 799,1254 771,1255"/>
+                <Baseline points="776,1273 802,1274 828,1274 854,1275 881,1275 907,1275 933,1275 960,1273"/>
+                <TextEquiv>
+                    <Unicode>مدم دي سفيتيه</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l75" custom="readingOrder {index:74;}">
+                <Coords points="562,1295 572,1295 574,1293 588,1298 609,1291 612,1288 619,1288 621,1256 608,1255 604,1251 595,1253 591,1249 579,1249 573,1255 564,1256"/>
+                <Baseline points="568,1275 615,1277"/>
+                <TextEquiv>
+                    <Unicode>١٢٩</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l76" custom="readingOrder {index:75;}">
+                <Coords points="136,1305 142,1306 153,1298 178,1313 191,1310 190,1278 183,1281 178,1277 173,1280 166,1279 160,1273 156,1276 146,1274 135,1277"/>
+                <Baseline points="140,1295 185,1294"/>
+                <TextEquiv>
+                    <Unicode>٢١٥</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l77" custom="readingOrder {index:76;}">
+                <Coords points="338,1309 374,1319 402,1308 445,1307 461,1300 474,1309 508,1305 516,1302 515,1250 486,1270 403,1266 384,1281 353,1274 337,1282"/>
+                <Baseline points="343,1298 371,1297 399,1296 427,1296 455,1295 483,1295 511,1295"/>
+                <TextEquiv>
+                    <Unicode>كلمة الى النجوى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l78" custom="readingOrder {index:77;}">
+                <Coords points="870,1358 876,1358 889,1349 901,1357 910,1356 928,1344 965,1347 965,1303 956,1303 950,1298 945,1300 935,1293 889,1304 870,1299"/>
+                <Baseline points="875,1331 903,1335 931,1335 960,1331"/>
+                <TextEquiv>
+                    <Unicode>سكينة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l79" custom="readingOrder {index:78;}">
+                <Coords points="565,1347 576,1348 578,1346 586,1348 593,1346 601,1349 606,1348 610,1352 617,1352 617,1309 611,1309 606,1314 602,1314 592,1307 583,1306 573,1314 565,1313"/>
+                <Baseline points="570,1333 612,1333"/>
+                <TextEquiv>
+                    <Unicode>٩٧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l80" custom="readingOrder {index:79;}">
+                <Coords points="149,1353 154,1353 156,1355 171,1348 177,1353 182,1353 186,1311 180,1312 178,1310 171,1317 166,1314 158,1320 152,1319"/>
+                <Baseline points="155,1343 178,1345"/>
+                <TextEquiv>
+                    <Unicode>١٩</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l81" custom="readingOrder {index:80;}">
+                <Coords points="410,1359 431,1360 449,1370 460,1360 467,1366 493,1367 510,1367 525,1361 523,1319 508,1313 482,1309 470,1322 461,1316 438,1316 425,1326 420,1322 409,1324"/>
+                <Baseline points="415,1350 441,1346 467,1345 493,1345 519,1344"/>
+                <TextEquiv>
+                    <Unicode>تذكار لبنان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l82" custom="readingOrder {index:81;}">
+                <Coords points="135,1404 152,1403 164,1398 185,1410 192,1411 195,1370 184,1369 172,1359 167,1358 163,1358 155,1365 147,1368 144,1364 139,1364"/>
+                <Baseline points="141,1390 188,1394"/>
+                <TextEquiv>
+                    <Unicode>٢٥٧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l83" custom="readingOrder {index:82;}">
+                <Coords points="829,1403 845,1403 860,1414 869,1408 878,1409 897,1421 903,1417 921,1420 928,1413 936,1416 951,1410 953,1375 941,1374 934,1368 928,1367 912,1378 893,1370 880,1374 871,1364 831,1368"/>
+                <Baseline points="835,1393 863,1397 891,1401 919,1402 947,1396"/>
+                <TextEquiv>
+                    <Unicode>سلمي طراد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l84" custom="readingOrder {index:83;}">
+                <Coords points="411,1414 458,1408 508,1416 519,1406 536,1417 558,1402 588,1415 618,1412 641,1398 670,1406 672,1364 592,1376 540,1360 527,1369 460,1360 410,1391"/>
+                <Baseline points="415,1402 440,1401 465,1400 490,1399 516,1398 541,1397 566,1396 592,1396 617,1395 642,1395 668,1395"/>
+                <TextEquiv>
+                    <Unicode>٢٥٢ و ٢٧٧ ماري لاين</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الفرس
+ف
+٣٦٩
+الجيماة والكنة في الصي
+من سلانيك الى الأستانة
+الرفق بالخادمات
+٢٤٦
+سؤالات
+٢٢١
+٣٦ و ٦٣ ٢٧ و ٥٨
+من كل فن خبر
+شجاعة ومحبة
+٢٧٠
+١٩٠ و٢٢٣ و٣٥٥ و ٢٨٧ و ٣١٩ و ٣٥١ و٨٣.
+شرف العذرا
+١٤١ و ١٧٨ و ٢١١
+٣٣٧
+الخطر الأبيص
+شكوى لطيفة
+١
+الأخلاق والعادات
+٣٤٠
+١٧٣
+ي صبي
+فساد الأخلاق
+١١٩
+نصائح صحبة
+١٢١ و٠
+خواطر
+٨٤
+الى الطبيعة
+١٨ و٣٠٥
+ذكرى الشقيقتين
+١١٥
+عاطفة الصدق
+٢٣٦
+رجل الشعب
+١٨٥
+عاطفة كريمة
+١٢٤ و ٢٥١
+٢١٧
+معروف الرصافي
+عفيرة بنت عباد
+٣٣
+مدام رولان
+علموها
+٣٤٣
+الرياضة
+٨٩
+العناية بالحامل وبالأطفال ١٨٧ و١
+الزهر وفتاة العصر
+٣٤٣
+غادة البنانية
+٣٧٢
+زهرة في القفر
+٣٦٨
+الغسل ونصائح للغسالات ٣٤٧ و٣٤٨
+الزوجة العتيدة
+٣٧٦
+٢٧
+فزع سلم
+مدام دي ستال
+٣
+تأثير الكحل والخطوط
+٢١٤
+٣٥
+لادي استير ستتهوت
+٢٤٧
+كرد علم
+هر ستو
+٣٢١
+٢٨٩
+هلن كر
+مدم دي سفيتيه
+١٢٩
+٢١٥
+كلمة الى النجوى
+سكينة
+٩٧
+١٩
+تذكار لبنان
+٢٥٧
+سلمي طراد
+٢٥٢ و ٢٧٧ ماري لاين</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

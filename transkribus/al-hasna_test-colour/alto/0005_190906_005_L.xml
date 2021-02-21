@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-02-21T23:23:15.831+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1567" WIDTH="1000">
+         <TopMargin HEIGHT="0" WIDTH="1000" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1567" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1567" WIDTH="0" VPOS="0" HPOS="1000"/>
+         <BottomMargin HEIGHT="0" WIDTH="1000" VPOS="1567" HPOS="0"/>
+         <PrintSpace HEIGHT="1567" WIDTH="1000" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="157" WIDTH="313" VPOS="1042" HPOS="378">
+               <Shape>
+                  <Polygon POINTS="378,1042 378,1199 691,1199 691,1042"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1182"
+                         HEIGHT="77"
+                         WIDTH="324"
+                         VPOS="1105"
+                         HPOS="373">
+                  <String HEIGHT="77" WIDTH="93" VPOS="1105" HPOS="350" CONTENT=""/>
+                  <SP HEIGHT="77" WIDTH="23" VPOS="1105" HPOS="442"/>
+                  <String HEIGHT="77"
+                          WIDTH="208"
+                          VPOS="1105"
+                          HPOS="373"
+                          CONTENT="عمرهم"/>
+                  <SP HEIGHT="77" WIDTH="23" VPOS="1105" HPOS="581"/>
+                  <String HEIGHT="77" WIDTH="139" VPOS="1105" HPOS="512" CONTENT="دى"/>
+                  <SP HEIGHT="77" WIDTH="23" VPOS="1105" HPOS="651"/>
+                  <String HEIGHT="77"
+                          WIDTH="139"
+                          VPOS="1105"
+                          HPOS="558"
+                          CONTENT="سعال"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

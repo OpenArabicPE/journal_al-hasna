@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:25.089+02:00</Created>
+        <LastChange>2020-04-02T15:58:27.417+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088585" pageNr="70" tsid="26892539" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=AGFUOUCCXATZRCWEAJWRLNSR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HNUWFALFKGHUNJVSCWSFDQVE" imageId="10178339"/>
+    </Metadata>
+    <Page imageFilename="0070_190907_032_L.jpg" imageWidth="1000" imageHeight="1442">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613946201605" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="100,28 100,1359 970,1359 970,28"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="499,74 570,69 597,80 616,65 625,73 646,70 672,79 683,70 706,69 707,28 694,30 677,19 651,36 620,22 593,42 552,26 500,33"/>
+                <Baseline points="505,61 533,63 561,64 589,64 617,65 645,65 673,65 701,64"/>
+                <TextEquiv>
+                    <Unicode>مأثر شكر ملاحظة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="117,163 975,167 975,117 944,100 812,132 659,103 117,108"/>
+                <Baseline points="123,148 165,148 207,148 250,149 292,149 334,149 377,149 419,149 461,149 504,149 546,149 588,149 631,149 673,149 715,149 758,149 800,149 842,149 885,150 927,150 970,151"/>
+                <TextEquiv>
+                    <Unicode>في الكلية السورية من أتقى شذرات الكتابات العامية التهذيبية لكتاب مشاهير</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="118,224 957,230 957,179 840,164 651,194 118,185"/>
+                <Baseline points="124,214 165,215 206,215 248,215 289,215 330,215 372,215 413,214 454,214 496,213 537,213 578,212 620,211 661,211 702,210 744,210 785,210 826,210 868,210 909,210 951,211"/>
+                <TextEquiv>
+                    <Unicode>في اللغة الإنكليزية مثل اللورد اقبري وسميز وستول وهلس وملر وغيرهم من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="532,279 561,289 595,274 631,287 748,275 773,289 797,278 888,295 970,271 958,238 884,259 808,231 758,257 678,234 598,248 533,238"/>
+                <Baseline points="537,270 562,270 587,269 612,269 637,270 662,270 688,271 713,271 738,272 763,273 788,273 813,274 839,274 864,274 889,274 914,273 939,273 965,271"/>
+                <TextEquiv>
+                    <Unicode>السوريين أيضاً وسيصدر أجزاء متتابعة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="108,340 296,357 767,336 840,361 904,341 883,306 730,295 453,286 385,314 326,291 294,316 186,318 108,294"/>
+                <Baseline points="114,329 153,332 192,333 231,334 271,335 310,336 349,336 388,336 428,335 467,335 506,335 545,334 585,334 624,333 663,333 702,333 742,333 781,333 820,333 859,334 899,335"/>
+                <TextEquiv>
+                    <Unicode>وجميع هذه الآثار الأدبية تناسب مطالعتها للجنس اللطيف بل هي صرورية</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="757,406 774,408 789,420 824,400 850,403 865,415 919,399 932,407 960,406 959,362 927,362 881,380 862,363 847,360 821,371 797,366 768,379 757,376"/>
+                <Baseline points="763,398 790,397 817,397 844,396 872,396 899,396 926,395 954,394"/>
+                <TextEquiv>
+                    <Unicode>له أخصها النجوى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="413,489 463,505 498,505 534,486 562,506 590,511 614,499 634,509 657,506 658,432 607,446 532,416 503,430 492,425 452,449 414,448"/>
+                <Baseline points="419,481 444,483 470,484 496,485 522,486 548,486 574,486 600,485 626,485 652,486"/>
+                <TextEquiv>
+                    <Unicode>مآثر سيدات الآستانة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="234,577 429,561 477,592 519,563 604,596 673,565 878,576 902,568 903,506 707,550 549,523 235,517"/>
+                <Baseline points="240,556 272,556 305,557 338,558 371,559 404,559 437,560 469,562 502,562 535,563 568,564 601,564 634,564 667,565 699,565 732,565 765,564 798,564 831,563 864,561 897,560"/>
+                <TextEquiv>
+                    <Unicode>أنشأت عصمت حدر هانم مدرسة للبنات سمتها مكتب الأم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="103,642 820,654 914,640 915,591 377,606 104,577"/>
+                <Baseline points="109,618 149,620 189,621 229,622 269,624 309,625 349,626 389,627 429,628 469,629 509,630 549,630 589,631 629,631 669,631 709,631 749,631 789,631 829,631 869,630 909,629"/>
+                <TextEquiv>
+                    <Unicode>ألفت بعض السيدات الأرمنيات جمعية للاعتناء بيتامي صحابا حادثة أدنه الفظيعة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="115,705 589,699 714,730 894,709 891,663 786,686 723,659 560,676 408,649 328,672 115,656"/>
+                <Baseline points="120,692 158,692 196,691 235,691 273,691 312,691 350,692 389,692 427,693 466,694 504,695 542,695 581,696 619,697 658,697 696,698 735,698 773,698 812,698 850,698 889,697"/>
+                <TextEquiv>
+                    <Unicode>تألف جمعية لإقتاع السيدات بلاقتصاد والاكتناء عن زيادة التأنق في</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="455,778 492,767 566,780 605,764 670,786 839,772 885,787 919,764 954,773 955,724 908,724 872,745 829,722 666,745 621,723 456,719"/>
+                <Baseline points="460,760 485,758 511,757 537,757 562,757 588,758 614,759 640,761 665,762 691,764 717,765 743,766 768,767 794,768 820,769 846,768 871,767 897,765 923,763 949,759"/>
+                <TextEquiv>
+                    <Unicode>الملابس والحلى التي يعجز عنها متوسطوا الحال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="508,891 531,885 535,880 542,884 561,877 568,881 571,878 574,880 585,871 590,871 585,827 573,832 550,824 540,824 520,845 511,841 503,842"/>
+                <Baseline points="512,880 548,873 585,872"/>
+                <TextEquiv>
+                    <Unicode>شكر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="113,953 256,967 382,943 423,964 532,948 809,976 893,963 895,916 496,918 387,896 307,924 232,894 114,913"/>
+                <Baseline points="119,936 157,936 195,937 234,938 272,940 311,941 349,942 388,943 426,945 465,946 503,947 541,949 580,950 618,951 657,952 695,953 734,953 772,954 811,954 849,955 888,955"/>
+                <TextEquiv>
+                    <Unicode>تشكر الحسناء جميع الجرائد والمحلات على ما تفضلت به تنويهاً بذكرها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="360,1024 405,1011 543,1041 606,1020 673,1034 703,1018 819,1021 877,1046 945,1030 946,986 849,972 670,989 631,963 607,979 410,961 361,978"/>
+                <Baseline points="366,1005 394,1007 423,1009 452,1010 480,1011 509,1011 538,1012 566,1012 595,1013 624,1013 653,1013 681,1014 710,1014 739,1014 767,1015 796,1015 825,1016 853,1017 882,1018 911,1019 940,1022"/>
+                <TextEquiv>
+                    <Unicode>واستقبالاً لها مما تعده تنشيطاً مستوجباً جزيل الشكر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="467,1123 492,1130 522,1128 531,1135 548,1127 556,1133 566,1124 578,1122 579,1098 555,1100 539,1085 501,1084 480,1065 468,1065"/>
+                <Baseline points="472,1119 497,1122 522,1123 547,1123 573,1121"/>
+                <TextEquiv>
+                    <Unicode>ملاحظة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="94,1204 274,1191 294,1212 340,1194 859,1227 884,1222 886,1170 680,1159 617,1184 479,1139 387,1170 96,1140"/>
+                <Baseline points="100,1188 139,1188 178,1188 217,1188 256,1189 295,1190 334,1191 373,1194 412,1195 451,1197 490,1199 529,1201 568,1203 607,1204 646,1206 685,1208 724,1209 763,1210 802,1211 841,1211 880,1211"/>
+                <TextEquiv>
+                    <Unicode>ذكرنا في الجزء الأول من الحسناء كما بلغنا أن سدات خمص جمعن نحو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="107,1249 804,1294 947,1274 948,1245 108,1206"/>
+                <Baseline points="112,1245 153,1247 195,1249 236,1251 278,1252 319,1254 361,1255 402,1257 444,1258 485,1259 527,1260 568,1262 610,1263 651,1264 693,1266 734,1267 776,1268 817,1270 859,1271 900,1273 942,1275"/>
+                <TextEquiv>
+                    <Unicode>خمسة عشر ألف عرش لإتمام معدات مطبعة وجريدة والصواب أنهن جمعن زهاء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="427,1322 951,1346 953,1308 928,1297 868,1305 833,1285 774,1315 745,1296 576,1290 553,1306 523,1280 474,1293 431,1272"/>
+                <Baseline points="433,1317 458,1317 484,1317 509,1317 535,1318 561,1319 586,1321 612,1323 637,1325 663,1326 689,1329 714,1331 740,1333 765,1335 791,1337 817,1339 842,1341 868,1342 893,1343 919,1344 945,1345"/>
+                <TextEquiv>
+                    <Unicode>ثلاثين ألفاً لمدرسة داخلية فاقتضت الملاحظة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مأثر شكر ملاحظة
+في الكلية السورية من أتقى شذرات الكتابات العامية التهذيبية لكتاب مشاهير
+في اللغة الإنكليزية مثل اللورد اقبري وسميز وستول وهلس وملر وغيرهم من
+السوريين أيضاً وسيصدر أجزاء متتابعة
+وجميع هذه الآثار الأدبية تناسب مطالعتها للجنس اللطيف بل هي صرورية
+له أخصها النجوى
+مآثر سيدات الآستانة
+أنشأت عصمت حدر هانم مدرسة للبنات سمتها مكتب الأم
+ألفت بعض السيدات الأرمنيات جمعية للاعتناء بيتامي صحابا حادثة أدنه الفظيعة
+تألف جمعية لإقتاع السيدات بلاقتصاد والاكتناء عن زيادة التأنق في
+الملابس والحلى التي يعجز عنها متوسطوا الحال
+شكر
+تشكر الحسناء جميع الجرائد والمحلات على ما تفضلت به تنويهاً بذكرها
+واستقبالاً لها مما تعده تنشيطاً مستوجباً جزيل الشكر
+ملاحظة
+ذكرنا في الجزء الأول من الحسناء كما بلغنا أن سدات خمص جمعن نحو
+خمسة عشر ألف عرش لإتمام معدات مطبعة وجريدة والصواب أنهن جمعن زهاء
+ثلاثين ألفاً لمدرسة داخلية فاقتضت الملاحظة</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

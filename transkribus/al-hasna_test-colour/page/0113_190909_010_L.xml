@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:26.244+02:00</Created>
+        <LastChange>2020-04-02T16:06:50.713+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088628" pageNr="113" tsid="26893665" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=CPMLGFMJMLCTMBSUPSQNEZDS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RNYJLLPZKUTPKTDDQAZFYQXL" imageId="10178382"/>
+    </Metadata>
+    <Page imageFilename="0113_190909_010_L.jpg" imageWidth="1000" imageHeight="1598">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613946205495" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="54,16 54,1494 941,1494 941,16"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="404,60 429,69 445,63 483,68 490,62 525,73 568,62 592,65 594,6 543,25 511,9 482,21 470,8 456,16 434,-1 406,6"/>
+                <Baseline points="410,48 435,51 460,53 485,54 511,54 536,54 561,54 587,55"/>
+                <TextEquiv>
+                    <Unicode>العصاة الصائبة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="823,72 839,77 848,70 855,68 862,76 864,74 868,78 876,78 882,34 859,32 840,45 828,41"/>
+                <Baseline points="832,53 873,59"/>
+                <TextEquiv>
+                    <Unicode>١٠٦</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="490,141 534,154 580,129 628,152 691,157 708,145 782,159 849,142 877,161 946,146 947,107 896,117 849,97 793,113 742,99 707,113 687,95 616,110 589,84 548,100 492,97"/>
+                <Baseline points="497,124 523,124 549,125 575,126 601,127 627,128 653,129 679,130 705,131 732,132 758,133 784,134 810,135 836,135 862,136 888,137 914,137 941,138"/>
+                <TextEquiv>
+                    <Unicode>تمتص الحياة من ملامسة ثوب ملكتها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="74,203 874,226 861,157 693,174 76,138"/>
+                <Baseline points="80,191 119,191 158,191 198,192 237,192 277,192 316,193 356,193 395,194 435,195 474,195 513,196 553,197 592,198 632,199 671,200 711,201 750,202 790,203 829,204 869,206"/>
+                <TextEquiv>
+                    <Unicode>آن للسوريين أن ينشفوا العرق الذي تصبب من جباههم زمان التقهقر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="61,283 716,273 859,306 945,293 946,242 61,212"/>
+                <Baseline points="66,262 109,262 153,262 197,263 240,263 284,263 328,263 371,263 415,263 459,263 503,263 546,263 590,264 634,264 677,265 721,266 765,267 808,268 852,271 896,273 940,276"/>
+                <TextEquiv>
+                    <Unicode>والذل وأن يمسحوا الصداء عن شفار مجدهم السابق ويتقدموا الى حيث النور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="682,343 731,350 755,340 861,367 889,353 945,357 947,304 853,305 791,293 775,305 745,297 718,316 684,311"/>
+                <Baseline points="688,329 713,330 738,331 763,332 788,333 814,333 839,334 864,335 889,336 914,337 940,339"/>
+                <TextEquiv>
+                    <Unicode>لا يطنماء والحياة لأتموت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="61,415 882,420 882,375 770,352 594,375 422,352 378,374 62,348"/>
+                <Baseline points="67,400 107,398 147,397 188,397 228,396 269,397 309,397 350,398 390,399 431,399 471,400 511,401 552,402 592,403 633,403 673,404 714,404 754,403 795,403 835,402 876,400"/>
+                <TextEquiv>
+                    <Unicode>وعنا أيضاً فتاة الوطن الني يتوقف عليها خراب البلاد وعمرانها ومن قلبها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="64,485 664,471 943,501 943,443 861,419 626,446 463,419 203,415 145,445 64,426"/>
+                <Baseline points="70,467 113,466 156,466 200,465 243,465 287,465 330,465 373,465 417,466 460,466 504,466 547,467 590,467 634,468 677,468 721,468 764,468 807,468 851,468 894,468 938,467"/>
+                <TextEquiv>
+                    <Unicode>تتفق كلمات الحياة والعمل وعلى خيالها نترأى الحماسة ويقف الشوق وفي جبينها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="76,542 378,564 562,539 852,575 945,553 946,504 77,484"/>
+                <Baseline points="82,528 124,529 167,529 210,530 253,530 296,531 339,531 382,532 425,532 468,533 511,533 553,533 596,534 639,534 682,534 725,535 768,535 811,536 854,536 897,536 940,537"/>
+                <TextEquiv>
+                    <Unicode>تقرأ أبناء المستقبل ومجد أبناءه هنا ذات الحسن الرائع والقلب الطاهر تنظر</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="65,623 943,615 943,574 777,558 690,584 66,571"/>
+                <Baseline points="71,600 114,600 157,599 200,599 244,599 287,599 330,599 374,599 417,599 460,600 504,600 547,600 590,601 633,601 677,602 720,603 763,604 807,605 850,607 893,608 937,610"/>
+                <TextEquiv>
+                    <Unicode>طويلاً الى ذاك الفنى حامل المقلاع ملاحظة خروج الحصاة من يده والحصن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="59,678 453,696 507,672 703,698 945,673 945,636 853,619 768,646 599,622 457,650 60,620"/>
+                <Baseline points="65,662 108,663 152,663 196,664 240,665 283,665 327,666 371,667 415,667 458,668 502,668 546,669 590,669 633,670 677,670 721,670 765,670 808,670 852,670 896,670 940,670"/>
+                <TextEquiv>
+                    <Unicode>الذي يده فلا تلبث عما قليل إلا ونراها تتبع خطواته وتفتح بصيرتها وتشاهد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="57,740 946,764 946,702 900,692 57,707"/>
+                <Baseline points="63,731 106,731 150,732 194,732 238,733 282,733 326,733 369,734 413,734 457,735 501,735 545,736 589,736 633,736 676,736 720,737 764,737 808,737 852,737 896,737 940,737"/>
+                <TextEquiv>
+                    <Unicode>عياناً تلك الجنة الضخمة ذلك الجهل الكثيف قد اخترقته حصاة صغيرة واقشعت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="57,846 136,808 941,819 941,778 907,763 57,772"/>
+                <Baseline points="62,800 105,801 149,802 193,802 236,803 280,803 324,803 367,804 411,804 455,804 499,804 542,804 586,804 630,804 673,804 717,804 761,804 804,804 848,804 892,804 936,805"/>
+                <TextEquiv>
+                    <Unicode>غياهبة يد الفتى العظيم فتقف في الوسط كالشهاب الثاقب والنبراس المشعشع</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="59,889 581,897 686,874 915,901 939,840 432,828 321,852 270,825 104,822 59,845"/>
+                <Baseline points="65,869 108,869 151,869 195,870 238,870 282,871 325,871 369,871 412,872 456,872 499,872 542,872 586,872 629,873 673,873 716,873 760,873 803,873 847,873 890,873 934,873"/>
+                <TextEquiv>
+                    <Unicode>وتنادي أولئك الذين عادوا القهقرى ـ الى الناريا ذوي الخيانة وأبناء إبليس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="62,942 169,968 938,955 938,904 62,895"/>
+                <Baseline points="68,931 111,934 154,935 197,936 240,937 284,938 327,938 370,938 413,938 456,938 500,938 543,937 586,937 629,937 672,937 716,937 759,938 802,938 845,939 888,941 932,942"/>
+                <TextEquiv>
+                    <Unicode>الى الناريا من استعبدتم الامرأة وإطفائم نور العدل والحرية من هذه البلاد لهذا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="318,1034 389,1020 466,1039 554,1017 625,1036 739,1014 852,1037 891,1015 927,1034 944,1030 944,974 804,966 779,985 755,963 726,981 475,954 318,983"/>
+                <Baseline points="324,1015 354,1012 385,1010 416,1008 447,1007 477,1006 508,1005 539,1005 570,1004 600,1004 631,1004 662,1005 693,1005 723,1005 754,1005 785,1005 816,1006 846,1005 877,1005 908,1005 939,1004"/>
+                <TextEquiv>
+                    <Unicode>لقد نلتم جزاء ما اتتد أيديكم الأثيمة حمداً للمولى الكريم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="59,1149 878,1160 878,1108 767,1082 675,1113 542,1086 59,1091"/>
+                <Baseline points="64,1141 104,1141 144,1141 185,1141 225,1141 266,1141 306,1141 347,1141 387,1141 428,1141 468,1141 508,1140 549,1140 589,1140 630,1140 670,1140 711,1140 751,1140 792,1140 832,1141 873,1141"/>
+                <TextEquiv>
+                    <Unicode>وقفة يا ابنة الشرق العظيم أمام هذا المشهد الهائل الذي يترآى لعينيك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="52,1215 942,1227 942,1174 803,1158 694,1194 613,1167 339,1191 52,1168"/>
+                <Baseline points="57,1205 103,1205 149,1205 195,1205 242,1206 288,1206 334,1207 380,1208 427,1209 473,1209 519,1210 565,1210 612,1211 658,1211 704,1211 750,1210 797,1209 843,1208 889,1206 936,1204"/>
+                <TextEquiv>
+                    <Unicode>المتوقدتين الآن. فإن جثة الجهل لم تزل تختبط بالدواء وهناك بقايا أثارها الفظيعة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="56,1291 938,1288 938,1242 783,1218 662,1259 56,1239"/>
+                <Baseline points="62,1276 105,1276 149,1276 192,1277 236,1277 279,1277 323,1277 366,1276 410,1276 453,1276 497,1276 541,1275 584,1275 628,1275 671,1275 715,1275 758,1275 802,1276 845,1276 889,1277 933,1278"/>
+                <TextEquiv>
+                    <Unicode>والروائح الكريهة تنتشر في بعض أقسام البلاد لتسم العقول وتعلق القلوب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="55,1358 914,1358 944,1346 944,1302 55,1306"/>
+                <Baseline points="61,1338 104,1342 148,1345 192,1346 236,1348 280,1348 324,1348 367,1348 411,1347 455,1346 499,1345 543,1344 587,1343 631,1342 674,1341 718,1340 762,1340 806,1340 850,1341 894,1342 938,1343"/>
+                <TextEquiv>
+                    <Unicode>وتحرك الأهواء. فتناولي حربة الجبار التي قضى بها على كثيرين من أبناء وطنك</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="50,1417 930,1429 930,1373 882,1368 852,1391 730,1367 410,1390 50,1372"/>
+                <Baseline points="55,1406 98,1407 141,1408 185,1409 228,1409 272,1410 315,1410 359,1411 402,1411 446,1411 489,1411 532,1411 576,1411 619,1411 663,1411 706,1411 750,1410 793,1410 837,1410 880,1410 924,1410"/>
+                <TextEquiv>
+                    <Unicode>وأقطعي بها رأس ذلك الأفعوان الخبيث الذي يعبث بأبناء الفتك المستيقظة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="48,1520 188,1483 284,1512 622,1482 930,1504 930,1450 874,1431 211,1458 48,1433"/>
+                <Baseline points="54,1476 97,1476 141,1477 184,1477 228,1478 271,1478 315,1478 358,1478 402,1479 445,1479 489,1479 533,1478 576,1478 620,1478 663,1477 707,1477 750,1476 794,1475 837,1474 881,1472 925,1471"/>
+                <TextEquiv>
+                    <Unicode>حديثاً * أرفعي رأسك الساقط أمام عرش النور وملكة الحرية وهنالك أمام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>العصاة الصائبة
+١٠٦
+تمتص الحياة من ملامسة ثوب ملكتها
+آن للسوريين أن ينشفوا العرق الذي تصبب من جباههم زمان التقهقر
+والذل وأن يمسحوا الصداء عن شفار مجدهم السابق ويتقدموا الى حيث النور
+لا يطنماء والحياة لأتموت
+وعنا أيضاً فتاة الوطن الني يتوقف عليها خراب البلاد وعمرانها ومن قلبها
+تتفق كلمات الحياة والعمل وعلى خيالها نترأى الحماسة ويقف الشوق وفي جبينها
+تقرأ أبناء المستقبل ومجد أبناءه هنا ذات الحسن الرائع والقلب الطاهر تنظر
+طويلاً الى ذاك الفنى حامل المقلاع ملاحظة خروج الحصاة من يده والحصن
+الذي يده فلا تلبث عما قليل إلا ونراها تتبع خطواته وتفتح بصيرتها وتشاهد
+عياناً تلك الجنة الضخمة ذلك الجهل الكثيف قد اخترقته حصاة صغيرة واقشعت
+غياهبة يد الفتى العظيم فتقف في الوسط كالشهاب الثاقب والنبراس المشعشع
+وتنادي أولئك الذين عادوا القهقرى ـ الى الناريا ذوي الخيانة وأبناء إبليس
+الى الناريا من استعبدتم الامرأة وإطفائم نور العدل والحرية من هذه البلاد لهذا
+لقد نلتم جزاء ما اتتد أيديكم الأثيمة حمداً للمولى الكريم
+وقفة يا ابنة الشرق العظيم أمام هذا المشهد الهائل الذي يترآى لعينيك
+المتوقدتين الآن. فإن جثة الجهل لم تزل تختبط بالدواء وهناك بقايا أثارها الفظيعة
+والروائح الكريهة تنتشر في بعض أقسام البلاد لتسم العقول وتعلق القلوب
+وتحرك الأهواء. فتناولي حربة الجبار التي قضى بها على كثيرين من أبناء وطنك
+وأقطعي بها رأس ذلك الأفعوان الخبيث الذي يعبث بأبناء الفتك المستيقظة
+حديثاً * أرفعي رأسك الساقط أمام عرش النور وملكة الحرية وهنالك أمام</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="932,0 932,60 958,60 958,0"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="925,21 937,22 944,19 946,21 963,20 964,-7 959,-7 954,-3 951,-3 943,-13 933,-4 927,-5"/>
+                <Baseline points="932,9 958,10"/>
+                <TextEquiv>
+                    <Unicode>ل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ل</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

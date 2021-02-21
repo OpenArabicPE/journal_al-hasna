@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:24.206+02:00</Created>
+        <LastChange>2020-04-02T15:51:35.354+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088554" pageNr="39" tsid="26891854" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=MSIVQOUTQLPWAKUIHAKKRXHJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LMDLYPQUPCIVSXXNHWILCUUB" imageId="10178308"/>
+    </Metadata>
+    <Page imageFilename="0039_190907_001_L.jpg" imageWidth="1000" imageHeight="1473">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613946198832" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="96,78 96,1393 929,1393 929,78"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="383,135 408,136 414,130 430,134 451,123 461,124 466,119 473,122 494,103 504,104 498,69 488,68 475,81 423,72 397,82 373,81"/>
+                <Baseline points="387,127 415,124 443,116 471,109 500,110"/>
+                <TextEquiv>
+                    <Unicode>م</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="330,221 369,215 427,239 561,228 594,240 659,205 700,211 698,150 598,206 542,190 494,200 452,189 417,204 357,163 329,178"/>
+                <Baseline points="335,214 360,218 386,221 411,224 437,226 463,227 488,227 514,227 540,225 565,223 591,221 617,217 642,213 668,208 694,202"/>
+                <TextEquiv>
+                    <Unicode>لكمب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="661,366 694,359 744,362 756,358 769,365 781,363 780,300 756,295 749,301 729,304 707,297 700,304 689,305 661,298"/>
+                <Baseline points="666,341 693,339 720,340 747,340 775,339"/>
+                <TextEquiv>
+                    <Unicode>الجزء الثاني</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="223,383 243,376 251,379 269,369 282,374 294,369 315,384 336,371 350,381 377,373 374,304 327,315 303,304 275,299 265,307 255,300 243,313 221,318"/>
+                <Baseline points="227,349 255,347 284,345 313,344 342,344 371,343"/>
+                <TextEquiv>
+                    <Unicode>المجلد الأول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="361,419 406,411 443,430 502,428 518,441 583,427 658,434 695,425 696,377 680,373 660,382 603,363 558,378 499,369 473,388 451,375 362,379"/>
+                <Baseline points="367,405 393,405 420,406 447,406 474,407 501,407 528,407 555,407 582,408 609,408 636,409 663,411 690,412"/>
+                <TextEquiv>
+                    <Unicode>بيروت في ٢٠ تموز سنة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="384,540 411,550 435,539 463,547 522,524 557,546 618,520 659,516 658,480 632,491 579,470 537,499 478,466 382,480"/>
+                <Baseline points="389,522 415,523 442,523 468,523 495,523 521,522 548,521 574,520 601,518 627,516 654,514"/>
+                <TextEquiv>
+                    <Unicode>عدامر رولان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="115,616 813,613 865,599 865,560 685,549 599,575 496,551 378,581 307,557 114,558"/>
+                <Baseline points="120,604 157,603 194,602 231,602 268,601 305,600 342,600 379,599 416,599 453,598 490,598 527,597 564,597 601,596 638,596 675,595 712,594 749,593 786,592 823,591 860,589"/>
+                <TextEquiv>
+                    <Unicode>خدم الإنسانية في الثورة الفرنساوية كثير من السيدات وكن فيها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="100,674 487,680 529,659 781,685 822,659 923,663 923,625 704,608 376,636 327,609 99,632"/>
+                <Baseline points="105,665 145,664 186,662 226,661 267,660 308,659 348,658 389,658 430,657 470,657 511,657 552,656 592,656 633,656 674,655 714,655 755,654 796,653 836,652 877,650 918,649"/>
+                <TextEquiv>
+                    <Unicode>مثالاً لمكارم الأخلاق ونبراساً للحرية والإخاء والمساواد بعد أن هيجن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="104,725 210,748 593,721 655,745 713,719 905,725 923,681 103,682"/>
+                <Baseline points="109,717 149,718 189,719 230,719 270,719 311,719 351,719 392,719 432,718 473,718 513,718 553,717 594,716 634,716 675,715 715,714 756,713 796,713 837,712 877,711 918,710"/>
+                <TextEquiv>
+                    <Unicode>الأفكار ونشطن الهمم جاهدن جهاد الإبطال للمخلص من الاستبداد والظلام</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="107,793 774,778 840,801 925,784 925,741 106,748"/>
+                <Baseline points="112,776 152,777 192,778 233,779 273,779 314,779 354,779 394,778 435,778 475,777 516,776 556,776 596,775 637,774 677,774 718,773 758,773 798,773 839,773 879,773 920,774"/>
+                <TextEquiv>
+                    <Unicode>ولإصلاح العادات والقوانين والنظامات. أشهرهن النتان مداء دي ستال</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="109,849 848,855 929,840 929,801 109,818"/>
+                <Baseline points="115,837 155,837 195,836 236,836 276,836 317,836 357,836 398,836 438,836 479,836 519,836 559,836 600,836 640,836 681,836 721,835 762,835 802,834 843,833 883,831 924,830"/>
+                <TextEquiv>
+                    <Unicode>المكتوبة سيرتها في الجزء الأول من الحسناء ومدام رولان موضوع هذه السطور</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="98,910 195,927 492,896 620,923 692,897 842,922 865,916 865,867 731,855 694,880 526,848 430,867 285,847 240,875 160,857 98,883"/>
+                <Baseline points="104,898 141,897 179,896 217,896 255,895 293,895 330,894 368,894 406,894 444,894 482,894 519,894 557,894 595,894 633,895 671,895 708,895 746,895 784,895 822,895 860,895"/>
+                <TextEquiv>
+                    <Unicode>ييد انهما وأن يشابهتا بالشبرة ما ثمانيننا بالحظ إذ لم تنح الثانية من</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="104,979 930,964 912,921 741,908 558,943 487,918 345,936 104,911"/>
+                <Baseline points="110,956 150,955 191,955 232,955 273,955 313,955 354,954 395,954 436,954 476,954 517,954 558,954 599,954 639,954 680,955 721,955 762,955 802,955 843,956 884,956 925,956"/>
+                <TextEquiv>
+                    <Unicode>غوائل الثورة كالأولى ولا فازت مثلها نجفن الدماء وتخليس الأبرياء ولا</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="97,1033 920,1025 931,980 97,987"/>
+                <Baseline points="102,1013 143,1014 184,1015 225,1016 266,1016 308,1017 349,1017 390,1017 431,1017 472,1017 514,1016 555,1016 596,1015 637,1015 678,1015 720,1014 761,1014 802,1013 843,1013 884,1013 926,1013"/>
+                <TextEquiv>
+                    <Unicode>عاشت لترى شيئاً مسراً من تتائج جهادها في سبيل خير بلادها بل قصت</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="104,1090 893,1097 928,1087 928,1040 889,1058 777,1035 724,1062 441,1027 282,1054 158,1025 104,1050"/>
+                <Baseline points="109,1079 149,1078 190,1078 231,1078 271,1077 312,1077 353,1076 393,1076 434,1075 475,1075 516,1074 556,1074 597,1074 638,1074 678,1073 719,1073 760,1073 800,1073 841,1073 882,1073 923,1073"/>
+                <TextEquiv>
+                    <Unicode>شهيدة الحرية على مدرح الفظاعة في هيكل الفوضى فحق لاسمها أن تحيى</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="708,1141 739,1137 752,1149 769,1139 793,1147 827,1142 850,1158 869,1146 920,1153 920,1095 896,1100 874,1091 866,1100 829,1106 807,1100 778,1118 763,1106 731,1112 708,1104"/>
+                <Baseline points="714,1130 739,1132 764,1134 789,1134 814,1134 839,1134 864,1133 889,1132 915,1132"/>
+                <TextEquiv>
+                    <Unicode>ولذكرها أن يحمد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="103,1211 466,1218 624,1194 740,1222 859,1205 870,1160 789,1180 601,1146 103,1164"/>
+                <Baseline points="108,1194 145,1195 183,1196 221,1196 259,1196 297,1196 334,1196 372,1196 410,1196 448,1195 486,1195 523,1194 561,1194 599,1194 637,1194 675,1194 712,1194 750,1195 788,1196 826,1197 864,1199"/>
+                <TextEquiv>
+                    <Unicode>ولا ريب في ان السدة العظمة التي تنبغ من بين جدران الخمول</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="109,1271 925,1265 925,1210 842,1242 755,1212 717,1239 676,1212 481,1234 422,1210 179,1231 110,1213"/>
+                <Baseline points="115,1253 155,1252 195,1252 235,1251 276,1251 316,1251 356,1251 396,1251 437,1252 477,1252 517,1253 557,1253 598,1254 638,1254 678,1255 718,1256 759,1256 799,1256 839,1257 879,1257 920,1256"/>
+                <TextEquiv>
+                    <Unicode>وترتة من الكوخ الى التصر ناهضة من أحضان العامة الى صدور مجالس</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="94,1319 715,1329 748,1355 934,1312 934,1280 899,1271 821,1298 781,1272 728,1297 657,1272 94,1276"/>
+                <Baseline points="99,1306 140,1307 182,1308 223,1309 265,1310 306,1310 348,1311 389,1312 431,1313 472,1313 514,1314 555,1314 597,1314 638,1314 680,1314 721,1314 763,1313 804,1313 846,1312 887,1311 929,1310"/>
+                <TextEquiv>
+                    <Unicode>الخاصة وتشجع قرينها على اقتحام العظائم وترشده في الإدارة والسياسة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="91,1371 145,1397 415,1385 469,1411 571,1379 933,1382 912,1335 607,1360 548,1334 91,1345"/>
+                <Baseline points="96,1364 137,1368 179,1371 220,1373 262,1374 304,1375 345,1376 387,1377 428,1377 470,1377 512,1376 553,1376 595,1376 636,1376 678,1375 720,1375 761,1375 803,1376 844,1376 886,1377 928,1379"/>
+                <TextEquiv>
+                    <Unicode>ووصله الى منصة الوزارة ويعد أن نسيب عزله منها تعيده اليها رغم إرادة</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>م
+لكمب
+الجزء الثاني
+المجلد الأول
+بيروت في ٢٠ تموز سنة
+عدامر رولان
+خدم الإنسانية في الثورة الفرنساوية كثير من السيدات وكن فيها
+مثالاً لمكارم الأخلاق ونبراساً للحرية والإخاء والمساواد بعد أن هيجن
+الأفكار ونشطن الهمم جاهدن جهاد الإبطال للمخلص من الاستبداد والظلام
+ولإصلاح العادات والقوانين والنظامات. أشهرهن النتان مداء دي ستال
+المكتوبة سيرتها في الجزء الأول من الحسناء ومدام رولان موضوع هذه السطور
+ييد انهما وأن يشابهتا بالشبرة ما ثمانيننا بالحظ إذ لم تنح الثانية من
+غوائل الثورة كالأولى ولا فازت مثلها نجفن الدماء وتخليس الأبرياء ولا
+عاشت لترى شيئاً مسراً من تتائج جهادها في سبيل خير بلادها بل قصت
+شهيدة الحرية على مدرح الفظاعة في هيكل الفوضى فحق لاسمها أن تحيى
+ولذكرها أن يحمد
+ولا ريب في ان السدة العظمة التي تنبغ من بين جدران الخمول
+وترتة من الكوخ الى التصر ناهضة من أحضان العامة الى صدور مجالس
+الخاصة وتشجع قرينها على اقتحام العظائم وترشده في الإدارة والسياسة
+ووصله الى منصة الوزارة ويعد أن نسيب عزله منها تعيده اليها رغم إرادة</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

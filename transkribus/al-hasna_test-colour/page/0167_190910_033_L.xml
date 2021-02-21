@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Till(htr_id=15946)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-02T14:52:27.545+02:00</Created>
+        <LastChange>2020-04-02T16:17:58.538+02:00</LastChange>
+        <TranskribusMetadata docId="362808" pageId="14088722" pageNr="167" tsid="26894916" status="IN_PROGRESS" userId="3136" imgUrl="https://files.transkribus.eu/Get?id=NQNXTWLIWFLGXVZKLUZSRUAH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VBAPPZZRPWJKIYVGCRIFMTBA" imageId="10178476"/>
+    </Metadata>
+    <Page imageFilename="0167_190910_033_L.jpg" imageWidth="1000" imageHeight="1516">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1613946210559" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="35,15 35,1424 888,1424 888,15"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="775,59 781,59 791,66 797,59 806,57 813,59 822,54 826,56 830,51 836,51 835,32 824,35 811,25 805,26 800,30 781,15 773,14"/>
+                <Baseline points="780,53 805,53 830,51"/>
+                <TextEquiv>
+                    <Unicode>١٦٠</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="211,53 423,74 503,55 660,67 661,24 643,15 525,29 474,11 349,32 301,0 278,22 212,21"/>
+                <Baseline points="217,50 242,51 268,53 294,53 320,54 345,54 371,54 397,54 423,54 448,55 474,55 500,55 526,55 551,56 577,57 603,58 629,60 655,62"/>
+                <TextEquiv>
+                    <Unicode>أقوال في النساء. حكم وأراء. مأثورات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="306,162 335,170 395,167 427,187 553,180 554,108 527,120 493,107 468,124 444,114 421,122 387,114 353,141 317,114 307,117"/>
+                <Baseline points="312,160 338,161 364,163 390,164 416,165 443,165 469,165 495,165 521,164 548,161"/>
+                <TextEquiv>
+                    <Unicode>أقوال في النساء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="37,270 760,283 800,252 879,252 879,215 538,231 453,201 37,231"/>
+                <Baseline points="42,256 83,255 125,254 166,253 208,253 250,252 291,252 333,252 374,252 416,252 458,252 499,252 541,252 582,252 624,252 666,252 707,251 749,251 790,250 832,249 874,248"/>
+                <TextEquiv>
+                    <Unicode>الأمة محموع أسر ولا يهذب الأسرة إلا المرأة فهي إذا أساس الحياة الإنسانية ـ فنلون</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="30,329 189,348 263,325 411,354 817,323 808,277 434,298 331,275 183,298 29,281"/>
+                <Baseline points="35,319 73,320 112,321 151,321 190,321 229,321 267,321 306,320 345,320 384,319 423,319 461,318 500,317 539,317 578,316 617,315 655,315 694,314 733,314 772,314 811,314"/>
+                <TextEquiv>
+                    <Unicode>ا المتعلمة المتهذبة أعظم أثر في حياة الأمة وأثرها يظهر في أولادها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="639,402 691,389 737,404 796,384 870,410 884,404 884,350 862,353 849,343 767,349 751,341 695,363 673,361 656,345 638,349"/>
+                <Baseline points="644,380 670,380 696,381 722,380 748,380 774,379 800,379 826,378 852,378 879,378"/>
+                <TextEquiv>
+                    <Unicode>واحفادها والذين حولها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="184,406 195,408 204,404 210,408 243,401 263,410 298,409 297,362 274,366 259,358 247,367 211,349 183,362"/>
+                <Baseline points="189,388 214,386 240,386 266,386 292,385"/>
+                <TextEquiv>
+                    <Unicode>جوردان</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="37,479 393,476 459,449 816,471 815,407 758,391 655,420 507,412 483,388 320,424 37,412"/>
+                <Baseline points="42,456 80,454 118,452 157,450 195,449 234,448 272,447 310,446 349,446 387,446 426,445 464,445 502,445 541,445 579,445 618,446 656,446 694,445 733,445 771,445 810,445"/>
+                <TextEquiv>
+                    <Unicode>للمرأة في تهذيب النوع الإنساني أكثر مما لأي أستاذ فيه وعندي منزلة الرجل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="136,548 402,519 884,546 884,473 696,466 658,494 452,468 377,494 342,473 136,479"/>
+                <Baseline points="141,521 177,519 214,516 251,514 288,513 325,512 362,511 399,511 436,510 473,510 510,511 546,511 583,511 620,511 657,511 694,512 731,512 768,511 805,511 842,510 879,509"/>
+                <TextEquiv>
+                    <Unicode>في النوع منزلة الرأس من البدن ومنزلة المرأة منه منزلة القلب سميلن</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="392,592 407,586 418,593 437,587 455,603 472,600 484,603 491,596 500,596 498,542 469,539 459,545 454,542 437,548 430,541 412,542 390,551"/>
+                <Baseline points="397,580 429,577 461,578 494,574"/>
+                <TextEquiv>
+                    <Unicode>حكم وأراء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="35,673 829,655 828,594 643,615 438,594 331,618 139,599 34,631"/>
+                <Baseline points="40,648 79,647 118,645 157,644 196,643 235,642 274,642 314,641 353,640 392,640 431,640 470,639 509,639 548,638 588,638 627,637 666,637 705,636 744,635 783,634 823,633"/>
+                <TextEquiv>
+                    <Unicode>إذا كانت ثيابك طاهرة وقلبك نجساً لا تحتاج الى مفتاح الأبواب الججيم</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="168,730 194,721 217,728 237,721 247,729 259,725 277,731 276,677 263,678 253,670 231,686 195,682 186,688 181,683 167,683"/>
+                <Baseline points="173,707 205,705 238,704 271,705"/>
+                <TextEquiv>
+                    <Unicode>العدي</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="100,777 235,799 365,799 390,777 462,797 816,781 809,731 604,745 479,724 446,746 218,748 100,719"/>
+                <Baseline points="105,767 140,769 175,770 210,771 246,772 281,772 316,773 352,773 387,773 422,772 458,772 493,771 528,771 563,770 599,770 634,769 669,768 705,767 740,767 775,766 811,765"/>
+                <TextEquiv>
+                    <Unicode>الرجاء هو ابن السماء وهو الوردة الوحيدة التي تبقى في حديقة الذكاء</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="180,854 188,855 196,862 206,856 218,856 229,865 252,858 258,865 265,866 271,789 234,800 223,799 212,807 202,805 194,796 184,799"/>
+                <Baseline points="187,831 212,833 237,835 262,836"/>
+                <TextEquiv>
+                    <Unicode>كاستلو</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="90,924 362,935 497,908 535,929 579,904 827,925 826,848 90,879"/>
+                <Baseline points="95,899 131,899 167,899 203,899 240,898 276,898 312,898 349,898 385,897 421,897 458,897 494,896 530,896 566,895 603,895 639,894 675,894 712,893 748,893 784,892 821,892"/>
+                <TextEquiv>
+                    <Unicode>لم يخلق الإنسان الذي هو شعاع الألوهية ليكون مقيداً بسلاسل الذهب</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="133,996 159,986 175,992 194,985 239,990 260,984 269,991 300,986 300,928 277,930 269,924 250,927 241,922 219,931 204,917 177,928 134,922"/>
+                <Baseline points="139,961 165,962 191,963 217,963 243,963 269,963 295,964"/>
+                <TextEquiv>
+                    <Unicode>لا روشفو كولد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="388,1038 396,1038 412,1049 424,1040 438,1039 468,1050 481,1045 490,1055 501,1053 502,973 489,974 480,981 450,984 428,980 397,997 388,997"/>
+                <Baseline points="393,1021 418,1022 444,1023 470,1023 496,1021"/>
+                <TextEquiv>
+                    <Unicode>مأثورات</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="40,1106 347,1124 395,1102 482,1124 678,1086 714,1116 834,1083 834,1052 436,1044 184,1071 39,1042"/>
+                <Baseline points="45,1090 84,1090 123,1090 162,1090 201,1090 241,1090 280,1090 319,1089 358,1089 397,1089 437,1089 476,1088 515,1088 554,1087 593,1086 633,1085 672,1085 711,1083 750,1082 789,1081 829,1079"/>
+                <TextEquiv>
+                    <Unicode>قال الحجاج لامرأة من الخوارج والله لأعذبنكم عداً ولا حصدنكم حصداً</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="148,1181 605,1179 894,1148 893,1120 863,1111 715,1127 652,1105 599,1127 541,1109 426,1135 147,1122"/>
+                <Baseline points="153,1155 189,1155 226,1155 263,1155 300,1155 336,1155 373,1154 410,1154 447,1154 483,1153 520,1152 557,1152 594,1151 630,1150 667,1149 704,1148 741,1147 777,1146 814,1144 851,1143 888,1141"/>
+                <TextEquiv>
+                    <Unicode>فقالت انت تحصد والله يزرع فانظر أين قدرة المخلوق من قدرة الخالق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="40,1236 861,1227 860,1174 491,1194 461,1173 398,1197 307,1177 169,1202 107,1172 39,1182"/>
+                <Baseline points="45,1225 85,1224 126,1222 166,1222 207,1221 247,1220 288,1219 328,1218 369,1217 409,1216 450,1216 490,1215 531,1214 571,1213 612,1212 652,1212 693,1211 733,1210 774,1209 814,1208 855,1207"/>
+                <TextEquiv>
+                    <Unicode>طلب سعيد بن العاص يد عائشة بنت عثمان بن عفان فقالت لا انتزوج به أبداً فقيل</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="46,1302 257,1317 332,1292 721,1280 828,1302 891,1274 891,1238 45,1264"/>
+                <Baseline points="51,1285 92,1285 134,1286 176,1286 218,1285 259,1285 301,1284 343,1284 385,1283 426,1282 468,1281 510,1280 552,1279 593,1278 635,1276 677,1275 719,1274 760,1273 802,1272 844,1272 886,1271"/>
+                <TextEquiv>
+                    <Unicode>لها ولمَ ذلك قالت لأنه أحمق له برزونان أشهبان فهو يتحمل مونة اثنين واللون واحد</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="54,1372 681,1368 765,1342 828,1359 835,1306 53,1323"/>
+                <Baseline points="58,1350 96,1350 135,1349 173,1348 212,1348 251,1347 289,1346 328,1345 367,1344 405,1343 444,1342 483,1341 521,1340 560,1340 599,1339 637,1338 676,1338 715,1338 753,1338 792,1338 831,1339"/>
+                <TextEquiv>
+                    <Unicode>رأى الأصمعي في البادية امرأة لا تتكلم فقال أخرساء هي فقيل له لا ولكنها</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="271,1450 386,1441 408,1422 600,1443 650,1419 834,1419 889,1401 888,1361 750,1377 707,1359 666,1378 543,1358 496,1382 441,1369 332,1389 269,1371"/>
+                <Baseline points="275,1409 305,1409 335,1408 366,1408 396,1407 427,1407 457,1407 487,1406 518,1406 548,1406 579,1406 609,1406 639,1405 670,1405 700,1404 731,1403 761,1403 791,1401 822,1400 852,1398 883,1396"/>
+                <TextEquiv>
+                    <Unicode>كان زوجها معجباً بنغمتها فتوف قالت أن لا تتكلم بعدد أبداً</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>١٦٠
+أقوال في النساء. حكم وأراء. مأثورات
+أقوال في النساء
+الأمة محموع أسر ولا يهذب الأسرة إلا المرأة فهي إذا أساس الحياة الإنسانية ـ فنلون
+ا المتعلمة المتهذبة أعظم أثر في حياة الأمة وأثرها يظهر في أولادها
+واحفادها والذين حولها
+جوردان
+للمرأة في تهذيب النوع الإنساني أكثر مما لأي أستاذ فيه وعندي منزلة الرجل
+في النوع منزلة الرأس من البدن ومنزلة المرأة منه منزلة القلب سميلن
+حكم وأراء
+إذا كانت ثيابك طاهرة وقلبك نجساً لا تحتاج الى مفتاح الأبواب الججيم
+العدي
+الرجاء هو ابن السماء وهو الوردة الوحيدة التي تبقى في حديقة الذكاء
+كاستلو
+لم يخلق الإنسان الذي هو شعاع الألوهية ليكون مقيداً بسلاسل الذهب
+لا روشفو كولد
+مأثورات
+قال الحجاج لامرأة من الخوارج والله لأعذبنكم عداً ولا حصدنكم حصداً
+فقالت انت تحصد والله يزرع فانظر أين قدرة المخلوق من قدرة الخالق
+طلب سعيد بن العاص يد عائشة بنت عثمان بن عفان فقالت لا انتزوج به أبداً فقيل
+لها ولمَ ذلك قالت لأنه أحمق له برزونان أشهبان فهو يتحمل مونة اثنين واللون واحد
+رأى الأصمعي في البادية امرأة لا تتكلم فقال أخرساء هي فقيل له لا ولكنها
+كان زوجها معجباً بنغمتها فتوف قالت أن لا تتكلم بعدد أبداً</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

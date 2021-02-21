@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v2#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2021-02-21T23:23:30.776+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Tags/>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1496" WIDTH="1000">
+         <TopMargin HEIGHT="0" WIDTH="1000" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1496" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1496" WIDTH="0" VPOS="0" HPOS="1000"/>
+         <BottomMargin HEIGHT="0" WIDTH="1000" VPOS="1496" HPOS="0"/>
+         <PrintSpace HEIGHT="1496" WIDTH="1000" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1362" WIDTH="833" VPOS="93" HPOS="127">
+               <Shape>
+                  <Polygon POINTS="127,93 127,1455 960,1455 960,93"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="136"
+                         HEIGHT="54"
+                         WIDTH="69"
+                         VPOS="82"
+                         HPOS="651">
+                  <String HEIGHT="54" WIDTH="207" VPOS="82" HPOS="513" CONTENT="ن"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="212"
+                         HEIGHT="105"
+                         WIDTH="149"
+                         VPOS="107"
+                         HPOS="523">
+                  <String HEIGHT="105" WIDTH="447" VPOS="107" HPOS="225" CONTENT="ه"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="277"
+                         HEIGHT="79"
+                         WIDTH="357"
+                         VPOS="198"
+                         HPOS="342">
+                  <String HEIGHT="79" WIDTH="1071" VPOS="198" HPOS="-372" CONTENT="ك"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="362"
+                         HEIGHT="75"
+                         WIDTH="149"
+                         VPOS="287"
+                         HPOS="739">
+                  <String HEIGHT="75"
+                          WIDTH="112"
+                          VPOS="287"
+                          HPOS="727"
+                          CONTENT="الجزء"/>
+                  <SP HEIGHT="75" WIDTH="12" VPOS="287" HPOS="838"/>
+                  <String HEIGHT="75"
+                          WIDTH="99"
+                          VPOS="287"
+                          HPOS="789"
+                          CONTENT="السادس"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="377"
+                         HEIGHT="91"
+                         WIDTH="137"
+                         VPOS="286"
+                         HPOS="171">
+                  <String HEIGHT="91"
+                          WIDTH="114"
+                          VPOS="286"
+                          HPOS="160"
+                          CONTENT="المحلد"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="286" HPOS="274"/>
+                  <String HEIGHT="91"
+                          WIDTH="80"
+                          VPOS="286"
+                          HPOS="228"
+                          CONTENT="الأول"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="469"
+                         HEIGHT="65"
+                         WIDTH="430"
+                         VPOS="404"
+                         HPOS="315">
+                  <String HEIGHT="65"
+                          WIDTH="138"
+                          VPOS="404"
+                          HPOS="300"
+                          CONTENT="بيروت"/>
+                  <SP HEIGHT="65" WIDTH="15" VPOS="404" HPOS="438"/>
+                  <String HEIGHT="65" WIDTH="92" VPOS="404" HPOS="392" CONTENT="في"/>
+                  <SP HEIGHT="65" WIDTH="15" VPOS="404" HPOS="484"/>
+                  <String HEIGHT="65" WIDTH="92" VPOS="404" HPOS="438" CONTENT="٢٠"/>
+                  <SP HEIGHT="65" WIDTH="15" VPOS="404" HPOS="530"/>
+                  <String HEIGHT="65"
+                          WIDTH="138"
+                          VPOS="404"
+                          HPOS="484"
+                          CONTENT="تشرين"/>
+                  <SP HEIGHT="65" WIDTH="15" VPOS="404" HPOS="622"/>
+                  <String HEIGHT="65"
+                          WIDTH="154"
+                          VPOS="404"
+                          HPOS="576"
+                          CONTENT="الثاني"/>
+                  <SP HEIGHT="65" WIDTH="15" VPOS="404" HPOS="730"/>
+                  <String HEIGHT="65" WIDTH="77" VPOS="404" HPOS="668" CONTENT="سنة"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="658"
+                         HEIGHT="92"
+                         WIDTH="221"
+                         VPOS="566"
+                         HPOS="426">
+                  <String HEIGHT="92" WIDTH="221" VPOS="566" HPOS="389" CONTENT="مس"/>
+                  <SP HEIGHT="92" WIDTH="37" VPOS="566" HPOS="610"/>
+                  <String HEIGHT="92" WIDTH="184" VPOS="566" HPOS="463" CONTENT="برن"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="748"
+                         HEIGHT="74"
+                         WIDTH="754"
+                         VPOS="674"
+                         HPOS="129">
+                  <String HEIGHT="74" WIDTH="85" VPOS="674" HPOS="117" CONTENT="نبغ"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="202"/>
+                  <String HEIGHT="74" WIDTH="73" VPOS="674" HPOS="165" CONTENT="في"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="238"/>
+                  <String HEIGHT="74"
+                          WIDTH="134"
+                          VPOS="674"
+                          HPOS="202"
+                          CONTENT="انكلترا"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="336"/>
+                  <String HEIGHT="74" WIDTH="97" VPOS="674" HPOS="299" CONTENT="كثير"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="397"/>
+                  <String HEIGHT="74" WIDTH="73" VPOS="674" HPOS="360" CONTENT="من"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="433"/>
+                  <String HEIGHT="74" WIDTH="97" VPOS="674" HPOS="397" CONTENT="نخمة"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="494"/>
+                  <String HEIGHT="74"
+                          WIDTH="158"
+                          VPOS="674"
+                          HPOS="457"
+                          CONTENT="الفاضلات."/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="615"/>
+                  <String HEIGHT="74"
+                          WIDTH="122"
+                          VPOS="674"
+                          HPOS="579"
+                          CONTENT="واشتهر"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="701"/>
+                  <String HEIGHT="74" WIDTH="97" VPOS="674" HPOS="664" CONTENT="فيها"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="761"/>
+                  <String HEIGHT="74" WIDTH="97" VPOS="674" HPOS="725" CONTENT="فريق"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="822"/>
+                  <String HEIGHT="74" WIDTH="97" VPOS="674" HPOS="786" CONTENT="وافر"/>
+                  <SP HEIGHT="74" WIDTH="12" VPOS="674" HPOS="883"/>
+                  <String HEIGHT="74" WIDTH="49" VPOS="674" HPOS="834" CONTENT="من"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="815"
+                         HEIGHT="69"
+                         WIDTH="823"
+                         VPOS="746"
+                         HPOS="135">
+                  <String HEIGHT="69" WIDTH="94" VPOS="746" HPOS="123" CONTENT="خيرة"/>
+                  <SP HEIGHT="69" WIDTH="12" VPOS="746" HPOS="217"/>
+                  <String HEIGHT="69"
+                          WIDTH="141"
+                          VPOS="746"
+                          HPOS="182"
+                          CONTENT="السيدات."/>
+                  <SP HEIGHT="69" WIDTH="12" VPOS="746" HPOS="323"/>
+                  <String HEIGHT="69"
+                          WIDTH="106"
+                          VPOS="746"
+                          HPOS="288"
+                          CONTENT="فبلغت"/>
+                  <SP HEIGHT="69" WIDTH="12" VPOS="746" HPOS="394"/>
+                  <String HEIGHT="69"
+                          WIDTH="118"
+                          VPOS="746"
+                          HPOS="358"
+                          CONTENT="شهرتهن"/>
+                  <SP HEIGHT="69" WIDTH="12" VPOS="746" HPOS="476"/>
+                  <String HEIGHT="69" WIDTH="94" VPOS="746" HPOS="441" CONTENT="جميع"/>
+                  <SP HEIGHT="69" WIDTH="12" VPOS="746" HPOS="535"/>
+                  <String HEIGHT="69"
+                          WIDTH="118"
+                          VPOS="746"
+                          HPOS="499"
+                          CONTENT="العالم"/>
+                  <SP HEIGHT="69" WIDTH="12" VPOS="746" HPOS="617"/>
+                  <String HEIGHT="69"
+                          WIDTH="141"
+                          VPOS="746"
+                          HPOS="582"
+                          CONTENT="المتمدن."/>
+                  <SP HEIGHT="69" WIDTH="12" VPOS="746" HPOS="723"/>
+                  <String HEIGHT="69"
+                          WIDTH="118"
+                          VPOS="746"
+                          HPOS="688"
+                          CONTENT="واقترن"/>
+                  <SP HEIGHT="69" WIDTH="12" VPOS="746" HPOS="805"/>
+                  <String HEIGHT="69"
+                          WIDTH="106"
+                          VPOS="746"
+                          HPOS="770"
+                          CONTENT="دكرهن"/>
+                  <SP HEIGHT="69" WIDTH="12" VPOS="746" HPOS="876"/>
+                  <String HEIGHT="69"
+                          WIDTH="129"
+                          VPOS="746"
+                          HPOS="829"
+                          CONTENT="بالاحترام"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="885"
+                         HEIGHT="82"
+                         WIDTH="838"
+                         VPOS="803"
+                         HPOS="122">
+                  <String HEIGHT="82"
+                          WIDTH="160"
+                          VPOS="803"
+                          HPOS="110"
+                          CONTENT="والإكرام."/>
+                  <SP HEIGHT="82" WIDTH="12" VPOS="803" HPOS="270"/>
+                  <String HEIGHT="82"
+                          WIDTH="111"
+                          VPOS="803"
+                          HPOS="233"
+                          CONTENT="لأنهم"/>
+                  <SP HEIGHT="82" WIDTH="12" VPOS="803" HPOS="344"/>
+                  <String HEIGHT="82" WIDTH="74" VPOS="803" HPOS="307" CONTENT="كن"/>
+                  <SP HEIGHT="82" WIDTH="12" VPOS="803" HPOS="381"/>
+                  <String HEIGHT="82"
+                          WIDTH="136"
+                          VPOS="803"
+                          HPOS="344"
+                          CONTENT="لبلادهم"/>
+                  <SP HEIGHT="82" WIDTH="12" VPOS="803" HPOS="479"/>
+                  <String HEIGHT="82"
+                          WIDTH="111"
+                          VPOS="803"
+                          HPOS="442"
+                          CONTENT="خيراً"/>
+                  <SP HEIGHT="82" WIDTH="12" VPOS="803" HPOS="553"/>
+                  <String HEIGHT="82"
+                          WIDTH="123"
+                          VPOS="803"
+                          HPOS="516"
+                          CONTENT="عميماً"/>
+                  <SP HEIGHT="82" WIDTH="12" VPOS="803" HPOS="640"/>
+                  <String HEIGHT="82"
+                          WIDTH="173"
+                          VPOS="803"
+                          HPOS="603"
+                          CONTENT="وللإنسانية"/>
+                  <SP HEIGHT="82" WIDTH="12" VPOS="803" HPOS="775"/>
+                  <String HEIGHT="82"
+                          WIDTH="123"
+                          VPOS="803"
+                          HPOS="738"
+                          CONTENT="نصيرات"/>
+                  <SP HEIGHT="82" WIDTH="12" VPOS="803" HPOS="861"/>
+                  <String HEIGHT="82"
+                          WIDTH="136"
+                          VPOS="803"
+                          HPOS="824"
+                          CONTENT="مخلصات."/>
+                  <SP HEIGHT="82" WIDTH="12" VPOS="803" HPOS="960"/>
+                  <String HEIGHT="82" WIDTH="49" VPOS="803" HPOS="911" CONTENT="إذ"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="935"
+                         HEIGHT="60"
+                         WIDTH="822"
+                         VPOS="875"
+                         HPOS="135">
+                  <String HEIGHT="60"
+                          WIDTH="113"
+                          VPOS="875"
+                          HPOS="124"
+                          CONTENT="خدمتها"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="236"/>
+                  <String HEIGHT="60"
+                          WIDTH="101"
+                          VPOS="875"
+                          HPOS="203"
+                          CONTENT="جهدهن"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="304"/>
+                  <String HEIGHT="60" WIDTH="79" VPOS="875" HPOS="270" CONTENT="مما"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="349"/>
+                  <String HEIGHT="60"
+                          WIDTH="101"
+                          VPOS="875"
+                          HPOS="315"
+                          CONTENT="أوتين"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="417"/>
+                  <String HEIGHT="60" WIDTH="68" VPOS="875" HPOS="383" CONTENT="من"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="450"/>
+                  <String HEIGHT="60"
+                          WIDTH="124"
+                          VPOS="875"
+                          HPOS="417"
+                          CONTENT="الأهلية"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="540"/>
+                  <String HEIGHT="60" WIDTH="90" VPOS="875" HPOS="507" CONTENT="فطرة"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="597"/>
+                  <String HEIGHT="60"
+                          WIDTH="146"
+                          VPOS="875"
+                          HPOS="563"
+                          CONTENT="واكتساباً"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="709"/>
+                  <String HEIGHT="60"
+                          WIDTH="101"
+                          VPOS="875"
+                          HPOS="675"
+                          CONTENT="فنفعن"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="777"/>
+                  <String HEIGHT="60"
+                          WIDTH="101"
+                          VPOS="875"
+                          HPOS="743"
+                          CONTENT="قومهن"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="844"/>
+                  <String HEIGHT="60"
+                          WIDTH="101"
+                          VPOS="875"
+                          HPOS="811"
+                          CONTENT="نفعاً"/>
+                  <SP HEIGHT="60" WIDTH="11" VPOS="875" HPOS="912"/>
+                  <String HEIGHT="60"
+                          WIDTH="90"
+                          VPOS="875"
+                          HPOS="867"
+                          CONTENT="جزيلاً"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="1005"
+                         HEIGHT="58"
+                         WIDTH="817"
+                         VPOS="947"
+                         HPOS="139">
+                  <String HEIGHT="58" WIDTH="87" VPOS="947" HPOS="128" CONTENT="وقمن"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="215"/>
+                  <String HEIGHT="58"
+                          WIDTH="142"
+                          VPOS="947"
+                          HPOS="183"
+                          CONTENT="بواجباتهن"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="324"/>
+                  <String HEIGHT="58"
+                          WIDTH="109"
+                          VPOS="947"
+                          HPOS="292"
+                          CONTENT="قياماً"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="400"/>
+                  <String HEIGHT="58"
+                          WIDTH="98"
+                          VPOS="947"
+                          HPOS="368"
+                          CONTENT="حملاً"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="466"/>
+                  <String HEIGHT="58" WIDTH="76" VPOS="947" HPOS="433" CONTENT="نان"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="509"/>
+                  <String HEIGHT="58"
+                          WIDTH="98"
+                          VPOS="947"
+                          HPOS="477"
+                          CONTENT="بسببه"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="575"/>
+                  <String HEIGHT="58"
+                          WIDTH="109"
+                          VPOS="947"
+                          HPOS="542"
+                          CONTENT="مقاماً"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="651"/>
+                  <String HEIGHT="58"
+                          WIDTH="109"
+                          VPOS="947"
+                          HPOS="618"
+                          CONTENT="جليلاً"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="727"/>
+                  <String HEIGHT="58"
+                          WIDTH="109"
+                          VPOS="947"
+                          HPOS="695"
+                          CONTENT="واسماً"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="803"/>
+                  <String HEIGHT="58"
+                          WIDTH="120"
+                          VPOS="947"
+                          HPOS="771"
+                          CONTENT="نبيلاً."/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="891"/>
+                  <String HEIGHT="58"
+                          WIDTH="98"
+                          VPOS="947"
+                          HPOS="858"
+                          CONTENT="فضلاً"/>
+                  <SP HEIGHT="58" WIDTH="11" VPOS="947" HPOS="956"/>
+                  <String HEIGHT="58" WIDTH="44" VPOS="947" HPOS="912" CONTENT="عى"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="1074"
+                         HEIGHT="72"
+                         WIDTH="822"
+                         VPOS="1002"
+                         HPOS="138">
+                  <String HEIGHT="72"
+                          WIDTH="86"
+                          VPOS="1002"
+                          HPOS="128"
+                          CONTENT="تمتعن"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="214"/>
+                  <String HEIGHT="72" WIDTH="57" VPOS="1002" HPOS="186" CONTENT="به"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="243"/>
+                  <String HEIGHT="72" WIDTH="57" VPOS="1002" HPOS="214" CONTENT="من"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="272"/>
+                  <String HEIGHT="72"
+                          WIDTH="105"
+                          VPOS="1002"
+                          HPOS="243"
+                          CONTENT="الملذات"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="348"/>
+                  <String HEIGHT="72"
+                          WIDTH="105"
+                          VPOS="1002"
+                          HPOS="320"
+                          CONTENT="الروحية"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="425"/>
+                  <String HEIGHT="72"
+                          WIDTH="105"
+                          VPOS="1002"
+                          HPOS="396"
+                          CONTENT="السامية"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="501"/>
+                  <String HEIGHT="72"
+                          WIDTH="115"
+                          VPOS="1002"
+                          HPOS="473"
+                          CONTENT="والمسرات"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="587"/>
+                  <String HEIGHT="72"
+                          WIDTH="105"
+                          VPOS="1002"
+                          HPOS="559"
+                          CONTENT="الأدبية"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="664"/>
+                  <String HEIGHT="72"
+                          WIDTH="105"
+                          VPOS="1002"
+                          HPOS="635"
+                          CONTENT="الراقية"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="740"/>
+                  <String HEIGHT="72"
+                          WIDTH="115"
+                          VPOS="1002"
+                          HPOS="711"
+                          CONTENT="والفوائد"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="826"/>
+                  <String HEIGHT="72"
+                          WIDTH="96"
+                          VPOS="1002"
+                          HPOS="798"
+                          CONTENT="الحسية"/>
+                  <SP HEIGHT="72" WIDTH="10" VPOS="1002" HPOS="893"/>
+                  <String HEIGHT="72"
+                          WIDTH="105"
+                          VPOS="1002"
+                          HPOS="855"
+                          CONTENT="والمعنوية"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="1141"
+                         HEIGHT="86"
+                         WIDTH="766"
+                         VPOS="1055"
+                         HPOS="130">
+                  <String HEIGHT="86" WIDTH="91" VPOS="1055" HPOS="117" CONTENT="وقد"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="208"/>
+                  <String HEIGHT="86"
+                          WIDTH="130"
+                          VPOS="1055"
+                          HPOS="169"
+                          CONTENT="اختلفت"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="299"/>
+                  <String HEIGHT="86"
+                          WIDTH="130"
+                          VPOS="1055"
+                          HPOS="260"
+                          CONTENT="الأمور"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="390"/>
+                  <String HEIGHT="86"
+                          WIDTH="104"
+                          VPOS="1055"
+                          HPOS="351"
+                          CONTENT="التي"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="455"/>
+                  <String HEIGHT="86"
+                          WIDTH="104"
+                          VPOS="1055"
+                          HPOS="416"
+                          CONTENT="خدمت"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="519"/>
+                  <String HEIGHT="86" WIDTH="91" VPOS="1055" HPOS="481" CONTENT="بها"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="571"/>
+                  <String HEIGHT="86" WIDTH="91" VPOS="1055" HPOS="532" CONTENT="تلك"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="623"/>
+                  <String HEIGHT="86"
+                          WIDTH="130"
+                          VPOS="1055"
+                          HPOS="584"
+                          CONTENT="السدات"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="714"/>
+                  <String HEIGHT="86"
+                          WIDTH="130"
+                          VPOS="1055"
+                          HPOS="675"
+                          CONTENT="بلادهن"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="805"/>
+                  <String HEIGHT="86"
+                          WIDTH="117"
+                          VPOS="1055"
+                          HPOS="766"
+                          CONTENT="فافدن"/>
+                  <SP HEIGHT="86" WIDTH="13" VPOS="1055" HPOS="883"/>
+                  <String HEIGHT="86" WIDTH="65" VPOS="1055" HPOS="831" CONTENT="بها"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="1207"
+                         HEIGHT="84"
+                         WIDTH="831"
+                         VPOS="1123"
+                         HPOS="130">
+                  <String HEIGHT="84"
+                          WIDTH="100"
+                          VPOS="1123"
+                          HPOS="119"
+                          CONTENT="الناس"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="219"/>
+                  <String HEIGHT="84"
+                          WIDTH="133"
+                          VPOS="1123"
+                          HPOS="185"
+                          CONTENT="اختلافاً"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="318"/>
+                  <String HEIGHT="84"
+                          WIDTH="100"
+                          VPOS="1123"
+                          HPOS="285"
+                          CONTENT="بيناً"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="385"/>
+                  <String HEIGHT="84" WIDTH="66" VPOS="1123" HPOS="352" CONTENT="لا"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="418"/>
+                  <String HEIGHT="84" WIDTH="66" VPOS="1123" HPOS="385" CONTENT="بد"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="451"/>
+                  <String HEIGHT="84" WIDTH="78" VPOS="1123" HPOS="418" CONTENT="منه"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="496"/>
+                  <String HEIGHT="84"
+                          WIDTH="122"
+                          VPOS="1123"
+                          HPOS="462"
+                          CONTENT="للعمران"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="584"/>
+                  <String HEIGHT="84"
+                          WIDTH="144"
+                          VPOS="1123"
+                          HPOS="551"
+                          CONTENT="والارتقاء"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="695"/>
+                  <String HEIGHT="84"
+                          WIDTH="111"
+                          VPOS="1123"
+                          HPOS="662"
+                          CONTENT="وتنوعت"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="773"/>
+                  <String HEIGHT="84"
+                          WIDTH="100"
+                          VPOS="1123"
+                          HPOS="739"
+                          CONTENT="وفقاً"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="839"/>
+                  <String HEIGHT="84"
+                          WIDTH="111"
+                          VPOS="1123"
+                          HPOS="806"
+                          CONTENT="لحاجات"/>
+                  <SP HEIGHT="84" WIDTH="11" VPOS="1123" HPOS="917"/>
+                  <String HEIGHT="84"
+                          WIDTH="89"
+                          VPOS="1123"
+                          HPOS="872"
+                          CONTENT="الزمان"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="1266"
+                         HEIGHT="80"
+                         WIDTH="822"
+                         VPOS="1186"
+                         HPOS="138">
+                  <String HEIGHT="80"
+                          WIDTH="135"
+                          VPOS="1186"
+                          HPOS="127"
+                          CONTENT="والمكان."/>
+                  <SP HEIGHT="80" WIDTH="11" VPOS="1186" HPOS="262"/>
+                  <String HEIGHT="80"
+                          WIDTH="101"
+                          VPOS="1186"
+                          HPOS="228"
+                          CONTENT="فمنهن"/>
+                  <SP HEIGHT="80" WIDTH="11" VPOS="1186" HPOS="329"/>
+                  <String HEIGHT="80"
+                          WIDTH="124"
+                          VPOS="1186"
+                          HPOS="296"
+                          CONTENT="الكاتبة"/>
+                  <SP HEIGHT="80" WIDTH="11" VPOS="1186" HPOS="420"/>
+                  <String HEIGHT="80"
+                          WIDTH="135"
+                          VPOS="1186"
+                          HPOS="386"
+                          CONTENT="والعالمة"/>
+                  <SP HEIGHT="80" WIDTH="11" VPOS="1186" HPOS="521"/>
+                  <String HEIGHT="80"
+                          WIDTH="135"
+                          VPOS="1186"
+                          HPOS="487"
+                          CONTENT="والخطيبة"/>
+                  <SP HEIGHT="80" WIDTH="11" VPOS="1186" HPOS="622"/>
+                  <String HEIGHT="80"
+                          WIDTH="135"
+                          VPOS="1186"
+                          HPOS="588"
+                          CONTENT="والشاعرة"/>
+                  <SP HEIGHT="80" WIDTH="11" VPOS="1186" HPOS="724"/>
+                  <String HEIGHT="80"
+                          WIDTH="135"
+                          VPOS="1186"
+                          HPOS="690"
+                          CONTENT="والمعلمة"/>
+                  <SP HEIGHT="80" WIDTH="11" VPOS="1186" HPOS="825"/>
+                  <String HEIGHT="80"
+                          WIDTH="135"
+                          VPOS="1186"
+                          HPOS="791"
+                          CONTENT="والواعظة"/>
+                  <SP HEIGHT="80" WIDTH="11" VPOS="1186" HPOS="926"/>
+                  <String HEIGHT="80"
+                          WIDTH="79"
+                          VPOS="1186"
+                          HPOS="881"
+                          CONTENT="ومبهن"/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="1318"
+                         HEIGHT="65"
+                         WIDTH="824"
+                         VPOS="1253"
+                         HPOS="141">
+                  <String HEIGHT="65"
+                          WIDTH="126"
+                          VPOS="1253"
+                          HPOS="130"
+                          CONTENT="الطبيبة"/>
+                  <SP HEIGHT="65" WIDTH="11" VPOS="1253" HPOS="255"/>
+                  <String HEIGHT="65"
+                          WIDTH="149"
+                          VPOS="1253"
+                          HPOS="221"
+                          CONTENT="والمحامية"/>
+                  <SP HEIGHT="65" WIDTH="11" VPOS="1253" HPOS="370"/>
+                  <String HEIGHT="65"
+                          WIDTH="137"
+                          VPOS="1253"
+                          HPOS="336"
+                          CONTENT="والممرضة"/>
+                  <SP HEIGHT="65" WIDTH="11" VPOS="1253" HPOS="473"/>
+                  <String HEIGHT="65"
+                          WIDTH="137"
+                          VPOS="1253"
+                          HPOS="439"
+                          CONTENT="والمحسنة"/>
+                  <SP HEIGHT="65" WIDTH="11" VPOS="1253" HPOS="576"/>
+                  <String HEIGHT="65"
+                          WIDTH="149"
+                          VPOS="1253"
+                          HPOS="542"
+                          CONTENT="والمكتشفة"/>
+                  <SP HEIGHT="65" WIDTH="11" VPOS="1253" HPOS="690"/>
+                  <String HEIGHT="65"
+                          WIDTH="160"
+                          VPOS="1253"
+                          HPOS="656"
+                          CONTENT="والمخترعة."/>
+                  <SP HEIGHT="65" WIDTH="11" VPOS="1253" HPOS="816"/>
+                  <String HEIGHT="65" WIDTH="80" VPOS="1253" HPOS="782" CONTENT="وكل"/>
+                  <SP HEIGHT="65" WIDTH="11" VPOS="1253" HPOS="862"/>
+                  <String HEIGHT="65" WIDTH="80" VPOS="1253" HPOS="828" CONTENT="فئة"/>
+                  <SP HEIGHT="65" WIDTH="11" VPOS="1253" HPOS="908"/>
+                  <String HEIGHT="65"
+                          WIDTH="92"
+                          VPOS="1253"
+                          HPOS="873"
+                          CONTENT="عملت"/>
+                  <SP HEIGHT="65" WIDTH="11" VPOS="1253" HPOS="965"/>
+                  <String HEIGHT="65" WIDTH="46" VPOS="1253" HPOS="919" CONTENT="في"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="1399"
+                         HEIGHT="91"
+                         WIDTH="822"
+                         VPOS="1308"
+                         HPOS="135">
+                  <String HEIGHT="91"
+                          WIDTH="91"
+                          VPOS="1308"
+                          HPOS="124"
+                          CONTENT="سبيل"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="215"/>
+                  <String HEIGHT="91"
+                          WIDTH="148"
+                          VPOS="1308"
+                          HPOS="181"
+                          CONTENT="الإنسانية"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="329"/>
+                  <String HEIGHT="91" WIDTH="69" VPOS="1308" HPOS="295" CONTENT="ما"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="363"/>
+                  <String HEIGHT="91"
+                          WIDTH="126"
+                          VPOS="1308"
+                          HPOS="329"
+                          CONTENT="استطاعت"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="455"/>
+                  <String HEIGHT="91" WIDTH="80" VPOS="1308" HPOS="420" CONTENT="لأن"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="500"/>
+                  <String HEIGHT="91"
+                          WIDTH="103"
+                          VPOS="1308"
+                          HPOS="466"
+                          CONTENT="الناس"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="569"/>
+                  <String HEIGHT="91" WIDTH="69" VPOS="1308" HPOS="535" CONTENT="لا"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="603"/>
+                  <String HEIGHT="91" WIDTH="80" VPOS="1308" HPOS="569" CONTENT="غنى"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="649"/>
+                  <String HEIGHT="91" WIDTH="80" VPOS="1308" HPOS="615" CONTENT="لهم"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="694"/>
+                  <String HEIGHT="91" WIDTH="69" VPOS="1308" HPOS="660" CONTENT="عن"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="729"/>
+                  <String HEIGHT="91"
+                          WIDTH="103"
+                          VPOS="1308"
+                          HPOS="694"
+                          CONTENT="أعمال"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="797"/>
+                  <String HEIGHT="91"
+                          WIDTH="114"
+                          VPOS="1308"
+                          HPOS="763"
+                          CONTENT="الجميع"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="877"/>
+                  <String HEIGHT="91"
+                          WIDTH="91"
+                          VPOS="1308"
+                          HPOS="843"
+                          CONTENT="مهما"/>
+                  <SP HEIGHT="91" WIDTH="11" VPOS="1308" HPOS="934"/>
+                  <String HEIGHT="91"
+                          WIDTH="69"
+                          VPOS="1308"
+                          HPOS="889"
+                          CONTENT="كانت"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="1472"
+                         HEIGHT="97"
+                         WIDTH="815"
+                         VPOS="1375"
+                         HPOS="145">
+                  <String HEIGHT="97" WIDTH="72" VPOS="1375" HPOS="133" CONTENT="لا"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="205"/>
+                  <String HEIGHT="97"
+                          WIDTH="96"
+                          VPOS="1375"
+                          HPOS="169"
+                          CONTENT="سيما"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="265"/>
+                  <String HEIGHT="97" WIDTH="84" VPOS="1375" HPOS="229" CONTENT="إذا"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="313"/>
+                  <String HEIGHT="97"
+                          WIDTH="120"
+                          VPOS="1375"
+                          HPOS="277"
+                          CONTENT="الأمست"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="397"/>
+                  <String HEIGHT="97"
+                          WIDTH="108"
+                          VPOS="1375"
+                          HPOS="361"
+                          CONTENT="النفس"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="469"/>
+                  <String HEIGHT="97"
+                          WIDTH="120"
+                          VPOS="1375"
+                          HPOS="433"
+                          CONTENT="ومازجت"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="553"/>
+                  <String HEIGHT="97"
+                          WIDTH="108"
+                          VPOS="1375"
+                          HPOS="517"
+                          CONTENT="الروح"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="624"/>
+                  <String HEIGHT="97"
+                          WIDTH="120"
+                          VPOS="1375"
+                          HPOS="588"
+                          CONTENT="كالشعر"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="708"/>
+                  <String HEIGHT="97"
+                          WIDTH="108"
+                          VPOS="1375"
+                          HPOS="672"
+                          CONTENT="مثلاً"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="780"/>
+                  <String HEIGHT="97"
+                          WIDTH="132"
+                          VPOS="1375"
+                          HPOS="744"
+                          CONTENT="وخصوصاً"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="876"/>
+                  <String HEIGHT="97" WIDTH="84" VPOS="1375" HPOS="840" CONTENT="إذا"/>
+                  <SP HEIGHT="97" WIDTH="12" VPOS="1375" HPOS="924"/>
+                  <String HEIGHT="97"
+                          WIDTH="84"
+                          VPOS="1375"
+                          HPOS="876"
+                          CONTENT="تناول"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
