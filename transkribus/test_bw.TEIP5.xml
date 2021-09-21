@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:oape="https://openarabicpe.github.io/ns">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +17,8 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <tei:change when="2021-06-24" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag xmlns:oape="https://openarabicpe.github.io/ns"
+        >bibl type="periodical"</tag> and <tag xmlns:oape="https://openarabicpe.github.io/ns">title level="j"</tag>.</tei:change>
       <tei:change when="2021-02-17" who="#pers_TG" xml:id="d2e41">Added automated attributes <tei:att>ed</tei:att> and <tei:att>edRef</tei:att> on all milestone elements.</tei:change>
       <change when="2021-02-17" xml:lang="en">This file was created by automatic conversion of METS/Page XML to TEI P5 xml.</change>
     </revisionDesc>
@@ -1995,16 +1997,16 @@
           ed="print" edRef="#edition_1" facs="#facs_2_r1l3" n="N003"/> عجب الفجرس
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l4" n="N004"/>ح
             <lb ed="print"
-          edRef="#edition_1" facs="#facs_2_r1l5" n="N005"/>فبرس المحلد الأول من مجلة الحسناء
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l6" n="N006"/>د
-            <lb ed="print"
-          edRef="#edition_1" facs="#facs_2_r1l7" n="N007"/>ف
-            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l8" n="N008"/>أبَّار أدية (مطبوعات حديثة ٦٢ قبل التربية
+          edRef="#edition_1" facs="#facs_2_r1l5" n="N005"/>فبرس المحلد الأول من <bibl change="#d9e50" resp="#xslt" subtype="journal" type="periodical">مجلة <title change="#d9e50" level="j"
+          >الحسناء</title></bibl> <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l6" n="N006"/>د
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l7" n="N007"/>ف
             <lb
-          ed="print" edRef="#edition_1" facs="#facs_2_r1l9" n="N009"/>٨٧
+          ed="print" edRef="#edition_1" facs="#facs_2_r1l8" n="N008"/>أبَّار أدية (مطبوعات حديثة ٦٢ قبل التربية
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l9" n="N009"
+          />٨٧
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l10" n="N010"/>٩٥
-            <lb ed="print" edRef="#edition_1"
-          facs="#facs_2_r1l11" n="N011"/>و ٩٥ و ١٢٥ و ١٥٩ و ١٩١ و ١٢٢٢ لماذا ترهيب
+            <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l11" n="N011"
+          />و ٩٥ و ١٢٥ و ١٥٩ و ١٩١ و ١٢٢٢ لماذا ترهيب
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l12" n="N012"
           />و ٢٥٤ و ٢٨٦ و ٣١٨ و ٣٥٠ و ٣٨٢. تقدمي ولا تخافي ابتها الحسناء ٩٤٩
             <lb ed="print" edRef="#edition_1" facs="#facs_2_r1l13" n="N013"/>٣٢٧ كلمة في التمدن
@@ -3000,7 +3002,8 @@
             <lb ed="print" edRef="#edition_1" facs="#facs_19_r1l7"
           n="N007"/>جان ديريو في الجزائر . سنتين محلة إسلامية أدبية أخبارة سمتها الأحناء ولم
             <lb ed="print" edRef="#edition_1" facs="#facs_19_r1l8" n="N008"
-          />ختص بالنساء. وعم عمود رك حسن مسئ مجلة المحلات العربية في مصر
+          />ختص بالنساء. وعم عمود رك حسن مسئ <bibl change="#d9e50" resp="#xslt" subtype="journal" type="periodical">مجلة <title change="#d9e50" level="j"
+          >المحلات</title>العربية</bibl> في مصر
             <lb ed="print" edRef="#edition_1" facs="#facs_19_r1l9" n="N009"
           />في حتام سنتها الثانية أي من ستة أعوام على إنشاء محلة بسائية ولم ينعد عمره
             <lb ed="print" edRef="#edition_1" facs="#facs_19_r1l10" n="N010"
@@ -3063,23 +3066,23 @@
           />ونرانا مدفوعين بحكم الواحب الى ذكر المحلات والجرائد العربية التي أكثرت
             <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l15" n="N015"
           />من البحث في الشوون النسائية واشتهرت في ذلك كثيراً كالمقتطف والجامعة
-            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l16" n="N016"
-          />والهلال والثريا والمحط ومجلة المحلات والمحبة والهدى ولسان الحال والنصي
-            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l17" n="N017"/>ة
+            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l16" n="N016"/>والهلال والثريا والمحط و<bibl
+          change="#d9e50" resp="#xslt" subtype="journal" type="periodical">مجلة <title change="#d9e50" level="j">المحلات</title></bibl> والمحبة والهدى ولسان الحال والنصي
             <lb ed="print"
-          edRef="#edition_1" facs="#facs_20_r1l18" n="N018"/>الى الإمام الى العلي
-            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l19" n="N019"/>ن
+          edRef="#edition_1" facs="#facs_20_r1l17" n="N017"/>ة
+            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l18" n="N018"/>الى الإمام الى العلي
             <lb ed="print"
-          edRef="#edition_1" facs="#facs_20_r1l20" n="N020"/>للكاتبة التركة الشهيرة فريدة هانم
-            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l21" n="N021"
-          />ترجمها عن اللغة الفرنسوية الكاتب المجيد انطون أفندي جميل
-            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l22" n="N022"
-          />ما الطف الطيران وما الطف التحليق في الفضاء. . . طيري ايتها الحمامة
-            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l23" n="N023"/>وحلقي في سماء اللانهاية
+          edRef="#edition_1" facs="#facs_20_r1l19" n="N019"/>ن
+            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l20" n="N020"/>للكاتبة التركة الشهيرة فريدة هانم
             <lb
-          ed="print" edRef="#edition_1" facs="#facs_20_r1l24" n="N024"/>طيري الى الأعالي. ففي الأعالي لا تخشى على جناحك من التهسيم. وفي
-            <lb ed="print" edRef="#edition_1"
-          facs="#facs_20_r1l25" n="N025"/>الأعالي تميزين الأشياء أحسن تمييز</ab>
+          ed="print" edRef="#edition_1" facs="#facs_20_r1l21" n="N021"/>ترجمها عن اللغة الفرنسوية الكاتب المجيد انطون أفندي جميل
+            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l22"
+          n="N022"/>ما الطف الطيران وما الطف التحليق في الفضاء. . . طيري ايتها الحمامة
+            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l23" n="N023"
+          />وحلقي في سماء اللانهاية
+            <lb ed="print" edRef="#edition_1" facs="#facs_20_r1l24" n="N024"/>طيري الى الأعالي. ففي الأعالي لا تخشى على جناحك من التهسيم. وفي
+            <lb
+          ed="print" edRef="#edition_1" facs="#facs_20_r1l25" n="N025"/>الأعالي تميزين الأشياء أحسن تمييز</ab>
         <pb ed="print" edRef="#edition_1" facs="#facs_21" n="21" xml:id="img_0021"/>
         <ab facs="#facs_21_r1"> <lb ed="print" edRef="#edition_1" facs="#facs_21_r1l1" n="N001"/>٦
             <lb ed="print" edRef="#edition_1" facs="#facs_21_r1l2" n="N002"
@@ -3967,10 +3970,10 @@
           edRef="#edition_1" facs="#facs_37_r1l13" n="N013"/>لداب السدات السوريات في بولسير عاصماء إلا رحنتين بالنهوص الأدبي
             <lb ed="print" edRef="#edition_1" facs="#facs_37_r1l14"
           n="N014"/>والعلمي فالفن جمعة النبضة النسائية وأقدمب الأنسة أدال سمعون على الكتابة في
-            <lb ed="print" edRef="#edition_1" facs="#facs_37_r1l15" n="N015"
-          />جريدة السلام وتفاوصن في وجوب إنشاء مدرسة للبنات. وشرعب جمعية تقسيم
-            <lb ed="print" edRef="#edition_1" facs="#facs_37_r1l16" n="N016"
-          />البائس تصدص قسم من مدرستها لن
+            <lb ed="print" edRef="#edition_1" facs="#facs_37_r1l15" n="N015"/><bibl change="#d9e50"
+          resp="#xslt" subtype="newspaper" type="periodical">جريدة <title change="#d9e50" level="j">السلام</title></bibl> وتفاوصن في وجوب إنشاء مدرسة للبنات. وشرعب جمعية تقسيم
+            <lb
+          ed="print" edRef="#edition_1" facs="#facs_37_r1l16" n="N016"/>البائس تصدص قسم من مدرستها لن
             <lb ed="print" edRef="#edition_1" facs="#facs_37_r1l17" n="N017"
           />ععدت نساء أوروبا المطالبات بمساواة الرجال في الحقوق السياسية موتماراً
             <lb ed="print" edRef="#edition_1" facs="#facs_37_r1l18" n="N018"
@@ -4529,25 +4532,26 @@
           />أن تكتب تماء الذهب وكانت ولا تزال مؤيد لطفها مكانة العقائد وتابلف
             <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l12" n="N012"
           />إيماتها شدة الحجودة ولكم من مذهب ما عاش لولاها ومن عقبا ددونها لم تكن
-            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l13" n="N013"
-          />قالت مجلة المقتطف تقلاً عن الأمير على أحد علياء الهند وقاتها المشاهد
-            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l14" n="N014"
-          /> ما نجت أحد عن أصا الأديان إلا ورأي أنه عند شوع كل ديانة روحية
-            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l15" n="N015"/>سب الحياة في دويبا
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l13" n="N013"/>قالت <bibl change="#d9e50" resp="#xslt"
+          subtype="journal" type="periodical">مجلة <title change="#d9e50" level="j">المقتطف</title></bibl> تقلاً عن الأمير على أحد علياء الهند وقاتها المشاهد
             <lb ed="print"
-          edRef="#edition_1" facs="#facs_50_r1l16" n="N016"/>وقد عرف الباحثون هذا الأمر وتأكدود ولم يبى مجال للريب فيه
-            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l17" n="N017"
-          />وصفحات التاريح مصوحة للاحقين وهي وإن قصرت أحياناً عن ذكر ذلك
-            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l18" n="N018"/>ص المعيها أباها
+          edRef="#edition_1" facs="#facs_50_r1l14" n="N014"/> ما نجت أحد عن أصا الأديان إلا ورأي أنه عند شوع كل ديانة روحية
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l15" n="N015"
+          />سب الحياة في دويبا
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l16" n="N016"/>وقد عرف الباحثون هذا الأمر وتأكدود ولم يبى مجال للريب فيه
             <lb ed="print"
-          edRef="#edition_1" facs="#facs_50_r1l19" n="N019"/>تصريحاً وأوجزت إرضاحاً فكادت تلتمس الحقائق علم
-            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l20" n="N020"
-          />علم
-            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l21" n="N021"/>وتنتقلص أمامهم ظلال عمتها فيتوهمون خلاف ما يكون إلا انها معوضة تلعجاً
-            <lb ed="print"
-          edRef="#edition_1" facs="#facs_50_r1l22" n="N022"/>وه سهبة دلائل والتلميح والاستدلال كثيراً ما يعتنان عن التصريح والتسان
-            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l23"
-          n="N023"/>فقد استدلينا على أهمية تأثير المرأة في الدين وعظم خدمتها له عند أقدمين من
+          edRef="#edition_1" facs="#facs_50_r1l17" n="N017"/>وصفحات التاريح مصوحة للاحقين وهي وإن قصرت أحياناً عن ذكر ذلك
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l18" n="N018"
+          />ص المعيها أباها
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l19" n="N019"/>تصريحاً وأوجزت إرضاحاً فكادت تلتمس الحقائق علم
+            <lb ed="print" edRef="#edition_1"
+          facs="#facs_50_r1l20" n="N020"/>علم
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l21" n="N021"
+          />وتنتقلص أمامهم ظلال عمتها فيتوهمون خلاف ما يكون إلا انها معوضة تلعجاً
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l22" n="N022"
+          />وه سهبة دلائل والتلميح والاستدلال كثيراً ما يعتنان عن التصريح والتسان
+            <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l23" n="N023"
+          />فقد استدلينا على أهمية تأثير المرأة في الدين وعظم خدمتها له عند أقدمين من
             <lb ed="print" edRef="#edition_1" facs="#facs_50_r1l24" n="N024"
           />تأليههم لها واتخاذهم إياها معبوده وإقامتها كاهن لمعبود واعتبارها نسَّة ووسيط</ab>
       </div>
